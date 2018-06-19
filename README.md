@@ -116,7 +116,7 @@ This commands reports Top-10 accuracy and MRR@10 of code segment retrieval by NL
 Q.6: How much improvements can be made over traditional web/code search engines' performance?
 =============================================================================================
 
-**java -jar nlp2api-runner.jar -K 10 -task evaluate-se -se google **
+**java -jar nlp2api-runner.jar -K 10 -task evaluate-se -se google**
 
 This command reports Google's Top-10 performance with NL queries, and subsequent improvements using our reformulated queries.
 Possible se values are: "google","stackoverflow" and "github"
