@@ -2,6 +2,15 @@
 
 ICSME 2018 Paper: **Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics**
 
+
+Download Link:
+=================
+- You can download from Google drive: https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-
+- You can clone the replication package from GitHub Repository: https://github.com/masud-technope/NLP2API-Replication-Package.git
+  using the following command
+  git clone https://github.com/masud-technope/NLP2API-Replication-Package.git YOUR-HOME-DIR
+
+
 Materials Included (19):
 ========================
 
@@ -18,7 +27,9 @@ Materials Included (19):
 
 - **scripts** : It contains batch script to access fastText model
 - **fastText.7z** : It contains our trained skip-gram model and fastText tool.
-(You need to unzip this file and make sure the **fasttext** command is working. More details on this tool's dependencis can be found here: https://fasttext.cc/docs/en/support.html)
+(You need to unzip this file and make sure the **fasttext** command is working on your platform. 
+  More details on this tool's dependencis can be found here: https://fasttext.cc/docs/en/support.html
+  Our model was developed using Windows version of the tool)
   
 - **NL-Query+GroundTruth** : It contains NL query and ground truth API classes (i.e., the order is important)
 - **NLP2API-Results-Borda** :  It contains NL query and suggested API classes (Borda)
@@ -39,6 +50,7 @@ System Requirements:
 - Tool was developed on Windows 10
 - The path to the directory containing NLP2API materials should not contain any *space* characters.
 - Every compressed file should be de-compressed in the same directory. For example, dataset/answer-ext.7z should be dataset/answer-ext.
+- Make sure that fastText is working on your platform. To check, go to /fastText directory and execute "fasttext" on the command line.
 
 
 Available Operations:
