@@ -2,6 +2,14 @@
 Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics
 =========================================================================================
 
+Download Link:
+=================
+- You can download from Google drive: https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-
+- You can clone the replication package from GitHub Repository: https://github.com/masud-technope/NLP2API-Replication-Package.git
+  using the following command
+  git clone https://github.com/masud-technope/NLP2API-Replication-Package.git YOUR-HOME-DIR
+
+
 Materials Included (19):
 ========================
 
