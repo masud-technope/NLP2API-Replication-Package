@@ -1,0 +1,11 @@
+1	https://github.com/google/gapid/blob/d7d5214e5489d6814ab99e879463293bed6f6c36/gapic/src/main/com/google/gapid/widgets/ImagePanel.java
+2	https://github.com/apache/cocoon/blob/1486f7c8dc47d734c48651471dede0452338b936/src/blocks/captcha/java/org/apache/cocoon/reading/CaptchaReader.java
+3	https://github.com/eclipse/efxclipse/blob/1645083f67aabf9195ec822221706adffb025dcc/experimental/swt/org.eclipse.fx.runtime.swt/src/org/eclipse/swt/SWT.java
+4	https://github.com/eclipse/efxclipse-rt/blob/67dcce6546624ac4f85f9b887a54de4cff225f59/experimental/swt/org.eclipse.fx.runtime.swt/src/org/eclipse/swt/SWT.java
+5	https://github.com/eclipse/rap/blob/6e2768affd3cb5c4a6953f4b8e27d7453dddc391/bundles/org.eclipse.rap.rwt/src/org/eclipse/swt/SWT.java
+6	https://github.com/eclipse/eclipse.platform.swt/blob/ddedf897614a02d30597f85d9cf8131b465864fc/bundles/org.eclipse.swt/Eclipse%20SWT/common/org/eclipse/swt/SWT.java
+7	https://github.com/eclipse/eclipse.platform.swt/blob/47598b7e6318e7cfae9c33fcf18610194b1c4741/bundles/org.eclipse.swt/Eclipse%20SWT/gtk/org/eclipse/swt/widgets/Display.java
+8	https://github.com/eclipse/rap/blob/6e2768affd3cb5c4a6953f4b8e27d7453dddc391/bundles/org.eclipse.rap.rwt/src/org/eclipse/swt/internal/image/JPEGDecoder.java
+9	https://github.com/eclipse/efxclipse-rt/blob/67dcce6546624ac4f85f9b887a54de4cff225f59/experimental/swt/org.eclipse.fx.runtime.swt/src-swt/org/eclipse/swt/internal/image/JPEGDecoder.java
+10	https://github.com/eclipse/efxclipse/blob/1645083f67aabf9195ec822221706adffb025dcc/experimental/swt/org.eclipse.fx.runtime.swt/src-swt/org/eclipse/swt/internal/image/JPEGDecoder.java
+11	https://github.com/eclipse/eclipse.platform.swt/blob/82b8cf40f11f7c0a7dd0bd7e6d9bcc1e41f1c10e/bundles/org.eclipse.swt/Eclipse%20SWT/common/org/eclipse/swt/internal/image/JPEGDecoder.java

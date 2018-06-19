@@ -1,0 +1,12 @@
+1	https://github.com/apache/directory-server/blob/4077a74e6ee878019ab1245fd80718781a37ef40/kerberos-codec/src/main/java/org/apache/directory/server/kerberos/shared/crypto/encryption/DesCbcCrcEncryption.java
+2	https://github.com/apache/lucene-solr/blob/9e1fcb0eb47637082d15700a92e52f0b1c155bc7/lucene/core/src/java/org/apache/lucene/codecs/CodecUtil.java
+3	https://github.com/apache/cassandra/blob/9714a7c817b64a3358f69e536535c756c5c6df48/src/java/org/apache/cassandra/db/streaming/CompressedCassandraStreamReader.java
+4	https://github.com/eclipse/rt.equinox.p2/blob/8d990a7a055c3b929818fb4cb3b8cc5525b75b52/bundles/org.eclipse.equinox.p2.updatesite/src/org/eclipse/equinox/internal/p2/updatesite/UpdateSite.java
+5	https://github.com/apache/commons-compress/blob/2a2f1dc48e22a34ddb72321a4db211da91aa933b/src/main/java/org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.java
+6	https://github.com/apache/flex-sdk/blob/ba414443032b49c45ff11b61db452c8a8f428bd8/modules/compiler/src/java/flex2/compiler/swc/zip/ZipOutputStream.java
+7	https://github.com/apache/flex-whiteboard/blob/d0b48518b949f10309d29b8609930431b1fc3dac/cframpton/trunk/modules/compiler/src/java/flex2/compiler/swc/zip/ZipOutputStream.java
+8	https://github.com/apache/flex-whiteboard/blob/d0b48518b949f10309d29b8609930431b1fc3dac/mijordan/branches/a11y/modules/compiler/src/java/flex2/compiler/swc/zip/ZipOutputStream.java
+9	https://github.com/apache/ant/blob/7f1e7628b357082fb1f786d1f58156a336db45e3/src/main/org/apache/tools/zip/ZipOutputStream.java
+10	https://github.com/apache/commons-compress/blob/f35ff5f49f9255f1d0dddbf8aa9d810ce51c7f0a/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
+11	https://github.com/apache/derby/blob/676b961fb7f23fca9eb9ee2ddf56dab7d9402824/java/engine/org/apache/derby/impl/store/raw/data/FileContainer.java
+12	https://github.com/apache/commons-compress/blob/29ce3e0e9ecc31a5c3cecb19246ff978fc7e7c20/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java

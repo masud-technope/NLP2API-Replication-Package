@@ -1,0 +1,11 @@
+1	https://github.com/apache/incubator-weex/blob/702d04c4922105069f537afdb4688f808530994d/android/playground/app/src/main/java_zxing/com/google/zxing/BinaryBitmap.java
+2	https://github.com/apache/poi/blob/a98eaeb917943adcd6bfe04c9e446d59a94f7de2/src/java/org/apache/poi/sl/draw/SLGraphics.java
+3	https://github.com/apache/poi/blob/a98eaeb917943adcd6bfe04c9e446d59a94f7de2/src/scratchpad/src/org/apache/poi/hslf/model/PPGraphics2D.java
+4	https://github.com/apache/flex-sdk/blob/ba414443032b49c45ff11b61db452c8a8f428bd8/modules/thirdparty/batik/sources/org/apache/flex/forks/batik/ext/awt/g2d/AbstractGraphics2D.java
+5	https://github.com/apache/batik/blob/1344bf29541c1dcbfaecc86e41ed688d5ea8be3d/batik-awt-util/src/main/java/org/apache/batik/ext/awt/g2d/AbstractGraphics2D.java
+6	https://github.com/apache/xml-graphics-commons/blob/c56f9f3d08ffe99ce8ede739fe7ac453e00a773f/src/main/java/org/apache/xmlgraphics/java2d/AbstractGraphics2D.java
+7	https://github.com/apache/flex-whiteboard/blob/d0b48518b949f10309d29b8609930431b1fc3dac/mijordan/branches/a11y/modules/thirdparty/batik/sources/org/apache/flex/forks/batik/ext/awt/g2d/AbstractGraphics2D.java
+8	https://github.com/apache/flex-whiteboard/blob/d0b48518b949f10309d29b8609930431b1fc3dac/cframpton/test-branch/modules/thirdparty/batik/sources/org/apache/flex/forks/batik/ext/awt/g2d/AbstractGraphics2D.java
+9	https://github.com/eclipse/dawnsci/blob/26245357408b61bd44838c800afe1cfbbdc98b6a/org.eclipse.dawnsci.analysis.dataset/src/org/eclipse/dawnsci/analysis/dataset/impl/Image.java
+10	https://github.com/eclipse/eclipse.platform.swt/blob/82b8cf40f11f7c0a7dd0bd7e6d9bcc1e41f1c10e/bundles/org.eclipse.swt/Eclipse%20SWT/cairo/org/eclipse/swt/graphics/Path.java
+11	https://github.com/eclipse/birt/blob/07c12f2e93edfcb98717e695460f7d6aa9b083d7/chart/org.eclipse.birt.chart.engine/src/org/eclipse/birt/chart/render/BaseRenderer.java

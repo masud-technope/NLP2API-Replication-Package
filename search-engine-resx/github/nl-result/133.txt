@@ -1,0 +1,5 @@
+1	https://github.com/eclipse/eclipselink.runtime/blob/7f06ac28cd67cd0f9ac3fa4fdec1449bb9db4ff0/foundation/org.eclipse.persistence.core/src/org/eclipse/persistence/mappings/foundation/AbstractDirectMapping.java
+2	https://github.com/apache/commons-math/blob/b645f5d085f121ae82e480491a58a8d7753a34d0/src/main/java/org/apache/commons/math4/ode/nonstiff/DormandPrince853StepInterpolator.java
+3	https://github.com/eclipse/eclipselink.runtime/blob/7f06ac28cd67cd0f9ac3fa4fdec1449bb9db4ff0/foundation/org.eclipse.persistence.core/src/org/eclipse/persistence/internal/sessions/UnitOfWorkImpl.java
+4	https://github.com/apache/poi/blob/e54892912e137bfc0387a46f060178074d11e097/src/java/org/apache/poi/hssf/model/InternalSheet.java
+5	https://github.com/google/j2objc/blob/83510646b345258ab8510ce131d04388286a8d16/jre_emul/android/platform/libcore/luni/src/main/java/java/util/concurrent/ConcurrentHashMap.java

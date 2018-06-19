@@ -1,0 +1,8 @@
+1	https://stackoverflow.com/questions/33190836/luasec-send-email-via-gmail-using-smtp
+2	https://stackoverflow.com/questions/42870202/send-email-via-gmail-smtp-in-rebol-2
+3	https://stackoverflow.com/questions/2602680/how-to-implement-gmail-oauth-api-to-send-email-especially-via-smtp
+4	https://stackoverflow.com/questions/3061338/how-to-retrieve-email-from-gmail-account-using-php
+5	https://stackoverflow.com/questions/28082367/using-imap-pop-under-php-on-wamp-server-2-4
+6	https://stackoverflow.com/questions/2854454/how-do-i-send-an-email-with-embedded-images-and-regular-attachments-in-javamail
+7	https://stackoverflow.com/questions/30185611/phpmailer-smtp-gmail-authentification-error
+8	https://stackoverflow.com/questions/33004590/sending-and-receiving-mail-to-ms-exchange-via-smtpclient

@@ -1,0 +1,2 @@
+1	https://stackoverflow.com/questions/30828192/spring-security-sessionregistry-java-config-only
+2	https://stackoverflow.com/questions/26123497/java-8-default-methods-for-equals-and-hashcode

@@ -1,0 +1,1 @@
+1	https://stackoverflow.com/questions/25049287/how-can-add-specific-relationship-or-query-types-as-an-attribute-on-a-bookshelf

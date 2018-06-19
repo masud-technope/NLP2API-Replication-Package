@@ -1,0 +1,3 @@
+1	https://github.com/apache/hadoop/blob/49712766314932997af4135e12f20aa05dad58c6/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FileSystem.java
+2	https://github.com/apache/hadoop/blob/55c77bf722f2b6fcde135c0f71454647a8d2a3db/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/protocol/ClientProtocol.java
+3	https://github.com/apache/hive/blob/26420000c472100bde3778754dfb3f3f66d75a49/common/src/java/org/apache/hadoop/hive/conf/HiveConf.java

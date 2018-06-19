@@ -1,0 +1,2 @@
+1	https://stackoverflow.com/questions/9227270/possible-to-layer-imageicons
+2	https://stackoverflow.com/questions/36936466/i-try-to-use-the-method-repaint-after-paintcomponent-but-its-not-work

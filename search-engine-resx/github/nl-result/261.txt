@@ -1,0 +1,15 @@
+1	https://github.com/apache/beam/blob/d7bee8cf41dcc35f70135bd5baab25a6beaeaaca/sdks/java/core/src/main/java/org/apache/beam/sdk/util/ZipFiles.java
+2	https://github.com/apache/uima-uimaj/blob/40c4aefb9c7e7cd0234e6bbc76e8f960ec8d7e7d/uimaj-core/src/main/java/org/apache/uima/pear/util/FileUtil.java
+3	https://github.com/eclipse/org.aspectj/blob/6d6738cfece6328027916681e67e54225531db38/util/src/org/aspectj/util/FileUtil.java
+4	https://github.com/apache/commons-io/blob/f0751b65cf680456557aa1bf5c56b12f5c1a0fe0/src/main/java/org/apache/commons/io/FileUtils.java
+5	https://github.com/eclipse/jgit/blob/f9a4112ecc63bc37562a36c7e06947593b90657e/org.eclipse.jgit/src/org/eclipse/jgit/api/ArchiveCommand.java
+6	https://github.com/eclipse/hudson.core/blob/9d5765e023df6f968ac47e668e65cffa2683d447/hudson-core/src/main/java/hudson/FilePath.java
+7	https://github.com/apache/felix/blob/a4755e768329a29252b1d7d8e52537941768606d/framework/src/main/java/org/osgi/framework/Bundle.java
+8	https://github.com/apache/felix/blob/60eb6cdff2eb4c4e25e0ba1c4292fec97a8fb483/osgi-r7/framework/src/main/java/org/osgi/framework/Bundle.java
+9	https://github.com/eclipse/rt.equinox.framework/blob/40b6fcec3631651554c6f8a02df558995460d3df/bundles/org.eclipse.osgi/osgi/src/org/osgi/framework/Bundle.java
+10	https://github.com/eclipse/concierge/blob/c532859f084510b8c6a50c9543ef7e77ff8e2016/framework/org.eclipse.concierge/src/org/osgi/framework/Bundle.java
+11	https://github.com/apache/river/blob/ee1158f4800e961001dd60b0fe4af9aa3ad7de72/src/com/sun/jini/tool/PreferredListGen.java
+12	https://github.com/eclipse/org.aspectj/blob/37814d4d64f187c60ee7996af4a0186c2303bf80/weaver/src/org/aspectj/weaver/bcel/BcelWeaver.java
+13	https://github.com/apache/incubator-netbeans/blob/15bc442a91fa2be81488725b15c61386bf1d0b9b/openide.filesystems/src/org/openide/filesystems/FileUtil.java
+14	https://github.com/apache/tomcat55/blob/238168ffd2f5495e20e160991ac847ffbdc09fd8/container/catalina/src/share/org/apache/catalina/loader/WebappClassLoader.java
+15	https://github.com/apache/tomcat70/blob/f23edc8cad070d2a6f500f4c279774551b29be5b/java/org/apache/catalina/loader/WebappClassLoaderBase.java

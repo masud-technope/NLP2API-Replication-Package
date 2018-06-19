@@ -1,0 +1,11 @@
+1	https://github.com/eclipse/nebula/blob/e495a9cfce9acbce34cc21a50ee1ce19fd031108/widgets/ganttchart/org.eclipse.nebula.widgets.ganttchart/src/org/eclipse/nebula/widgets/ganttchart/GanttComposite.java
+2	https://github.com/eclipse/efxclipse/blob/1645083f67aabf9195ec822221706adffb025dcc/experimental/swt/org.eclipse.fx.runtime.swt/src/org/eclipse/swt/SWT.java
+3	https://github.com/eclipse/efxclipse-rt/blob/67dcce6546624ac4f85f9b887a54de4cff225f59/experimental/swt/org.eclipse.fx.runtime.swt/src/org/eclipse/swt/SWT.java
+4	https://github.com/eclipse/rap/blob/6e2768affd3cb5c4a6953f4b8e27d7453dddc391/bundles/org.eclipse.rap.rwt/src/org/eclipse/swt/SWT.java
+5	https://github.com/eclipse/eclipse.platform.swt/blob/ddedf897614a02d30597f85d9cf8131b465864fc/bundles/org.eclipse.swt/Eclipse%20SWT/common/org/eclipse/swt/SWT.java
+6	https://github.com/eclipse/nebula/blob/5164981dcbff15b03c8833918d95f4be54fafa82/widgets/grid/org.eclipse.nebula.widgets.grid/src/org/eclipse/nebula/widgets/grid/Grid.java
+7	https://github.com/google/sagetv/blob/a5493996832b7e7aea9094dd3d600824e5041bba/java/sage/ZPseudoComp.java
+8	https://github.com/eclipse/eclipse.platform.swt/blob/84c9e305cb087110cb300a5e58f86583cf80914d/bundles/org.eclipse.swt/Eclipse%20SWT/win32/org/eclipse/swt/widgets/Display.java
+9	https://github.com/eclipse/eclipse.platform.swt/blob/84c9e305cb087110cb300a5e58f86583cf80914d/bundles/org.eclipse.swt/Eclipse%20SWT%20Custom%20Widgets/common/org/eclipse/swt/custom/StyledText.java
+10	https://github.com/eclipse/efxclipse/blob/1645083f67aabf9195ec822221706adffb025dcc/experimental/swt/org.eclipse.fx.runtime.swt/src-styledtext/org/eclipse/swt/custom/StyledText.java
+11	https://github.com/eclipse/efxclipse-rt/blob/67dcce6546624ac4f85f9b887a54de4cff225f59/experimental/swt/org.eclipse.fx.runtime.swt/src-styledtext/org/eclipse/swt/custom/StyledText.java

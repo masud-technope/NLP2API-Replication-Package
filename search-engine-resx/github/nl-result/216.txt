@@ -1,0 +1,6 @@
+1	https://github.com/twitter/cloudhopper-commons/blob/ee2f50168e9b02d6a3d9bd67863beb40d3b7f726/ch-commons-rfs/src/main/java/com/cloudhopper/commons/rfs/provider/FtpRemoteFileSystem.java
+2	https://github.com/apache/hadoop-common/blob/ba438cc13dc7bc1ae27653f9599b0f3e6e7b931e/src/test/org/apache/hadoop/fs/ftp/TestFTPFileSystem.java
+3	https://github.com/apache/maven-wagon/blob/1247688c22984fe40c6e51ce7c05315c33b10769/wagon-providers/wagon-ftp/src/main/java/org/apache/maven/wagon/providers/ftp/FtpWagon.java
+4	https://github.com/apache/nifi/blob/897b8ab601c2c5912163a8fc3c492cfd41d8e129/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/util/FTPTransfer.java
+5	https://github.com/apache/camel/blob/7bf23493d8a0368549028888e75b2b2074c0e5ce/camel-core/src/main/java/org/apache/camel/component/file/GenericFileEndpoint.java
+6	https://github.com/google/sagetv/blob/3e8cece2508275623146bee738d416a9aa8deabf/java/sage/api/Global.java

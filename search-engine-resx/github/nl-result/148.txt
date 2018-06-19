@@ -1,0 +1,8 @@
+1	https://github.com/apache/myfaces-trinidad/blob/6bd79ae3d4e3e0f6824baed5e137e186f3f89cf6/trinidad-impl/src/main/java/org/apache/myfaces/trinidadinternal/util/StateUtils.java
+2	https://github.com/eclipse/scout.rt/blob/3cff449f298bb3b2a75da29ae545a6d479a7ec3c/org.eclipse.scout.rt.platform/src/main/java/org/eclipse/scout/rt/platform/security/ISecurityProvider.java
+3	https://github.com/google/guava/blob/11e5f8ebc8508d8313bde7a421846747ce324034/android/guava/src/com/google/common/hash/Hashing.java
+4	https://github.com/google/guava/blob/11e5f8ebc8508d8313bde7a421846747ce324034/guava/src/com/google/common/hash/Hashing.java
+5	https://github.com/apache/sling-org-apache-sling-auth-form/blob/8282505ce267b57a9d0b594dd1b52c04c5a72791/src/main/java/org/apache/sling/auth/form/impl/TokenStore.java
+6	https://github.com/apache/wss4j/blob/1b6b6f97f84e0c095a7900ffdd48289ddd7deddb/ws-security-common/src/main/java/org/apache/wss4j/common/ConfigurationConstants.java
+7	https://github.com/apache/cloudstack/blob/893a88d225276e45f12f9490e6af2c94a81c2965/test/src-not-used/main/java/com/cloud/test/stress/TestClientWithAPI.java
+8	https://github.com/apache/wss4j/blob/1b6b6f97f84e0c095a7900ffdd48289ddd7deddb/ws-security-dom/src/main/java/org/apache/wss4j/dom/handler/RequestData.java

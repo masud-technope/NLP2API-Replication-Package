@@ -1,0 +1,4 @@
+1	https://stackoverflow.com/questions/5872858/configure-mac-os-x-midi-programatically
+2	https://stackoverflow.com/questions/32774660/how-can-i-play-a-specific-channel-in-a-coremidi-track
+3	https://stackoverflow.com/questions/21806001/ui-processing-causes-audio-glitches-should-audio-play-on-background-thread
+4	https://stackoverflow.com/questions/4966124/fft-inaccuracy-for-c

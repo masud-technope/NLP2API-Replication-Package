@@ -1,0 +1,14 @@
+1	https://stackoverflow.com/questions/27061999/print-several-bitmapsources-with-different-page-orientations
+2	https://stackoverflow.com/questions/28102141/javafx-8-webengine-print-method-unable-to-print-in-landscape
+3	https://stackoverflow.com/questions/9510852/set-page-orientation-when-printing-from-the-webbrowser-control-in-c-non-wpf-a
+4	https://stackoverflow.com/questions/20678702/print-a4-doc-on-letter-us-size-using-pdfbox
+5	https://stackoverflow.com/questions/40998302/php-print-to-network-printer
+6	https://stackoverflow.com/questions/42484759/how-to-print-out-texts-in-tableview-as-text-data-not-image-data-to-pdf
+7	https://stackoverflow.com/questions/27947869/is-it-possible-to-force-a-page-size-layout-when-printing
+8	https://stackoverflow.com/questions/27785599/unwanted-extra-blank-space-when-printing-onto-continuous-roll-of-paper-using-air
+9	https://stackoverflow.com/questions/48118685/printpreview-in-uwp-displays-half-of-the-mainpage-in-uwp-c
+10	https://stackoverflow.com/questions/9237932/imageview-on-orientation-change-drawable-ignores-setbounds-and-returns-to-orig
+11	https://stackoverflow.com/questions/43998772/e-pdfmanipulationservice-cannot-open-file-java-io-ioexception-not-create-docum
+12	https://stackoverflow.com/questions/36441340/bitmap-to-printerdocument-page-resolution-is-not-matching
+13	https://stackoverflow.com/questions/24016418/nicescroll-bar-does-not-work-well-when-resizing-browser
+14	https://stackoverflow.com/questions/46081608/decoding-json-in-swift

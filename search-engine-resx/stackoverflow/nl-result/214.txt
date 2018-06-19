@@ -1,0 +1,4 @@
+1	https://stackoverflow.com/questions/38735496/wso2-esb-mailtransportlistener-not-receiving
+2	https://stackoverflow.com/questions/29607383/laravel-4-asmallorange-mail-configuration
+3	https://stackoverflow.com/questions/34717298/using-java-mail-to-verify-an-email-with-signature-from-outlook-2013
+4	https://stackoverflow.com/questions/48171367/delayed-outgoing-mail-in-active-queue

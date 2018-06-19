@@ -1,0 +1,13 @@
+1	https://stackoverflow.com/questions/35884426/extract-data-from-salesforce-reports-using-talend
+2	https://stackoverflow.com/questions/10462800/how-to-handle-errors-in-a-trigger
+3	https://stackoverflow.com/questions/35363940/in-doctrine-how-to-achieve-additional-model-functionalities-for-entity
+4	https://stackoverflow.com/questions/30782841/geotools-multipolygon-to-db-and-back
+5	https://stackoverflow.com/questions/36173931/android-online-offline-synchronization-of-large-sqlite-database
+6	https://stackoverflow.com/questions/33385140/get-rows-from-table-b-based-on-duplicates-in-related-table-a-excluding-origi
+7	https://stackoverflow.com/questions/8202929/automapper-vs-mapping-at-runtime-via-config-file-and-reflection
+8	https://stackoverflow.com/questions/7177199/usage-of-a-data-access-layer-dal-in-a-soa-design
+9	https://stackoverflow.com/questions/46610176/the-transaction-associated-with-the-current-connection-has-completed-but-has-not
+10	https://stackoverflow.com/questions/41799669/create-an-entity-by-summarizing-data-in-sqlalchemy
+11	https://stackoverflow.com/questions/25776390/spring-boot-equivalent-to-xml-multi-database-configuration
+12	https://stackoverflow.com/questions/12183540/how-to-store-metadata-about-the-table
+13	https://stackoverflow.com/questions/40624166/file-formats-in-apache-hive

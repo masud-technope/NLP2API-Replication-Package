@@ -1,0 +1,3 @@
+1	https://github.com/apache/incubator-netbeans/blob/15bc442a91fa2be81488725b15c61386bf1d0b9b/lib.terminalemulator/src/org/netbeans/lib/terminalemulator/Term.java
+2	https://github.com/apache/kudu/blob/311755895e48a5d52b9f398c8b89847aa808fa19/java/kudu-client-tools/src/main/java/org/apache/kudu/mapreduce/tools/IntegrationTestBigLinkedList.java
+3	https://github.com/eclipse/emf/blob/a885d4184ed61f194f0c9ff0f52d819707690c5b/plugins/org.eclipse.emf.edit.ui/src/org/eclipse/emf/edit/ui/util/FindAndReplaceTarget.java

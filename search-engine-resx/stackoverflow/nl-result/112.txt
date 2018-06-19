@@ -1,0 +1,9 @@
+1	https://stackoverflow.com/questions/2866523/how-to-set-affinetransform-to-rotate-instead-of-shear
+2	https://stackoverflow.com/questions/42314174/get-the-bounding-box-of-a-sheared-and-rotated-rectangle
+3	https://stackoverflow.com/questions/30991465/swap-frames-on-matlab
+4	https://stackoverflow.com/questions/39780212/finding-outlines-of-a-complex-shape-large-dataset-visualization-methods
+5	https://stackoverflow.com/questions/14322079/cumulative-scaling-of-graphics-for-animation
+6	https://stackoverflow.com/questions/46397223/pixel-overlap-creating-black-spot-python
+7	https://stackoverflow.com/questions/25138357/affine-transformation-rescaling
+8	https://stackoverflow.com/questions/24669814/can-this-line-drawing-algorithm-be-optimized-sdl
+9	https://stackoverflow.com/questions/23225667/3d-rotation-code-isnt-working-properly

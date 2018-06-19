@@ -1,0 +1,11 @@
+1	https://stackoverflow.com/questions/44290369/how-can-i-prevent-a-large-and-frequent-ftp-download-from-ruining-my-entire-inter
+2	https://stackoverflow.com/questions/18571184/downloading-a-directory-subdirectory-from-the-ftp-server-to-ios-application-fold
+3	https://stackoverflow.com/questions/20336748/move-file-within-ftp-server-using-shell-script
+4	https://stackoverflow.com/questions/4179562/file-transactions-issue-storing-where-each-file-come-from
+5	https://stackoverflow.com/questions/16444488/using-afnetworking-with-authentication-fails-with-correct-credentials
+6	https://stackoverflow.com/questions/39147396/how-to-create-a-very-specific-zip-file-structure-using-java
+7	https://stackoverflow.com/questions/7179336/automation-of-task-which-envolve-exes
+8	https://stackoverflow.com/questions/18489317/design-c-and-quartz-net-for-a-new-project
+9	https://stackoverflow.com/questions/16684795/how-to-load-common-javascript-files-in-development-and-on-web-server-not-using-r
+10	https://stackoverflow.com/questions/34083898/prestashop-database-error
+11	https://stackoverflow.com/questions/29769675/issues-upgrading-concrete5-from-5-5-2-1-to-5-6-x

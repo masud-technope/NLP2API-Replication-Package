@@ -1,0 +1,7 @@
+1	https://stackoverflow.com/questions/13703862/how-to-insert-an-element-in-a-sorted-array-so-the-the-array-remains-sorted
+2	https://stackoverflow.com/questions/33477280/c-shifting-the-elements-of-a-2d-array-by-1-in-order-to-insert-into-the-positi
+3	https://stackoverflow.com/questions/14568631/questions-about-implementing-my-own-hashmap-in-java
+4	https://stackoverflow.com/questions/10551808/data-structure-for-olog-n-find-and-update-considering-small-l1-cache
+5	https://stackoverflow.com/questions/29512871/fibonacci-heap-implementation-is-not-working
+6	https://stackoverflow.com/questions/19971242/sql-what-is-a-value
+7	https://stackoverflow.com/questions/44027142/my-project-doesnt-switch-between-two-different-tracking-algorithms

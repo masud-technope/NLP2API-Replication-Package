@@ -1,0 +1,1 @@
+1	https://github.com/apache/hive/blob/26420000c472100bde3778754dfb3f3f66d75a49/common/src/java/org/apache/hadoop/hive/conf/HiveConf.java

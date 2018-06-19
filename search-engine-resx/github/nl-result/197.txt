@@ -1,0 +1,6 @@
+1	https://github.com/eclipse/ice/blob/0bb4f238395bc55779d358abed1558e4ddf1093f/org.eclipse.ice.item/src/org/eclipse/ice/item/action/LocalExecutionAction.java
+2	https://github.com/eclipse/ice/blob/76a043f561170a9f0773a5551e67eee3728b86af/org.eclipse.ice.item/src/org/eclipse/ice/item/action/RemoteExecutionAction.java
+3	https://github.com/eclipse/titan.EclipsePlug-ins/blob/e927b8a69e39402580000a0dc62bd1da28475984/org.eclipse.titan.designer/src/org/eclipse/titan/designer/core/TITANJob.java
+4	https://github.com/eclipse/ice/blob/76a043f561170a9f0773a5551e67eee3728b86af/org.eclipse.ice.item/src/org/eclipse/ice/item/action/JobLaunchAction.java
+5	https://github.com/apache/hadoop/blob/2e0a451a8dd64ccd7199b2b435e1b6c704a9d3ae/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/Shell.java
+6	https://github.com/apache/geode/blob/8e8ec93d516b76d4fb559ab91c0a5762708d1789/geode-core/src/main/java/org/apache/geode/management/internal/cli/i18n/CliStrings.java

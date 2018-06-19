@@ -1,0 +1,1 @@
+1	https://stackoverflow.com/questions/26943931/how-do-i-convert-a-raw-load-string-to-a-dns-layer-using-python-and-scapy

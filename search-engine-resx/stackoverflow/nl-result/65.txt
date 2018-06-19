@@ -1,0 +1,11 @@
+1	https://stackoverflow.com/questions/23386091/save-excel-document-apache-poi
+2	https://stackoverflow.com/questions/5889639/apache-poi-copying-sheets
+3	https://stackoverflow.com/questions/45381336/how-to-save-a-java-object-created-from-an-representative-annotation-based-docum
+4	https://stackoverflow.com/questions/39833488/converting-an-excel-file-string-to-imaginary-excel-file
+5	https://stackoverflow.com/questions/43788738/apache-poi-crashes-in-tomcat-but-not-in-ide
+6	https://stackoverflow.com/questions/38470735/how-do-you-sort-pivot-table-data-using-the-apache-poi-library-in-java
+7	https://stackoverflow.com/questions/47509676/how-to-create-preview-image-from-microsoft-document-using-java
+8	https://stackoverflow.com/questions/36394666/what-are-some-libraries-ways-of-manipulating-msword-formats-in-android
+9	https://stackoverflow.com/questions/44840983/npoi-does-not-preserve-macro-on-copy
+10	https://stackoverflow.com/questions/9183211/netbeans-plugin-works-perfectly-while-debugging-but-not-working-when-the-plugin
+11	https://stackoverflow.com/questions/36648901/cannot-trigger-pivot-table-calculation-on-xlsx-generation

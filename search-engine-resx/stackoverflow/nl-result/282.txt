@@ -1,0 +1,15 @@
+1	https://stackoverflow.com/questions/6295084/cut-out-image-in-shape-of-text
+2	https://stackoverflow.com/questions/8970460/get-outline-of-alphabet-as-path-in-android
+3	https://stackoverflow.com/questions/23090281/does-an-html5-canvas-always-have-to-be-a-rectangle
+4	https://stackoverflow.com/questions/27673119/ios-uiview-subclass-draw-see-through-text-to-background
+5	https://stackoverflow.com/questions/13845958/how-to-get-the-path-coordinates-of-a-shape-for-use-with-image-maps
+6	https://stackoverflow.com/questions/7701448/image-transformation-in-c
+7	https://stackoverflow.com/questions/18810998/rotating-a-div-without-rotating-its-content-using-css3-transformations
+8	https://stackoverflow.com/questions/4425582/extracting-outline-of-thick-line
+9	https://stackoverflow.com/questions/13389038/drag-drop-delete-dynamic-text-on-html-canvas
+10	https://stackoverflow.com/questions/1513411/photo-editing-app-are-these-functions-possible
+11	https://stackoverflow.com/questions/16930074/wpf-image-pan-zoom-and-scroll-with-layers-on-a-canvas
+12	https://stackoverflow.com/questions/9354432/perl-mechanize-how-to-make-a-script-running-faster-with-less-overhead
+13	https://stackoverflow.com/questions/28829348/how-to-insert-text-inside-a-shape-that-i-will-draw-in-java
+14	https://stackoverflow.com/questions/25837744/floating-elements-to-bottom
+15	https://stackoverflow.com/questions/13445799/javascript-not-loading-in-jquery-mobile-pages

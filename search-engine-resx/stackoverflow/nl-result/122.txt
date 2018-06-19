@@ -1,0 +1,1 @@
+1	https://stackoverflow.com/questions/836721/problem-with-fop-image-scaling-in-java

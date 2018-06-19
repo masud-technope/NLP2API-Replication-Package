@@ -1,0 +1,12 @@
+1	https://stackoverflow.com/questions/43099255/decompress-gzip-file-and-store-in-variable
+2	https://stackoverflow.com/questions/48046007/how-to-decompress-a-fluxdatabuffer-and-how-to-write-one
+3	https://stackoverflow.com/questions/25179022/gzipinputstream-read-first-n-bytes-from-decompressed-file
+4	https://stackoverflow.com/questions/9119688/boost-gzip-decompress-byte-array
+5	https://stackoverflow.com/questions/10613996/decompressing-tiled-tmx-file-contents-with-php
+6	https://stackoverflow.com/questions/49454449/java-gzip-makes-small-differences-when-compressing-file-and-decompressing-it-aga
+7	https://stackoverflow.com/questions/41400810/gzipinputstream-closes-prematurely-when-decompressing-httpinputstream
+8	https://stackoverflow.com/questions/30038216/sending-files-over-a-restful-webservice-base64-encoding-and-gzip-compression
+9	https://stackoverflow.com/questions/22827221/league-of-legends-read-chunks-keyframes-through-its-restful-api
+10	https://stackoverflow.com/questions/32479676/is-there-a-better-way-of-achieving-a-worthwhile-amount-of-compression-on-a-java
+11	https://stackoverflow.com/questions/28664363/jquery-dynamic-generation-of-tables-performance-issues-string-compression
+12	https://stackoverflow.com/questions/13132136/java-multithreaded-compression-with-deflater

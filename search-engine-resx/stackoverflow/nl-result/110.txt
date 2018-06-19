@@ -1,0 +1,2 @@
+1	https://stackoverflow.com/questions/5317172/how-to-use-hashmap-properties-with-jaxb
+2	https://stackoverflow.com/questions/20051220/java-util-map-hashmap-jaxb-to-json-with-jackson-com-fasterxml-jackson-databi

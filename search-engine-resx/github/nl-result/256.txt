@@ -1,0 +1,10 @@
+1	https://github.com/google/windowtester/blob/c4febd2b11eff011ffe1cecc165c22661fa5b62e/com.windowtester.swt.runtime/src/com/windowtester/runtime/swt/internal/drivers/MenuDriver.java
+2	https://github.com/apache/incubator-taverna-workbench/blob/4e3849dd91fa0444dc6db97f2f3a24e689d5f683/taverna-graph-model/src/main/java/org/apache/taverna/workbench/models/graph/DefaultGraphEventManager.java
+3	https://github.com/eclipse/eclipse.platform.ui/blob/953ef4506e8fd564267bb6c2aeb0439e17088f9e/bundles/org.eclipse.e4.ui.workbench.renderers.swt/src/org/eclipse/e4/ui/workbench/renderers/swt/MenuManagerRenderer.java
+4	https://github.com/eclipse/eclipse.platform.ui/blob/d2ed5a1b088cde9053619d75c39d6bab99dc6418/bundles/org.eclipse.ui.navigator/src/org/eclipse/ui/navigator/NavigatorActionService.java
+5	https://github.com/apache/incubator-taverna-workbench/blob/4e3849dd91fa0444dc6db97f2f3a24e689d5f683/taverna-workflow-explorer/src/main/java/org/apache/taverna/workbench/ui/workflowexplorer/WorkflowExplorer.java
+6	https://github.com/apache/incubator-netbeans/blob/15bc442a91fa2be81488725b15c61386bf1d0b9b/openide.explorer/src/org/openide/explorer/view/OutlineView.java
+7	https://github.com/eclipse/eclipse.platform.swt/blob/84c9e305cb087110cb300a5e58f86583cf80914d/bundles/org.eclipse.swt/Eclipse%20SWT/win32/org/eclipse/swt/widgets/Control.java
+8	https://github.com/google/sagetv/blob/9a1d8151855d0f1f631028ac4313205d8ed4ed42/java/sage/SageRenderer.java
+9	https://github.com/eclipse/eclipse.platform.swt/blob/bb1ea18b584ec1a364834b3fa0ae316c1f8453a1/bundles/org.eclipse.swt/Eclipse%20SWT/cocoa/org/eclipse/swt/widgets/Control.java
+10	https://github.com/eclipse/eclipse.platform.swt/blob/df0f19367d6a5d86c149931bcaaff8c64002f986/bundles/org.eclipse.swt/Eclipse%20SWT/gtk/org/eclipse/swt/widgets/Control.java

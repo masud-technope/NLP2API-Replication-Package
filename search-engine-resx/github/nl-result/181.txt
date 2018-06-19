@@ -1,0 +1,16 @@
+1	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/util/Locale.java
+2	https://github.com/google/sagetv/blob/5bdb33be5855b28cbee34cd6b6f3d7ac986f8f24/java/sage/epg/sd/SDRipper.java
+3	https://github.com/apache/cocoon/blob/1486f7c8dc47d734c48651471dede0452338b936/src/java/org/apache/cocoon/transformation/I18nTransformer.java
+4	https://github.com/google/j2objc/blob/ba9bd24c7c65ddfaa540e0f834975662874ebc9e/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/cert/X509Certificate.java
+5	https://github.com/apache/freemarker/blob/b7410b92119bcd2bb0dc9280d242f5872c65cca1/src/main/java/freemarker/template/Configuration.java
+6	https://github.com/apache/openoffice/blob/c014b5f2b55cff8d4b0c952d5c16d62ecde09ca1/main/wizards/com/sun/star/wizards/agenda/AgendaTemplate.java
+7	https://github.com/google/j2objc/blob/ba9bd24c7c65ddfaa540e0f834975662874ebc9e/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/cert/X509CRL.java
+8	https://github.com/google/j2objc/blob/167e57c4eed3380a462af11e2dcad428edb975ce/jre_emul/openjdk/src/share/classes/java/text/DecimalFormat.java
+9	https://github.com/apache/derby/blob/676b961fb7f23fca9eb9ee2ddf56dab7d9402824/java/engine/org/apache/derby/impl/services/monitor/BaseMonitor.java
+10	https://github.com/google/desugar_jdk_libs/blob/f92e482fdce79564b75940b784cd90c447e461d9/src/share/classes/java/time/temporal/WeekFields.java
+11	https://github.com/apache/calcite/blob/fb8ebd31526cd2e203fa3526ca8de7a22ee0d139/core/src/test/java/org/apache/calcite/test/JdbcTest.java
+12	https://github.com/apache/openjpa/blob/49c1478cf3f107d9f7069bf2102d8cf0b6ca2b12/openjpa-jdbc/src/main/java/org/apache/openjpa/jdbc/sql/DBDictionary.java
+13	https://github.com/apache/derby/blob/4da5b2db5f3a60c1fa8ef616d88a7efe28b0c9de/java/drda/org/apache/derby/impl/drda/NetworkServerControlImpl.java
+14	https://github.com/apache/ofbiz-framework/blob/34068df6a67251590b9e650f431ce4251ad8fc97/applications/product/src/main/java/org/apache/ofbiz/shipment/thirdparty/ups/UpsServices.java
+15	https://github.com/apache/ofbiz/blob/7ba7f3c2e16df6c8db0d8114e124957199cea1ff/applications/product/src/main/java/org/apache/ofbiz/shipment/thirdparty/ups/UpsServices.java
+16	https://github.com/apache/marmotta/blob/f7b3350285da38ec70152c3f3393b27d31bf5508/libraries/kiwi/kiwi-triplestore/src/main/java/org/apache/marmotta/kiwi/persistence/KiWiConnection.java

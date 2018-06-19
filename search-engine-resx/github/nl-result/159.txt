@@ -1,0 +1,7 @@
+1	https://github.com/google/music-synthesizer-for-android/blob/8e7b3f326880737a0803db53c90eeb60ec420739/app/src/main/java/com/levien/synthesizer/android/service/SynthesizerService.java
+2	https://github.com/google/music-synthesizer-for-android/blob/8e7b3f326880737a0803db53c90eeb60ec420739/app/src/main/java/com/levien/synthesizer/android/AndroidGlue.java
+3	https://github.com/google/brailleback/blob/644c97010cf6971fd44d069acd1c3e6ffd2d2c4f/braille/libraries/utils/src/com/googlecode/eyesfree/utils/MidiUtils.java
+4	https://github.com/google/brailleback/blob/644c97010cf6971fd44d069acd1c3e6ffd2d2c4f/braille/libraries/utils/src/com/googlecode/eyesfree/utils/FeedbackController.java
+5	https://github.com/apache/ant/blob/e843dd287f13bc9e87b1af1201d2e557fdcc1897/src/main/org/apache/tools/ant/taskdefs/optional/sound/SoundTask.java
+6	https://github.com/apache/myfaces-trinidad/blob/6bd79ae3d4e3e0f6824baed5e137e186f3f89cf6/trinidad-impl/src/main/java/org/apache/myfaces/trinidadinternal/renderkit/core/xhtml/MediaRenderer.java
+7	https://github.com/facebook/pfff/blob/ba77d861f2ec15ba74f5bdeaf2d0941995653454/data/java_stdlib/android/android.media.java

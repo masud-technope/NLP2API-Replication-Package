@@ -1,0 +1,11 @@
+1	https://stackoverflow.com/questions/33155872/python-logging-print-accurrate-info-from-custom-log-level
+2	https://stackoverflow.com/questions/2235560/how-do-i-write-a-logger-class-with-cout-style-interface-logger-error
+3	https://stackoverflow.com/questions/39017494/create-your-own-winston-logger-files
+4	https://stackoverflow.com/questions/43144955/custom-variable-field-to-python-log-record
+5	https://stackoverflow.com/questions/44165098/python-logging-custom-formatter-in-json-config-does-not-work
+6	https://stackoverflow.com/questions/43215420/rails-logger-mystic-behavior
+7	https://stackoverflow.com/questions/24225374/how-do-you-create-a-basic-templateinfo-plist-file-with-ancestors-and-specific-fr
+8	https://stackoverflow.com/questions/43987624/how-to-add-custom-data-in-python-logs
+9	https://stackoverflow.com/questions/8763800/web-services-client-application
+10	https://stackoverflow.com/questions/6592561/how-to-add-contextual-information-to-log-lines-from-multiprocessing-workers
+11	https://stackoverflow.com/questions/11359187/why-not-use-java-util-logging

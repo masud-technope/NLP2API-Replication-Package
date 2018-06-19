@@ -1,0 +1,15 @@
+1	https://github.com/apache/manifoldcf/blob/335112ff601e50d27f4ac739dceb82ee7251a13a/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/ScriptParser.java
+2	https://github.com/eclipse/birt/blob/6675ac4c5f3a5c0f27834c8e51bbf2d2ee38673e/engine/org.eclipse.birt.report.engine/src/org/eclipse/birt/report/engine/executor/ExecutionContext.java
+3	https://github.com/apache/commons-bsf/blob/f8eeaf2f8dd69e49b094b16b5c4d660c40f6be74/src/main/java/org/apache/bsf/engines/java/JavaEngine.java
+4	https://github.com/apache/groovy/blob/3edec28ff5f22c5cb938dc4fbeeb25f599d2c238/src/main/groovy/groovy/ui/GroovyMain.java
+5	https://github.com/eclipse/eclipse.platform.swt/blob/5ef2d9520a5705bf1ba0faeb74ef5cffb1b9bcc7/tests/org.eclipse.swt.tests/JUnit%20Tests/org/eclipse/swt/tests/junit/Test_org_eclipse_swt_browser_Browser.java
+6	https://github.com/eclipse/eclipse.platform.swt/blob/36eb2c47c4f3ac5915c9cf36797c1bb1b3025bde/bundles/org.eclipse.swt/Eclipse%20SWT%20WebKit/gtk/org/eclipse/swt/browser/WebKit.java
+7	https://github.com/apache/flex-whiteboard/blob/d0b48518b949f10309d29b8609930431b1fc3dac/mijordan/branches/a11y/modules/debugger/src/java/flex/tools/debugger/cli/DebugCLI.java
+8	https://github.com/apache/flex-whiteboard/blob/d0b48518b949f10309d29b8609930431b1fc3dac/rduartes/modules/debugger/src/java/flex/tools/debugger/cli/DebugCLI.java
+9	https://github.com/apache/flex-whiteboard/blob/d0b48518b949f10309d29b8609930431b1fc3dac/cframpton/trunk/modules/debugger/src/java/flex/tools/debugger/cli/DebugCLI.java
+10	https://github.com/apache/flex-whiteboard/blob/d0b48518b949f10309d29b8609930431b1fc3dac/cframpton/test-branch/modules/debugger/src/java/flex/tools/debugger/cli/DebugCLI.java
+11	https://github.com/apache/royale-compiler/blob/741c8ff3a8795094ad0ac8c6b2016797eb35428f/debugger/src/main/java/royale/tools/debugger/cli/DebugCLI.java
+12	https://github.com/apache/flex-sdk/blob/ba414443032b49c45ff11b61db452c8a8f428bd8/modules/debugger/src/java/flex/tools/debugger/cli/DebugCLI.java
+13	https://github.com/apache/ddlutils/blob/408ed74e935d509e87885e5acfb1b2f1acd02f9c/src/main/java/org/apache/ddlutils/platform/PlatformImplBase.java
+14	https://github.com/eclipse/hudson.core/blob/9d5765e023df6f968ac47e668e65cffa2683d447/hudson-test-framework/src/main/java/org/jvnet/hudson/test/HudsonTestCase.java
+15	https://github.com/apache/royale-compiler/blob/b0c159d1c1fbf35d2245e2c2723a9e94d6090dc9/compiler/src/main/java/org/apache/royale/compiler/internal/as/codegen/MXMLClassDirectiveProcessor.java

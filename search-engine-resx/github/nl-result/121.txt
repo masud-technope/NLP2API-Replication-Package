@@ -1,0 +1,4 @@
+1	https://github.com/apache/tika/blob/48a4ab9849181cfe30acc34701325d3cc4a9431d/tika-parsers/src/test/java/org/apache/tika/parser/pdf/PDFParserTest.java
+2	https://github.com/apache/stanbol/blob/d1500ffba507dce0e43f228342aad97cae7cb0e3/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/nif/Nif20.java
+3	https://github.com/apache/tomee/blob/8fc8d8011c5155e7f47ebc162cb88124bf4ca06e/server/openejb-cxf-rs/src/main/java/org/apache/openejb/server/cxf/rs/CxfRsHttpListener.java
+4	https://github.com/apache/pdfbox/blob/13e3e092dc1f6cecba48f737f94547aa91d7f981/pdfbox/src/main/java/org/apache/pdfbox/rendering/PageDrawer.java

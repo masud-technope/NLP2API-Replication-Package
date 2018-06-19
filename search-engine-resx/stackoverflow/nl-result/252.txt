@@ -1,0 +1,11 @@
+1	https://stackoverflow.com/questions/31198633/issue-in-title-border-of-a-jpanel
+2	https://stackoverflow.com/questions/22747023/debugging-code-i-have-with-2-classes-and-a-jframe-that-holds-4-jpanels
+3	https://stackoverflow.com/questions/37207631/adding-a-canvas-to-a-panel-doesnt-show-the-canvas
+4	https://stackoverflow.com/questions/2070001/borders-in-java
+5	https://stackoverflow.com/questions/42527569/components-not-displaying-in-jscrollpane
+6	https://stackoverflow.com/questions/12838978/how-to-surround-java-swing-components-with-border
+7	https://stackoverflow.com/questions/7514323/java-how-to-draw-graphic-object
+8	https://stackoverflow.com/questions/23718124/moving-data-between-classes-with-get-and-set
+9	https://stackoverflow.com/questions/12123976/gradient-textfields-in-panel-with-titledborder-performance-issue
+10	https://stackoverflow.com/questions/23604846/action-listener-help-across-panels
+11	https://stackoverflow.com/questions/31879498/why-do-i-get-and-how-to-fix-it

@@ -1,0 +1,14 @@
+1	https://stackoverflow.com/questions/18954116/html5-drag-and-drop-path-on-canvas-without-js-library
+2	https://stackoverflow.com/questions/19354602/kineticjs-drawing-shapes-with-drag-drop
+3	https://stackoverflow.com/questions/10695881/how-to-revert-draggable-back-to-original-position
+4	https://stackoverflow.com/questions/35786299/how-to-prevent-polymer-scrolling-page-on-touch-screen-during-touch-drag-and-drop
+5	https://stackoverflow.com/questions/11583188/adding-an-event-to-silverlight-shape-in-a-separate-class
+6	https://stackoverflow.com/questions/46664028/how-to-change-parent-of-mxcell
+7	https://stackoverflow.com/questions/17360447/mouse-events-on-a-cairo-context
+8	https://stackoverflow.com/questions/39090486/kineticjs-swapping-shape-positions-upon-contact-mousemove-trigger
+9	https://stackoverflow.com/questions/21100667/how-to-handle-workaround-focus-stealing-custom-listboxitems-that-host-their-own
+10	https://stackoverflow.com/questions/15607201/looking-for-details-about-event-triggering-on-kineticjs-with-groups-and-its-chil
+11	https://stackoverflow.com/questions/5299652/creating-a-class-for-storing-extra-information-and-linking-it-to-a-host-class
+12	https://stackoverflow.com/questions/40995642/synergy-connection-timeout-mac-client-windows-10-server
+13	https://stackoverflow.com/questions/32922525/need-to-add-circle-on-button-click-and-add-it-to-the-scribblepane
+14	https://stackoverflow.com/questions/13041516/kineticjs-click-detection-inside-animated-shapes

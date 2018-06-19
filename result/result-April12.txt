@@ -1,0 +1,620 @@
+How can I insert an element in array at a given position?
+ArrayList FlattenedElement Element Audi String System Position HighArray Arrays Insert
+How do I compress or zip a directory recursively?
+ZipOutputStream ZipEntry Compress String File IOException Surya System TFile FileInputStream
+How do I decompress a GZip file in Java?
+GZIPInputStream Decompress GZIPOutputStream String System MemoryStream ByteArrayOutputStream ByteArrayInputStream IOException GZipStream
+How do I compress a file in GZip format?
+GZIPOutputStream Compress String GZIPInputStream IfModule ByteArrayOutputStream Surya IOException GZipStream MemoryStream
+How do I use PriorityBlockingQueue class?
+PriorityBlockingQueue BlockingQueue Runnable ThreadPoolExecutor Acirc MyRunnable Sing System Override FIFOEntry
+How do I parse a text string into date and time?
+Date DateTimeFormatter Acirc String System PrettyDate ZonedDateTime SimpleDateFormat DateTimeParseException ParseException
+How documents are represented in MongoDB Java Driver?
+MongoClient BasicDBObject Document String System ObjectId Phaser DBCollection WriteModel Pottery
+How do I connect to a MongoDB Database?
+MongoClient DBCollection Document String Mongo System BasicDBObject Exception DBTCPConnector Person
+How do I send an HTML email?
+HtmlEmail SendGrid InternetAddress String Email System MimeMessage TemplateResolver Content EmailAttachment
+How do I read last n characters from a file?
+BufferedReader Acirc Atilde FileReader String System Scanner FileInputStream InputStreamReader Reader
+Creating MySql database programatically in Java
+DriverManager String System SQLException Connection Driver PdfStamper AcroFields Statement PdfReader
+Generating MD5 digest from File or InputStream object
+MessageDigest String DigestInputStream DigestStudents OutputStreamWithZipMd InputStream IOException File System FileInputStream
+How do I calculate the MD5 digest of a string?
+MessageDigest NoSuchAlgorithmException DigestInputStream String System DigestUtils Acirc Date BigInteger Digest
+How do I clone an array variable?
+ArrayList Arrays System Object String OrigArray Cloneable List Sand OriginalArrayOfNode
+How to implement the hashCode and equals method using Apache Commons?
+HashCodeBuilder EqualsBuilder Object SimpleBlock String Override Integer TreeSet Widget Objects
+How to establish connection to database with Properties?
+Connection SQLException DriverManager String System RdbmsManager Properties PreparedStatement Configuring Dcom
+How to monitor file or directory changes?
+FileAlterationObserver FileAlterationMonitor String File System WatchEvent Override ScheduledExecutorService Path StandardWatchEventKinds
+How do I move a file in JDK 7?
+Files File String Path MyProject Paths SoftDev StandardCopyOption System Library
+How do I create and delete a file in JDK 7?
+String Java File System StandardOpenOption POITest RunnableInterface JNIEnv ManagementFactory Files
+How to recursively list all text files in a directory?
+FileVisitResult File Path String System Files IOException DirectoryFileFilter FileInfo List
+How to verify digital signature of a signed data?
+Signature String Certificate System SignerInformation XMLSignature ContentInfo AcroFields Collection SignerInfos
+How to create a digital signature and sign data?
+Signature PdfName String Certificate PrivateKey System AuthProvider ExtractSignInfor DottedLineSeparator PdfSignatureAppearance
+How do I generate public and private keys?
+Acirc String System ConstraintViolationException LatLngBounds Override HasType IntTreeNode Cipher CookieFilter
+How do I copy a file in JDK 7?
+Files StandardCopyOption CopyOption Program Free Paths Feel OutputStream String Java
+How do I set the value of file attributes?
+Acirc String Value Index System Date Integer Reviews Entity Praveen
+How do I set file last modified time?
+Date Modified File FileTime Files String System IOException Path HttpServletResponse
+How do I reverse the order of array elements?
+ArrayList Integer Collections Arrays System String List Comparator ArrayDeque Object
+How do I send an Http Post request?
+HttpPost String HttpResponse Content StringEntity PostHandler Send NameValuePair DefaultHttpClient System
+How do I get Http response body as a string?
+String Override System ResponseDesc ResponseBodyAdvice Body XMLStreamWriter StringBody HttpMessageConverter MyServiceResponse
+How do I get entity ContentType in HttpClient?
+ContentType HttpEntity HttpPost StringBody String StringEntity File System HttpResponse Content
+How do I execute Http Get request?
+String HttpUriRequest IOException HttpRequest HttpResponse Exception HttpHost Override AbstractHttpClient DefaultRequestDirector
+How do I get the primary key of any JPA entity?
+PrimaryKeyJoinColumn IdClass OneToOne Entity String ManyToOne Column Serializable AssetType JoinColumn
+How do I delete entity object in JPA?
+Bericht EntityManager Entity CascadeType ExactValueEvent TwoEntity String MyEntity AclIdentity ObjectEntity
+How do I get all available currency codes?
+Currency String Locale System Override Auml CurrencyQuery CurrencyQueryBuilder Aring CurrencyUnit
+How do I get host’s default timezone id?
+Date Europe TimeZone System Asia String Interval DateTimeZone Denver ZoneRules
+How to create an XML file of a POJO using JAXB?
+JAXBContext Marshaller ABWrap String XmlRootElement XmlElement List File EPCISDocumentType System
+How do I compare two dates?
+Date SimpleDateFormat Comparator Calendar DateValidator String CompareDatesValidator System DateFormat DatePicker
+How do I change date formatting symbols?
+Date Acirc DecimalFormat String Locale Icirc System Iuml DecimalFormatSymbols NumberFormat
+How do I retrieve available schemas in database?
+DbExtractor Date String ProductCategoryDatabaseRetrieve Override DatabaseHandler ExtractorThread Database DBManagement DatabaseMetaData
+How do I call a stored procedure that return a result set?
+CallableStatement ResultSet String ResultSetOutput List Connection Types Headquarters SQLException System
+How do I convert raw IP address to String?
+String List ContactsContract Integer Object System ArrayList ContentProviderOperation Override Test
+How do I create port scanner program?
+String System Socket Scanner DatagramPacket IOException Thread ServerSocket UDPThreadServer SerialPort
+How do I get MAC address of a host?
+NetworkInterface InetAddress String CGCentOs System UnknownHostException SocketThread IOException Autoconfiguration Ethernet
+How do I create a client-server socket communication?
+ServerSocket Socket System String ServerConnetionHandler IOException ClientWriter Client Thread ClientListener
+How do I read / download webpage content?
+String URLConnection InputStream System IOException Override Mozilla MyCallbackInterface Content HttpGet
+How do I get IP address of localhost?
+InetAddress Address Sachin String UnknownHostException QrReceiver System MulticastSocket Baggins Entity
+How do I get cryptographic security providers?
+String System Provider Certificate Cipher Lmhve DaoAuthenticationProvider Windows AuthenticationProvider KeyStore
+How do I create an encrypted string for password?
+Cipher SecretKeySpec String System Exception IvParameterSpec Create PBEKeyFactory File Alphabet
+How do I breaks a paragraph into sentences?
+BreakIterator Paragraph String System List CharacterOffsetBeginAnnotation CoreMap Hurrah English InvalidFormatException
+How do I change the date format symbols for a specified locale?
+Locale DecimalFormat DecimalFormatSymbols SimpleDateFormat Date String NumberFormat DateFormatSymbols System Acirc
+How do I change number format symbols?
+DecimalFormat DecimalFormatSymbols Locale NumberFormat String System DateFormatSymbols BorderLayout NativeDecimalFormat LocaleData
+How do I parse a number for a locale?
+NumberFormat Locale ParseException DecimalFormat String System Number Acirc ParsePosition JFormattedTextField
+How do I iterate a subset of a string?
+String Set TreeSet Iterator Value ArrayList Wholelist System Erich Integer
+How do I get attributes of element during SAX parsing?
+SAXException Element DefaultHandler String System ArrayList SAXParserFactory Override Product XMLReader
+How do I get JDBC driver property information?
+DriverManagerDataSource Driver OracleDriver DBOperation String DBOperationBean SQLServerDriver BasicResourcePool SchemaExport ReplicationDriver
+How do I get numeric functions supported by database?
+ArbitraryFunctionData ArbitraryFunction String UnsupportedAttributeTypeException Override System OracleCallableStatement Stations NumericAxis Exception
+How do I get data types supported by database?
+BusSubClass String Override JsonNode DocumentReader QueryParameters DefaultDataTypeFactory Bus SupportedFileTypes NumberVector
+How do I execute stored procedure?
+StoredProcedure CallableStatement SqlParameter String Types SqlOutParameter ParameterMode DataSource ResultSet OracleTypes
+How do I print a file using the default registered application?
+String Application System AppLogger CoursesList Driver FileType SubscriberExceptionHandler Window RowKeyConverterComponentHandler
+How do I turn the Num Lock button on?
+String System Override Thread Runnable PowerManager EVENODDimpl Aring PHilo NumOfDice
+How do I create subscript in iText?
+IntBinarySearcher String RichTextToolbar System SerializationProxy CollegeCourse Create PdfSignatureAppearance Toggle SymbolChoice
+How do I delete file from FTP server?
+FTPFile String File System JMenuItem Exception FTPClient FtpInboundFileSynchronizer InsCnt UpdCnt
+How do I get list of files from FTP server?
+FTPFile FileOutputStream System String FTPClient FtpLoggingFilter FTPReply File FilesOnServer FTPClientConfig
+How do I upload file to FTP server?
+FTPReply FileInputStream String System FTPClient File FTPDataTransferListener InputStream IOException Upload
+How do I create an Excel document using Apache POI?
+HSSFWorkbook Workbook String Sheet CellReference WorkbookFactory File AbstractXlsView HSSFSheet Exception
+Draw a draggable triangle in Java
+Triangle TrianglePanel Polygon Point Sierpinski Graphics String JFrame TriangleFrame Draw
+Take a screenshot and save as image in Java
+BufferedImage Robot File String IOException FullScreenshot Bitmap Rectangle JMenuItem Screenshot
+Load a Resource Bundle
+ResourceBundle ListResourceBundle Locale CodeBundle String DisplayNameProvider JAppFramework Properties ReloadableResourceBundleMessageSource MessageSource
+Instantiate unknown class at runtime and call the object’s methods
+String System CompletableFuture DateTime NewlineNode CachingCallSite Acirc ArrayFilter Printer Unknown
+Invoke methods of an object using reflection
+Object ScheduleParams Method String Dummy DataStoragePicsObj IllegalAccessException Exception TestSubClass DataStoragePics
+List methods of a class using Reflection
+List String ArrayList Object System DbValuesEnumIface Acirc Method IMSSQLStatement TestSubClass
+Redirect Servlet Call to Another URL
+UrlRewriter String Override NormalRule HttpServletRequest HttpServletResponse IOException StartAppAction ServletException CustomRule
+Get and Set Session Variables in a Servlet
+HttpSession HttpServletRequest CustomContext ServletContext CurrentUserBean String HttpServlet MySessionVariable WebServlet WebListener
+Get Request Parameters in a Servlet
+HttpServletRequest ServletRequest String HttpServletRequestWrapper HttpServlet RequestDispatcher HttpServletResponse SmsServlet RequestNotFoundException SuccessController
+Connect to a database and read from table
+ResultSet String GetDatabase DisplayDatabase Connection DefaultTableModel Table Statement ConnectDatabase DBFilename
+creating in-memory lucene index
+IndexSearcher String Field Lucene LifeSupport System Query IndexWriter Document QueryParser
+building lucene search query
+BooleanQuery QueryParser Query String IndexSearcher BooleanClause Field CustomScoreProvider Version MultiTermQuery
+doing lucene search
+IndexSearcher IndexReader FSDirectory FeatureMeta BooleanQuery Query Lucene Version NRTManager IndexWriter
+read JSON data to JSON Object Model
+Object String List JSONObject ObjectMapper IOException System JsonNode Override MapModelResponseList
+how to serialize JSON Object
+Object String Override JsonSerialize ControlTransaction TryToSerialize JsonSerializer JsonProcessingException JsonGenerator MyClass
+execute the test cases using Test runner
+Test String RunWith System Override JUnitCore BaseTest ParentRunner SpringBootApp JUnit
+Java Compare file content
+System File String IOException ItemStreamReader BufferedReader FileUtils RestFn IOControl ItemStreamException
+Java Add comment in XML
+Comment IssueComment String DemoItem File BetaSignup System VisitorStrategy Date SignalComment
+XML How to Add CDATA data
+String System Atilde XMLStreamWriter Example File GTSResponse List Value SvcRsData
+How to Create a Shared File Lock on a File
+FileLock FileChannel OverlappingFileLockException RandomAccessFile SharedFileHandler String IOException File Override StandardOpenOption
+How to Tokenize Java Source Code
+String TokenizeFile Rule StringTokenizer Token List System ArrayList Source StanfordCoreNLPServer
+How to Visit All the Elements in a DOM Document
+Override String Document WrappedNode Element Node System WrappedElement File VariableDeclarationStatement
+XML How to Remove all attributes
+Cat String AttributesImpl VectorNode ElementImpl AutoPilot Payment Animal System Value
+XML How to Fetch data from the Web
+String ModPm Path AngularJsServlet Fetch WebMethod MysqlDb FetchType BlogGadgets FetchServ
+How to Render HTML and save to Image
+BufferedImage ImageSaveOptions String Date Graphics File Color OffScreenRender ColumnObject System
+How to Move image on screen
+MenuScreen ImageView Override MusicManager Color InputHandler GeneralPath BufferedImage Subject OnScreenObject
+How to Load font from ttf file
+BitmapFont Font FreeTypeFontLoaderParameter FreetypeFontLoader Exception String InputStream File Roboto LabelTestFrame
+How to create a server socket
+ServerSocket Socket System Server DataOutputStream IOException SocketServer String RequestProcessor Create
+How to Sort a Map by values
+Comparator Collections Map String Integer Entry HashMap List TreeMap LinkedHashMap
+How to Store properties as XML file
+Properties CountryGeoFilter String FileInputStream IOException TempFile StandardPBEStringEncryptor GeoFilterStore System Date
+Passing Parameters from Java Code to Scripts
+String Action Freek Context DummyWrapperAction ExecutionResponse ScriptFunction Script Dkey Python
+How to Create thumbnail views of images
+StructureImage String ImageIcon Image ImpImage Override ImageView FilmStripItem MediaStore Rendition
+How to Capture image from webcam in java
+BufferedImage System String VideoCapture Mat Webcam JFrame MatOfByte File FrameGrabbingControl
+Java Graphics How to Rotate Shape
+AffineTransform YingYang Color Math Point Graphics Rectangle JFrame DronePilot JPanel
+How to Load an image and write text to it
+BufferedImage LoadImage String File FirstIm IOException Exception ByteArrayOutputStream FileOutputStream PasteImageApplet
+Parsing an XML File Using SAX
+SAXParserFactory SAXException DefaultHandler InputSource System String SchemaFactory SAXParser SimpleErrorHandler SAXParseException
+How to add attribute to an element
+Element String List Example System Attribute ComputationType TheMainElement XMLEvent SomeObjectWithNode
+How to add text node to an element
+Element String NodeList Node TextNode System RegDef List DocumentBuilderFactory Document
+How to create comments node for XML
+NodeList Node DocumentBuilderFactory String Document ListNode Placemark Element System DTMManager
+How to change a specific element using XPath
+Element WebElement System String List XPath NodeList ExpectedConditions XPathExpression Node
+How to use a StAX parser
+XMLInputFactory XMLStreamReader String Inscrito XMLStreamConstants StAXSource XMLStreamWriterImpl UnescapedHtml XMLStreamException LoginItem
+How to serialize JSON Object
+Object String Override JsonSerialize ControlTransaction TryToSerialize JsonSerializer JsonProcessingException JsonGenerator MyClass
+Read JSON Array
+JsonElement String Vins JsonObject PointsHolder JsonNumber Vinno System JsonArray JsonReader
+How to search for HTML/XML comments
+HtmlForm WebClient String System HtmlTextInput HtmlFile ShellScriptFile MySearcher HtmlPage MyBdbSearchAction
+How to use hashmap properties with JAXB
+JAXBContext Marshaller JAXBContextFactory String JAXBContextProperties Map MOXyJsonProvider HashMap XmlRootElement PropertiesMap
+How do I create a web based file upload?
+ServletFileUpload FileItem String File System DiskFileItemFactory Bir DiskFileUpload Create Upload
+How to shear Shape?
+Shape AffineTransform NestingShape Override ShapeCollection String Color Quadrilateral List NestedShape
+How to transform ellipse
+Ellipse AffineTransform TransformingCanvas String Override Color YingYang JFrame DrawEllipses Point
+How to write text onto image
+BufferedImage IIOImage ImageWriter IIOMetadataNode String File Button PNGMetadata ImageWriteParam Write
+How to change text color with CSS for Label?
+VBox Label Scene Application String Stage PseudoClass HBox TableColumn StackPane
+How to draw text content to Image?
+String PDPageContentStream Override Color Graphics Image ImageMap JButton PDPage Bitmap
+Java Mail POP3 Client
+Message System IMAPStore InternetAddress Trash MimeMessage SSLStore MailReceiver String Level
+Java Mail Secure POP3 Client
+InternetAddress Message Session System Trash SSLStore IMAPStore MailReceiver String Level
+Get Email Header
+MimeMessage String NavigationView Email Content InternetAddress System SharedPrefManager RecipientType Date
+Add Extra Page To Existing PDF
+PdfReader PdfStamper PdfContentByte String PdfFileSpecification PdfWriter Paragraph FileOutputStream ColumnText ArticleInList
+Simple Annotations with Another PDF document
+PdfReader PdfName String Document PDDocument System IOException PdfWidgetAnnotation File FileOutputStream
+Adding AWT Image to PDF with Color
+String Image BufferedImage PdfContentByte ImageParam File BaseColor PdfWriter Color Rectangle
+Adding Paragraph to a PDF Page
+Paragraph PdfPCell String ColumnText PdfWriter Rectangle Image Document PdfPTable Chunk
+Add Watermark Image to an Existing PDF File
+PdfReader PdfStamper PdfContentByte String ColumnText BaseFont PDDocument Font Atilde Rectangle
+Adding Bookmarks for PDF document
+PdfReader String PDOutlineItem Document PdfOutline List Bookmark System PdfStamper Page
+Copy and paste data with the clipboard
+Clipboard DataFlavor CellTransferable String Override Transferable System JTextAreaExample Toolkit JTable
+Connect with a Web server
+Override ReconnectTask String AdminServer Log RemoteWebDriver WebSocketClient WebSocketStompClient Connect WebLogic
+Connects to an rshell daemon
+Daemon DaemonHelper Thread DaemonTest DaemonCommandExecution MovieCatalog EmbJetTest MovieRecommender Autowired Override
+Connects to an rlogin daemon
+Daemon DaemonHelper Thread String System DaemonTest TestRlogin EmbJetTest MovieCatalog Exception
+POSTing data to an HTTP server
+String NameValuePair System Content IOException URLEncoder PrinterClass Type Server SimplePostTool
+Get session from request
+HttpSession HttpServletRequest EntRProfile String Override Request Session Response SessionRetrieverHttpSessionListener MainActivity
+Adding Drop Shadow to a Shape
+DropShadow Color Override String StackPane Stage View Acirc DragEvent AwesomeClass
+Uses serialization to perform deep copy cloning.
+Cloneable Cloning String Object Serializable List CloneNotSupportedException SuperType Game Deep
+Execute Javascript script in a file
+JavascriptExecutor ScriptEngine ScriptEngineManager JavaScript String HelloWorld BrowserFunction Browser Java JFXPanel
+Listing All Script Engines
+ScriptEngine ScriptEngineManager String System Engine ScriptContext JMeterEngine ScriptEngineFactory JMeterUtils DatagramSocket
+Pass parameter to JavaScript through Java code
+RoomManagement String Invocable ScriptEngineManager Object JSObject Bindings JavaScriptSupport JavascriptInterface SubmitPage
+Using Java Objects in JavaScript
+String Date JSObject Object MyClassFilter MyObject MyClass Tejas Scriptable ScriptException
+Read and execute a script source file
+String Rscript Process System Runtime ComputerName SCons ProcessBuilder Date UserLogin
+Use DSA key pair to generate XML Signature
+Signature KeyPairGenerator Alg Cipher String KeyFactory AlgorithmParameters System KeyGenerator TransformService
+Determining operating system support for attribute views
+TilesConfigurer String System BasicFileAttributeView HeaderController Attribute CommonConstants SystemCpuLoad ManagementFactory Files
+Change label border with CSS (Smart GWT)
+UiBinder Label Button AAAView DockPanel FlowPanel SimplePanel Override ListBox HTMLPanel
+Servlet: Session bind listener
+RequestMapping UserSettings String Override SMPPServerSessionListener Controller GuiceServletContextListener SessionObject HttpSession SessionUtility
+Basic Authentication For JSP Page
+Acirc FilterChainProxy String Dandelion BasicTilesContainer CustomWhiteSpaceFilter PlainTextBasicAuthenticationEntryPoint Authorization OncePerRequestFilter XMLSchema
+Checking Read/Write Permission for a Directory
+ContextCompat Environment String Toast PosixFilePermission ActivityCompat File Manifest PackageManager System
+Listing All Permissions Granted to a Loaded Class
+ActivityCompat PackageManager Manifest ContextCompat String Permission Override SplashActivity Toast GrantedAuthority
+Generate a DSA signature
+Signature KeyPairGenerator KeyFactory PrivateKey Alg String System EncodedKeySpec CMSSignedData DSAPublicKey
+Signing a Java Object
+Object Signing String Certificate Signature Java RegistrySafeLauncher IOException System VeriSign
+Generating a Message Authentication Code (MAC)
+Mac Erzeugen String Atilde System SecretKeySpec SasBuilder Exception Base Salt
+Execute a command from code
+Command String System CompoundCommand DeviceResponse WebResponse ConcreteCommand Execute Receiver ExecutedCompoundCommand
+Simulate a mouse click
+Robot MouseEvent TabFolder String InputEvent VirtualKeyCode InputSimulator Actions TTDSWeb KeyEvent
+Extract First File From Zip File Example
+ZipFile ZipEntry ZipInputStream String Feki File FileOutputStream IOException System FileHeader
+Extract File With CRC32 Checksum
+Checksum ByteBuffer String System CheckedInputStream IOException FSInputChecker Algorithm ZipEntry CalculatingChecksum
+Extract Zip File With Adler32 Checksum
+Adler InterruptibleStreamCopier Deflater String CheckedInputStream System IOException FindDuplicates File GZIPInputStream
+Load New HTML File Using Applet Context
+Applet Graphics HelloWorld InJava HelloWorldApplet LoadOntology AppletClassName AppletWebBrowser System TicTacToe
+Set orientation for print job
+PrinterJob PrintRequestAttributeSet Printable PrinterException PageFormat String MediaPrintableArea System Printer Graphics
+Determine format of an image
+BufferedImage String IIOMetadataNode File ByteBuffer ImageReader DataBufferInt Determine Create MyAttr
+Compress a JPEG file
+Bitmap CompressFormat FileOutputStream File ByteArrayOutputStream String ImageWriteParam ImageWriter Environment SampleJPGImage
+Get Midi audio file properties
+AudioSystem MidiSystem String System DefaultMutableTreeNode MediaData BatteryBeeper MidiDevice Source ClientMain
+Play Midi audio
+MidiSystem MidiEvent System String BatteryBeeper ShortMessage AudioSystem MidiDevice MidiMessage Override
+List available cryptographic services
+Cipher String BigInteger EncryptionMaterials System SecureRandom IvParameterSpec Padding BasicServerRef CrystalReportHelper
+Get bytes of generated symmetric key
+Cipher NSData EncryptExit NSMutableData NSMakeRange SecretKeySpec SymmetricAlgorithm Key String PrivateKey
+Import package in script
+Acirc Compilable String Script System CompiledScript ScriptManifest ScriptException Recompilation NativeRegExp
+Get script engine’s details
+String DataRet Details System AtomicReference Stores Bt AndroidFunction Script GroupVisibilityBean
+Send notification at MBean attribute change
+ObjectName String ManagementFactory InstancePrefix XAConnectionFactory Value MBeanException MBean MBeanServer Notification
+JavaFX Creating a Sprite Animation
+Animation Sprite GridPane TextureRegion SpriteAnimation Override SpecialTile SpecialTileBuilder MoveRightAni SpriteSheet
+Using a memory mapped file for a huge matrix
+VTDGenHuge FileChannel MappedByteBuffer String RandomAccessFile CharBuffer ByteBuffer AutoPilotHuge VTDNavHuge ImageReadParam
+github api access example java
+OAuth UcozApi String System OAuthRequest JarClassLoader IOException InstanceHolder Override Response
+How to write an Object to file in Java
+Object String ObjectOutputStream System FileOutputStream IOException File Date Integer AsynchronousFileChannel
+Send HTTP requests for serialized objects
+SerializedName String LoginRequest List Expose Creature Messenger SimpleOperation BufferImp ContactRequest
+RichText editor component for SWT based applications
+TableItem TableEditor String Override GridData Composite DesignPage Button SelectionEvent ContentofObjectStore
+Parsing JavaScript code using Mozilla Rhino
+Scriptable String Context ScriptableObject Object ScriptRuntime Rhino DebugFrame License RhinoTest
+DOM Parsing in Java
+DocumentBuilderFactory Element Document DocumentBuilder DomUtils ViaAddressList String System Employee DomTree
+A block of text to use as input to the regular expression matcher
+Matcher Pattern Page Review String TestFlagSecond System TestFlag Create File
+How to get HTTP Response Header in Java
+HttpServletResponse Header String HeaderServlet IOException Response Override Value HttpResponse TokenHandler
+Convert Object to XML
+String Object System Date MyObject EmailSubscription StringReader Customer List JAXBContext
+How do I create a rolling log files?
+RollingFileAppender TimeBasedRollingPolicy PatternLayout RollingFile FixedWindowRollingPolicy File FIXFeeds Logger Calzada DailyRoller
+How do I import Java package in script?
+Acirc String Script System ExecutionResponse HelloWorldRestApplication ScriptEngine ScriptEngineManager Recompilation DataRequest
+How do I retrieve available schemas in database?
+DbExtractor Date String ProductCategoryDatabaseRetrieve Override DatabaseHandler ExtractorThread Database DBManagement DatabaseMetaData
+How do I send email using Gmail via SSL?
+InternetAddress MimeMessage MessagingException String Transport PasswordAuthentication SSLSocketFactory EmailException SendEmail SMTPTransport
+How to Use Semaphore?
+Semaphore InterruptedException String System Thread Decrementing Override SendingThread Runnable DangersOfSharedVariables
+How do I get default date and time format for a defined country?
+Date Asia Acirc String SimpleDateFormat System DateFormat TimeZone PrettyDate CountryCode
+How do I get a list of month names?
+Date String List Locale System Monthnum Integer Month Math WordList
+How do I decompress Java objects?
+Decompress String AsyncResponse ByteArrayOutputStream GZipStream MemoryStream System Exception FileOutputStream ZipInputStream
+How do I count the number of capturing groups?
+Pattern Matcher System String Mar Match Value Group IllegalStateException Feb
+Read and write int with buffer
+Acirc IntTreeNode String BufferedWriter Integer System PaintPanel IOException TrieNode ByteBuffer
+Compress a Byte Array
+ByteArrayOutputStream CompressFormat Bitmap Compress String Surya IOException File AdaptiveArithmeticCompress GZIPOutputStream
+Read file as bytes
+FileOutputStream FileInputStream Acirc InputStream File System BufferedInputStream Atilde IOException DataInputStream
+Create a File Lock on a File
+FileLock RandomAccessFile FileChannel FileObject File System StandardOpenOption EventMusic FileOutputStream String
+Try to Lock a File
+FileLock OverlappingFileLockException FileChannel RandomAccessFile ReadWriteLock File System Lock String LockType
+Copy a Directory recursively
+Files File String TestBlankFiles Example Path Paths ZipOutputStream DirectoryFileFilter IOException
+Copy one file to another file
+StandardCopyOption Copy File Files CopyOption IOException System String CopyFile Path
+Check if file system is open and read only
+String System EnscribeFile File Open IOException EnscribeOpenOptions InputStream FileInputStream Student
+Monitor file system for delete, create and modify events
+StandardWatchEventKinds WatchEvent WatchService WatchKey String System File FileAlterationMonitor Path FileAlterationObserver
+Create a very large file using mapping
+FileChannel String MappedByteBuffer File ProcessInvoice Invoice FileInputStream InputStreamResource DMSystem Integer
+Convert Between a File Path and a URL
+String File ClassLoader Path Value Paths Downloads Windows Files URLClassLoader
+Use Scanner to read a list of comma-separated values
+Scanner Integer String WarningGeotask System PrintStream MonsterAttack ArrayList IOException ElementCollection
+Redirect input and output from operating systems processes
+ProcessBuilder BufferedReader Process String BankFile System RedirectStreams IOException GetTime Auml
+Append data to existing file
+FileOutputStream FileWriter String BufferedWriter PrintWriter IOException File Closer WritePropertiesFile Subrogration
+Scan file by format
+Scanner String System NumberFormatException Integer File FileNotFoundException Scan Pepole SalesAnaylzer
+Compare the contents of two Streams to determine if they are equal or not
+Comparator Collectors String System TreeMap Department Employee Timeslot JSONObject ZonedDateTime
+Compress data and read compressed data
+Deflater Compress InflaterInputStream String GZIPOutputStream System IOException DataFormatException File GZIPInputStream
+Create custom color Pallete
+Palette Override Color String JPanel LightVibrantSwatch GalleryHolder ResourceBundleControlProvider GalleryItem DarkVibrantSwatch
+Draw red cross for each mouse click
+Color JFrame MouseEvent SkeletonHand Graphics JPanel Override String CrossPanel BouncingBalls
+Apply variable transparency to an image
+BufferedImage GraphicsConfiguration Transparency ImageFilter Graphics Image Color AlphaComposite File RGBImageFilter
+Load image from local folder
+ImageIcon ImageLoader Mat Image String Dnn File DMSystem IOException System
+Screen shot capture and select an area to cut with mouse
+Rectangle BufferedImage Robot String ScreenCaptureRectangle System Override SelectionCamera Point Image
+Find tag by name
+Pattern Matcher Article Tag String NativeSearchQueryBuilder Token List Record NodeList
+List XML element Attributes
+List ArrayList Element String ItemPojo System Override VisitorDataList Natrol XmlElement
+Store data in two tables
+String Venue DataStoreClass DataStore ClientSymmetricEngine ClientNode LogEntity User Order Orders
+Use sql query to select a specific cell in excel
+Cell Date XSSFWorkbook String System ResultSet XSSFSheet Exception HSSFWorkbook FileOutputStream
+Connect to a SQLite database
+DriverManager SQLException String Connection DatabaseMetaData SQLite Connect SQLiteConfig ResultSet SimpleCursorTreeAdapter
+Delete e-mail messages on mail server programmatically
+MailReceiver Message String Exception Date ConnectDialog IncomingMailServer FetchProfile CustomProtocolCommand IMAPProtocol
+Send e-mail with attachment in Java
+MimeBodyPart DataHandler MultiPartEmail MimeMessage EmailAttachment String System MimeMultipart InternetAddress MessagingException
+Receive e-mail messages from a POP3-IMAP server
+Folder System Message IncomingMailServer String Properties Session Date IMAPStore ReceiveSMSMonitor
+Connect and login to a FTP server
+FTPClient FTPSClient String System FTPReply FtpUpDown IOException FTPFile Exception FTPClientConfig
+List files and directories recursively on a FTP server
+List String ArrayList FTPClient System File FtpTask Override FTPReply ServerModel
+Determine if a directory or file exists on FTP server
+FTPClient FTPFile InputStream FTPReply String FtpTask File System IOException ExecutorService
+How to download a complete folder from a FTP server
+FTPClient FTPFile String System FileOutputStream OutputStream FtpTask File FTPReply IOException
+How to upload a directory to a FTP server
+FTPClient FTPReply FTPFile String InputStream FileInputStream System File MoveFileRoute IOException
+Creating nested directory structure on a FTP server
+FTPClient FTPFile File System String InputStream IOException Unity Directory AbstractInboundFileSynchronizer
+Get size of a file on FTP server
+FTPFile FTPClient String File Whitespace Pattern FTPReply System Matcher StradaAd
+How to send commands to a FTP server
+System Socket FtpLoggingFilter String FTPClient IOException Authority UploadThread Thread Entered
+How to convert image from one format to another
+BufferedImage Mat String UareUGlobal CvType File WritablePixelFormat Convert Image PixelFormat
+How to resize images in Java
+BufferedImage ImagesServiceFactory Image File IOException ImageIcon Graphics AWTImage RenderingHints Cdv
+Generate random integer
+Random BigInteger Integer RandomDataGenerator String System Collections GeneratePrime Math SecureRandom
+Avoid concurrent execution of a time-consuming task without blocking
+Callable Runnable ThreadPoolExecutor TimeUnit LinkedBlockingQueue String System Thread Override RejectedExecutionHandler
+Coordinate Runnable instance for random periods of time
+Random Coordinate RandomShape Runnable ArrayList Override System Ocean DrunkWalker Enemy
+Schedual future tasks
+Tasks ArbiterResponse FiledTask List String Task Override Timesheet ExecutorService ImmutableList
+How do I convert string to Date in GMT timezone?
+Date SimpleDateFormat TimeZone String Calendar System Tue Berlin Acirc America
+How do I breaks a text or sentence into words?
+Sentence BreakIterator String Acirc System Text Pattern Date EachSentence Example
+How do I get a formatted date for a specific pattern and locale?
+Locale Date SimpleDateFormat DateFormat DecimalFormat Acirc String System DigitsConverter DateTimeFormatter
+How do I change the currency symbol?
+Currency Acirc Locale NumberFormat String SelectCurrency System CurrencyProcessor Daventry United
+How do I format a message that contains number information?
+MessageFormat NumberFormatException JOptionPane String Locale System Date MessageBundle Integer Znaleziono
+How do I format a message that contains time information?
+Date MessageFormat AtmTime SimpleDateFormat String Icirc System LocalDate Calendar JOptionPane
+How do I check if a string is a valid date?
+Date Acirc String System PrettyDate Valid ExtendedDate Formats Atmosphere SimpleDateFormat
+How do I format a number with leading zeros?
+Integer BigInteger Scanner String Acirc System Exponent Breader Subnormal Firsttt
+How do I iterate each characters of a string?
+Character StringBuilder String Atilde LinkedHashMap Integer System Vertx Iterate CharSequence
+How do I convert Date to String?
+String Acirc Date System List Override ArrayList SupplierIndicatorFieldEnum PrettyDate FinalField
+How do I get a list of weekday names?
+WeekdayType Date String System Weekday CalendarMonth SleepIn DateTimeConstants OrgLecturId List
+How do I get response header from HTTP request?
+HttpServletResponse HeaderServlet String Override IOException Header HttpServletRequest Response HttpServletResponseWrapper Context
+How do I create a URL object?
+String LogEvidence Create File MyResultObject Object BaseFeedParser Book HttpPut List
+How do I ping a host?
+InetAddress Ping String Acirc System TestMachine IOException DataOutputStream PingTask InetSocketAddress
+How do I find the difference between two times?
+Date SimpleDateFormat String Calendar System BeforeClass Time Minutes Integer Math
+How do I limit the size of log file?
+FileHandler String FIXFeeds IOException RollingFileAppender OnlyOnceErrorHandler TimeBasedRollingPolicy ConversionPattern DailyRollingFileAppender File
+How do I create a custom logger Formatter?
+SimpleFormatter LogRecord FileHandler Logger String Override Level Formatter WindowHandler IOException
+How do I get the current Level of a Logger?
+Level Logger Date BigClip String Clip System IOException Thread AudioFormat
+How do I listen for a constrained property change?
+PropertyChangeListener PropertyChangeEvent PropertyChangeSupport ClassWithProperty String System JPanel Override MethodEditor Object
+How do I modified Java object in script?
+NrItem ClassifyObjectAttributePlain String Object IOException ScriptException Override RecWasModifiedFlushingListener RhinoScriptEngine ScriptableObject
+How do I call a specific function of a script?
+ScriptEngine String JSObject ScriptContext GiantWord Giant JavaScriptObject ScriptException AbstractTab LegendOptions
+How do I evaluate or execute a script file?
+GroovyShell String CompiledScript System ScriptEngine Script ScriptException Object AbstractProject CommandLineActionFactory
+Add Background image to JPane
+String BorderLayout JPanel JLabel JFrame HexMap Override JavaGui BackGroundPanel JBackgroundPanel
+Add Titled Border to Panel
+TitledBorder JCheckBox JPanel BorderFactory SedimentPanel JFormDesigner BorderLayout DynamicGridLayout JFrame PanelTitle
+Create custom 3D rounded corners
+RoundedImageView Bitmap Canvas Color Override Paint RoundedPanel View Graphics Insets
+Create a modal progress dialog
+JDialog Override ProgressBar String JProgressBar JFrame GuiWorker ProgressBox ExportDialogController Dialog
+Create image Browser
+Browser ImageExtractor FontImage String Override WebHistory System BrowserComponent Image Openit
+Create a Popup Menu with Nested Menus
+GraphElements JPopupMenu JMenuItem AutoExpandSubMenusDemo Override JFrame Menu PopupMenu MyEdgeFactory CovertIntoHtml
+Put an image on tooltip in Swing
+JToolTip MouseEvent JFrame JLabel Override String ImageIcon JPanel ToolTipTest JComponent
+Append string to a text file
+StringBuilder FileWriter String ReadFromTextFile System BufferedWriter IOException FileReader Text FileOutputStream
+Compare text file line by line
+Scanner String System File IOException FileWriter FileInputStream CompareByScanner FileUtils ArrayList
+Reads a text file and displays it line by line
+LineBreakMeasurer PrintText FileReader PrinterJob AttributedString String System BufferedReader IOException PageFormat
+Zip a directory including its subdirectories recursively
+FullFileHierarchy ZipEntry File ZipOutputStream String IOException FileNumber MyFileSystemElement EmptyDir TFile
+Get uncompressed and compressed Size
+GZIPInputStream Deflater ZipEntry String IOException System File Uncompressed ZipOutputStream InputStream
+Zip a file byte by byte
+ZipEntry ZipFile ZipOutputStream HeaderReader String File Zip ZipException ZipTest System
+Check if an image is readable
+Coin String System File BooleanBinding ReadableColor KingOfAxes DatabaseRateable BufferedImage MessageDecoder
+How to Get height and width of an image?
+BufferedImage ScreenRenderer Coverfront Image LadderSnack System Graphics String Color JFrame
+Draw a transparent shape using a Graphics
+Color Graphics Override DrawableView Shape String TransparentDrawTest JPanel RenderingHints Rectangle
+Draw a Pie Chart
+PieChart PiePlot String JFreeChart MultiplePiePlot Color Override PieData TableChart Data
+Add a transparent text string over an image
+Color String JFrame JLabel AnchorPane CustomTitledPane Image Graphics JPanel SoftJButton
+Center a string in a rectangle
+Rectangle String System PdfPCell PdfPTable Exception Theta Center RadicalRacing Color
+Connect to Microsoft SQL Server via JDBC
+SQLServerDriver DriverManager String System SQLServerConnection SQLServerException DatabaseName LabNoteMap JavaKerberos Connection
+Read file data from database using JDBC
+DriverManager String PropertyPlaceholderConfigurer Driver OracleDatasource Connection BeanDefinitionBuilder JDBCInputFormat PropertyReaderBean DataSourceFactory
+How do I calculate difference between two dates?
+Date LocalDate ChronoUnit Period System SimpleDateFormat String DateTime Days Calendar
+Avoid concurrent execution of a time-consuming task without blocking
+Callable Runnable ThreadPoolExecutor TimeUnit LinkedBlockingQueue String System Thread Override RejectedExecutionHandler
+Create a timer for every time this int changes
+Acirc IntTreeNode Timer String Integer System TimerTask Cipher Time Date
+Limit the number of concurrent evaluation in parallel streams
+IntStream ForkJoinPool String Stream System Collectors List BigInteger ConcurrentLinkedQueue Collector
+how to read ISO Latin-1 Encoded Data
+Atilde Acirc Latin String System Cryptor CryptingException SecurityException Mee StandardCharsets
+Write two Chinese characters and read them back
+FileOutputStream BaseFont String System Chinese TitleBox InputStreamReader UnicodeBlock Oslash Ugrave
+Create a Shared File Lock on a File
+FileLock FileChannel OverlappingFileLockException RandomAccessFile SharedFileHandler String IOException File Override StandardOpenOption
+how to prevent multiple instances of an application
+MqttHandler MyRunnable Runnable IndexReader VirtualMachine IndexWriter ConstClass Override String RecordFieldBase
+Delete a XML Element from parent element
+Element String List TreeNode XmlElement PsiElement MySubset System Node Override
+Get comment for a zipped file
+ZipOutputStream ZipEntry String ChunkedZippedOutputStream ZipInputStream LongHolder ZippedFile FileOutputStream System FileNotFoundException
+Cut out image in shape of text
+Shape String Wonseok Override DrawnString CompSciClass Color BufferedImage JMenuItem Graphics
+how to gray out red color for an image with filter
+BufferedImage ColorConvertOp Color GrayFilter ColorSpace Image String Gray ColorMatrix Gamma
+how to output image color pixel by pixel
+BufferedImage Color Pixel Bitmap HSSFColor System IOException File String Raster
+Change color of png format image
+BufferedImage String Image Color File Pixmap Chroma IIOMetadata Undefined HitMarker
+Compress Jpeg Image into different quality
+Bitmap CompressFormat String ImageWriteParam IIOImage File BitmapFactory ByteArrayOutputStream ImageWriter IOException
+Convert bmp image to GIF image
+BufferedImage JFileChooser String File ImageReader System InputStream ImageIcon FileChooser Mat
+Convert image to grayscale without losing transparency
+BufferedImage ImageIcon ColorConvertOp JMenuItem ImageEdit File Image System Picture String
+Crop images and join them together
+String File Bitmap MediaStore Uri Image Crop Intent ExtractImages IOException
+Flip an image upside-down
+AffineTransform BufferedImage String JFrame Ecirc Image TextureRegion Piece Graphics Eacute
+Make a counter-clockwise rotation of the image
+String Override TetrisBlock DRectangle Robot RotatedRect BufferedImage JFrame Rotate ParameterBlock
+Merge an image over another in the specified position and save it as a new image
+String Bitmap Override File Image ImageTapView BufferedImage View ImageIcon List
+How to Download an image from server to client
+String InputStream IOException ImageReader FilesOnServer System File Bitmap Date Exception
+Insert images in mongoDB
+Insert DBCollection String BasicDBObject DBTCPConnector DBObject DBApiLayer MongoClient DBPort WriteConcern
+Reduce the size of an image file
+BufferedImage BitmapFactory Bitmap File String Image ImageIcon ObjKey IOException PdfName
+Get error's line number while validating a XML file against a XML schema
+SchemaFactory XMLConstants AsifXml Schema System String StreamSource SAXException Customer XMLSchema
+Convert an XML file to CSV file
+String File NbOfTxs GrpHdr Date CsvSchema Nm CsvMapper Product FileReader
+How to Prevent empty xml elements are converted to self closing elements
+SOAPElement String Example FormTask Element ProcRequest List MyObject DataBatch DataUnits
+Count xml nodes under specific node
+NodeList Node String System TaskNode Document Visited Nodes Value NeighborNodeStream
+How to Create Universal Namespace Resolver
+String DTDEntityResolver System HibernateManager SameType Fournisseurs Override UpdateSessionResult Hibernate UniversalNamespaceResolver
+XML How to Append new Element to Document end
+Element String System Document StreamResult XMLfunctions NodeList IOException DOMSource RunFonts
+XML How to Duplicate Element
+Element String List XmlElement System JacksonXmlText JacksonXmlProperty Document XmlRootElement JsonProperty
+XML How to Get element by ID
+Element XmlElement XmlElementRef List String LabelledElement XmlRootElement XmlAccessType ArrayList ProblemElement
+How to Parse xml file and get tag value
+Acirc Value String Index System XmlPullParser File Element Document Date
+XML How to Set attribute by name
+XmlAttribute String XmlRootElement MyCustomView Set SetRequestList List BiddingSystem AddressInformation CopyrightHolder
+XML How to Replace Element
+Element String System Document NodeList TextFlow Node Titleproper File DocumentBuilderFactory
+How to Create Text move animation
+Animation Override TextView TranslateAnimation AmountToMove MoveRightAni AnimationUtils BallPane MoveMe View
+How to Relocate Text to create help message
+Stage MouseEvent Scene String EventHandler Override Pane Color Path StackPane
+Handle Shape drag and drop events
+DragEvent MouseEvent Dragboard Override EventHandler TransferMode ClipboardContent System Color String
+How to Print Text out
+String Text System PrinterJob PrintService CommonTree Print PrintJobWatcher PrintStream DocFlavor

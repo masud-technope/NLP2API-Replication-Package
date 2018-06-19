@@ -1,0 +1,5 @@
+1	https://github.com/apache/geode/blob/7c5cd35adf328ef2b665e6da522fc2028ab10631/geode-core/src/main/java/org/apache/geode/distributed/ConfigurationProperties.java
+2	https://github.com/apache/commons-net/blob/1863723f01e10e3930def14b89e12322bc6f9217/src/main/java/org/apache/commons/net/ftp/FTPClient.java
+3	https://github.com/apache/zookeeper/blob/f0b67b6e49acec5f022bee25e08f82a29572c97a/src/java/main/org/apache/zookeeper/ZooKeeper.java
+4	https://github.com/apache/geode/blob/ce0d6a0f5a1cf7c5fa919cea0b62e91c3fcbfb51/geode-core/src/main/java/org/apache/geode/distributed/internal/DistributionConfigImpl.java
+5	https://github.com/apache/geode/blob/8e8ec93d516b76d4fb559ab91c0a5762708d1789/geode-core/src/main/java/org/apache/geode/management/internal/cli/i18n/CliStrings.java

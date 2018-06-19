@@ -1,0 +1,5 @@
+1	https://stackoverflow.com/questions/29057870/in-javafx-how-do-i-move-a-sprite-across-the-screen
+2	https://stackoverflow.com/questions/42475502/animating-a-sprite-with-javafx-on-key-input
+3	https://stackoverflow.com/questions/23718171/imageview-sprite-animation-with-javafx
+4	https://stackoverflow.com/questions/47876381/javafx-and-sprite-animation-how-do-i-make-an-animation-cycle-to-change-pictures
+5	https://stackoverflow.com/questions/38571858/add-a-decorative-area-around-a-node-that-behaves-like-an-effect

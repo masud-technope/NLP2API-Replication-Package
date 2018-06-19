@@ -1,0 +1,9 @@
+1	https://github.com/apache/tomcat/blob/5d7a579366d48668dd81934a74478336dab06ac7/java/org/apache/catalina/authenticator/DigestAuthenticator.java
+2	https://github.com/apache/tomcat85/blob/bae43a12760945187a3450963d76b75553cde43b/java/org/apache/catalina/authenticator/DigestAuthenticator.java
+3	https://github.com/apache/metron/blob/7b6a3da6d6612e61b3bde33ccf50f0638b6072fa/metron-stellar/stellar-common/src/test/java/org/apache/metron/stellar/dsl/functions/HashFunctionsTest.java
+4	https://github.com/apache/httpcomponents-client/blob/47a0eb8b65c2a98b50567bf6e0b4229a08035098/httpclient5/src/main/java/org/apache/hc/client5/http/impl/auth/NTLMEngineImpl.java
+5	https://github.com/apache/tomcat55/blob/238168ffd2f5495e20e160991ac847ffbdc09fd8/container/catalina/src/share/org/apache/catalina/authenticator/AuthenticatorBase.java
+6	https://github.com/apache/hadoop-hdfs/blob/95a1f919f449545ae0bc00300eda59199396aaed/src/java/org/apache/hadoop/hdfs/DFSClient.java
+7	https://github.com/apache/hadoop-common/blob/ba438cc13dc7bc1ae27653f9599b0f3e6e7b931e/src/hdfs/org/apache/hadoop/hdfs/DFSClient.java
+8	https://github.com/apache/ignite/blob/edef7add03696eab54f02ac3f8ebbb174a2f26ab/modules/core/src/main/java/org/apache/ignite/internal/util/IgniteUtils.java
+9	https://github.com/apache/hive/blob/26420000c472100bde3778754dfb3f3f66d75a49/common/src/java/org/apache/hadoop/hive/conf/HiveConf.java

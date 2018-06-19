@@ -1,0 +1,15 @@
+1	https://stackoverflow.com/questions/24095294/how-to-create-a-timer-for-every-time-this-int-changes-java
+2	https://stackoverflow.com/questions/44139659/unity-adding-delays-to-my-buttons
+3	https://stackoverflow.com/questions/40191154/how-do-i-make-aswd-keyboard-movement-control
+4	https://stackoverflow.com/questions/12540347/display-timer-while-video-recording-android
+5	https://stackoverflow.com/questions/9498389/swing-java-and-multithreading-and-coloring-buttons
+6	https://stackoverflow.com/questions/22894440/how-to-view-compare-and-refresh-current-time
+7	https://stackoverflow.com/questions/43967230/android-sending-pictures-from-cam-via-socket
+8	https://stackoverflow.com/questions/29482032/smooth-animations-with-actionevents-in-java
+9	https://stackoverflow.com/questions/36586779/devart-changeconflictexception-but-values-still-written-to-database
+10	https://stackoverflow.com/questions/38174398/javafx-scene-recording
+11	https://stackoverflow.com/questions/47604896/android-camera-photo-preview-is-coming-inverse
+12	https://stackoverflow.com/questions/13445470/how-to-add-save-option-and-few-other-things-to-this-game
+13	https://stackoverflow.com/questions/40906201/live-charts-graph-refresh-slowing-as-data-is-processed-and-added-to-the-charts
+14	https://stackoverflow.com/questions/28216073/trying-to-access-a-fragments-interface-from-its-parents-methods
+15	https://stackoverflow.com/questions/15392942/c-net-memory-leak-sawtooth-memory-usage-when-gc-stage1-and-stage2-run

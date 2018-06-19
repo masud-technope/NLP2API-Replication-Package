@@ -1,0 +1,8 @@
+1	https://stackoverflow.com/questions/48567084/sql-queries-with-where-conditions-to-specific-cells-using-vba
+2	https://stackoverflow.com/questions/16062023/issue-with-importing-sql-server-date-datatypes-into-excel-date-formats
+3	https://stackoverflow.com/questions/43946317/in-excel-run-vba-access-query-with-expressions-or-vba-to-query-access-form-to-r
+4	https://stackoverflow.com/questions/7274777/sql-query-in-excel-takes-far-longer-when-using-to-get-a-cell-value-than-with-v
+5	https://stackoverflow.com/questions/44379799/iissue-solved-thanks-new-issue-defining-fields-recordswas-why-cant-i-use-da
+6	https://stackoverflow.com/questions/45257324/insert-or-update-data-from-excel-to-access-best-way
+7	https://stackoverflow.com/questions/18796498/cant-get-pivot-to-work
+8	https://stackoverflow.com/questions/29489357/data-trends-in-an-access-database

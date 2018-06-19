@@ -1,0 +1,2 @@
+1	https://github.com/google/jimfs/blob/268c95feebf10c42823eb754004e88cb6e46e855/jimfs/src/main/java/com/google/common/jimfs/Configuration.java
+2	https://github.com/apache/shiro/blob/8acc82ab4775b3af546e3bbde928f299be62dc23/core/src/main/java/org/apache/shiro/subject/Subject.java

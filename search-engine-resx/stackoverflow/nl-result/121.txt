@@ -1,0 +1,4 @@
+1	https://stackoverflow.com/questions/22816606/pdftron-to-keep-informations-from-xaml
+2	https://stackoverflow.com/questions/16741716/unicode-and-pdf-tooltips-messageboxes-with-itextsharp
+3	https://stackoverflow.com/questions/48525384/pdftron-calculating-actual-annotations-size
+4	https://stackoverflow.com/questions/22873/language-books-tutorials-for-popular-languages

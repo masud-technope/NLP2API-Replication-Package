@@ -1,0 +1,9 @@
+1	https://github.com/google/desugar_jdk_libs/blob/f92e482fdce79564b75940b784cd90c447e461d9/src/share/classes/java/time/chrono/ChronoLocalDate.java
+2	https://github.com/eclipse/nebula/blob/e495a9cfce9acbce34cc21a50ee1ce19fd031108/widgets/ganttchart/org.eclipse.nebula.widgets.ganttchart/src/org/eclipse/nebula/widgets/ganttchart/GanttComposite.java
+3	https://github.com/apache/poi/blob/318fe3e597e0c000cbc416838a4bdf108ce81361/src/java/org/apache/poi/ss/usermodel/Cell.java
+4	https://github.com/apache/poi/blob/25634cf55fb62fff6d99ca66092222c4d5dc23c7/src/ooxml/java/org/apache/poi/xssf/usermodel/XSSFCell.java
+5	https://github.com/apache/geode/blob/a237203a3944b1a4daf5162928ca849ab930779c/geode-core/src/main/java/org/apache/geode/internal/statistics/StatArchiveReader.java
+6	https://github.com/apache/xerces2-j/blob/a3a260fed2714fb992fbac072fb841554e50ec5f/src/org/apache/xerces/jaxp/datatype/XMLGregorianCalendarImpl.java
+7	https://github.com/apache/poi/blob/4221ccebda4315b1c7024995efe377471bf906b9/src/ooxml/java/org/apache/poi/xssf/usermodel/XSSFSheet.java
+8	https://github.com/apache/ofbiz-framework/blob/5edb92e5ac2c7e96f20bf785902da692e428e9d3/applications/order/src/main/java/org/apache/ofbiz/order/order/OrderServices.java
+9	https://github.com/apache/ofbiz/blob/7ba7f3c2e16df6c8db0d8114e124957199cea1ff/applications/order/src/main/java/org/apache/ofbiz/order/order/OrderServices.java

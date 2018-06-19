@@ -1,0 +1,2 @@
+1	https://github.com/eclipse/nebula/blob/e495a9cfce9acbce34cc21a50ee1ce19fd031108/widgets/ganttchart/org.eclipse.nebula.widgets.ganttchart/src/org/eclipse/nebula/widgets/ganttchart/ISettings.java
+2	https://github.com/eclipse/nebula/blob/e495a9cfce9acbce34cc21a50ee1ce19fd031108/widgets/ganttchart/org.eclipse.nebula.widgets.ganttchart/src/org/eclipse/nebula/widgets/ganttchart/GanttComposite.java

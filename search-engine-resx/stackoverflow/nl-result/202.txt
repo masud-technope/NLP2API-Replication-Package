@@ -1,0 +1,8 @@
+1	https://stackoverflow.com/questions/38221770/java-custom-colorchooserpanel
+2	https://stackoverflow.com/questions/30593364/how-to-define-all-application-colors-in-one-place-ios
+3	https://stackoverflow.com/questions/44558170/qtreewidget-selection-color-issue-when-adding-widgets-to-a-qtreewidgetitem
+4	https://stackoverflow.com/questions/13686939/how-to-change-the-color-lightness-and-saturation-using-jquery
+5	https://stackoverflow.com/questions/30403886/using-cutsom-colors-for-charts-and-tablix-in-ssrs
+6	https://stackoverflow.com/questions/1360445/a-more-precise-png-library-for-net-2-0
+7	https://stackoverflow.com/questions/28515597/background-palettes-for-tableview-cells
+8	https://stackoverflow.com/questions/46767439/angular-material-page-not-scrolling-with-content-inside

@@ -1,0 +1,5 @@
+1	https://github.com/google/codeu_project_2017/blob/9613ca8040bb7ee74a058cca9c8dd1309db03723/src/codeu/chat/util/Timeline.java
+2	https://github.com/apache/hbase/blob/67f013430c9ba051385c45d72ee680c44eb88470/hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver/ReplicationSource.java
+3	https://github.com/eclipse/tm4e/blob/23e0e0a9c8bdf84caf01f9f46973e54f9db688c9/org.eclipse.tm4e.core/src/main/java/org/eclipse/tm4e/core/model/TMModel.java
+4	https://github.com/apache/hbase/blob/67f013430c9ba051385c45d72ee680c44eb88470/hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver/ReplicationSourceShipper.java
+5	https://github.com/apache/incubator-netbeans/blob/a174e1fcc369084f6e66b76402d8f39d8473d51e/java.source.base/test/unit/src/org/netbeans/api/java/source/JavaSourceTest.java

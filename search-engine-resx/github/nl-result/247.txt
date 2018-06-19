@@ -1,0 +1,2 @@
+1	https://github.com/eclipse/eclipselink.runtime/blob/64985ca08a912f3dc1099f6949d6b45a9f4868df/foundation/org.eclipse.persistence.core/src/org/eclipse/persistence/config/PersistenceUnitProperties.java
+2	https://github.com/eclipse/webtools.javaee/blob/d32381cdf888caa0edaa707f613439e47f35d9a9/plugins/org.eclipse.jem.beaninfo/beaninfo/org/eclipse/jem/internal/beaninfo/adapters/BeaninfoClassAdapter.java

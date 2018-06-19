@@ -1,0 +1,2 @@
+1	https://stackoverflow.com/questions/29737866/creating-an-array-of-size-1000000000-in-c-gave-me-the-following-error-please
+2	https://stackoverflow.com/questions/26706214/odd-linker-issue-relocation-r-x86-64-32-against-not-a-typical-fpic-issue

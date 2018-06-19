@@ -1,0 +1,2 @@
+1	https://stackoverflow.com/questions/26721341/creating-custom-buttons-in-c-builder
+2	https://stackoverflow.com/questions/7855591/how-do-i-achieve-the-find-my-friends-button-look-using-ios-5-it-is-as-if-the

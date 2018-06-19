@@ -1,0 +1,3 @@
+1	https://stackoverflow.com/questions/4769192/using-vertex-buffers-in-jogl-crash-when-too-many-triangles
+2	https://stackoverflow.com/questions/232811/boundary-for-comment-box
+3	https://stackoverflow.com/questions/2366094/java-2d-drawing-and-editing-objects-on-an-image-and-detecting-shapes-from-images

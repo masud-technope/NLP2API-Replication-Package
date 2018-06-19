@@ -1,0 +1,3 @@
+1	https://github.com/apache/pdfbox/blob/994f9837bb39925b85a7640eb1c82456f432a6e1/pdfbox/src/main/java/org/apache/pdfbox/text/PDFTextStripper.java
+2	https://github.com/apache/maven-pdf-plugin/blob/cbaa1f295bf6fc097e8aa83007afb4648332b30b/src/main/java/org/apache/maven/plugins/pdf/PdfMojo.java
+3	https://github.com/apache/maven-doxia/blob/f11f7207191c0fce66981d26eddfa70b0aebb40c/doxia-sink-api/src/main/java/org/apache/maven/doxia/sink/Sink.java

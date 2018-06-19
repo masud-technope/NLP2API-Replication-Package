@@ -1,0 +1,10 @@
+1	https://stackoverflow.com/questions/43362712/steps-involved-in-editing-existing-pdf-documents
+2	https://stackoverflow.com/questions/36175076/pdfbox-after-adding-pdannotationlinks-file-size-is-increased-twice
+3	https://stackoverflow.com/questions/36641935/adding-a-page-with-pdfbox-doesnt-work
+4	https://stackoverflow.com/questions/38651288/how-to-plot-multiple-ggplot-gtable-objects-on-multiple-pages-of-a-pdf
+5	https://stackoverflow.com/questions/22334339/opening-a-pdf-with-search-parameters-just-opens-the-pdf
+6	https://stackoverflow.com/questions/18241968/pdf-js-text-overlay-only-adds-to-canvas-how-to-log-it-to-console
+7	https://stackoverflow.com/questions/47294044/can-pdfbox-sign-all-approval-signatures-instead-of-always-making-first-signatu
+8	https://stackoverflow.com/questions/16503412/control-already-created-outlook-message-from-excel-vba
+9	https://stackoverflow.com/questions/4650482/how-can-i-count-css-page-breaks-for-printed-html
+10	https://stackoverflow.com/questions/20423727/does-django-cms-really-integrate-with-django-and-models

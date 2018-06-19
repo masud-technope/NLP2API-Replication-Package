@@ -1,0 +1,4 @@
+1	https://github.com/apache/directory-server/blob/4077a74e6ee878019ab1245fd80718781a37ef40/protocol-dns/src/main/java/org/apache/directory/server/dns/io/encoder/SignatureRecordEncoder.java
+2	https://github.com/apache/juddi/blob/af452e119631055c5e9a1d5bdc136af46f5bede0/juddi-client/src/main/java/org/apache/juddi/v3/client/cryptor/DigSigUtil.java
+3	https://github.com/google/j2objc/blob/ba9bd24c7c65ddfaa540e0f834975662874ebc9e/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/cert/X509CRL.java
+4	https://github.com/google/j2objc/blob/ba9bd24c7c65ddfaa540e0f834975662874ebc9e/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/cert/X509Certificate.java

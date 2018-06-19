@@ -1,0 +1,3 @@
+1	https://stackoverflow.com/questions/21176754/how-can-i-convert-an-image-to-grayscale-without-losing-transparency
+2	https://stackoverflow.com/questions/45242964/how-to-convert-a-png-image-to-grayscale-and-without-losing-the-transparency-c
+3	https://stackoverflow.com/questions/49353536/how-can-i-convert-an-image-to-grayscale-without-losing-any-transparency

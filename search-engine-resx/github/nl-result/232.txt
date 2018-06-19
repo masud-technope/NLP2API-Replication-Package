@@ -1,0 +1,4 @@
+1	https://github.com/eclipse/eclipse.platform.ui/blob/763566f34dc0e3e67e277bb847b61f306ea2b331/tests/org.eclipse.jface.tests.databinding/src/org/eclipse/jface/tests/databinding/scenarios/PropertyScenarios.java
+2	https://github.com/google/j2objc/blob/167e57c4eed3380a462af11e2dcad428edb975ce/jre_emul/openjdk/src/share/classes/java/text/DecimalFormat.java
+3	https://github.com/apache/myfaces-trinidad/blob/6bd79ae3d4e3e0f6824baed5e137e186f3f89cf6/trinidad-impl/src/main/java/org/apache/myfaces/trinidadinternal/renderkit/core/xhtml/TreeRenderer.java
+4	https://github.com/google/j2objc/blob/eda198bd121081856cf8be38e4efdcf8d29785e3/jre_emul/android/platform/libcore/ojluni/src/main/java/java/net/URI.java

@@ -1,0 +1,4 @@
+1	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/util/Locale.java
+2	https://github.com/apache/sling-org-apache-sling-resourceresolver/blob/bef427cb86351f61723a465702fb153cd7e73889/src/main/java/org/apache/sling/resourceresolver/impl/helper/URI.java
+3	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/openjdk/src/share/classes/java/math/BigInteger.java
+4	https://github.com/apache/odftoolkit/blob/99d5b0368f62de28c5b8ef8538a9163df8b1d428/simple/src/main/java/org/odftoolkit/simple/Document.java

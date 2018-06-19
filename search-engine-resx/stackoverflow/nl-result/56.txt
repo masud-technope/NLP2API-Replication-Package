@@ -1,0 +1,1 @@
+1	https://stackoverflow.com/questions/22028522/apache-sqoop-pig-consistent-data-representation-processing

@@ -1,0 +1,2 @@
+1	https://stackoverflow.com/questions/22183023/chrome-extension-blocking-content-from-external-domain-being-loaded-into-pages
+2	https://stackoverflow.com/questions/21610855/way-to-re-populate-checkboxes-on-page

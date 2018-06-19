@@ -1,0 +1,2 @@
+1	https://stackoverflow.com/questions/891643/twitter-image-encoding-challenge
+2	https://stackoverflow.com/questions/42738641/aes-encryption-issue-for-text-consisting-of-chinese-characters

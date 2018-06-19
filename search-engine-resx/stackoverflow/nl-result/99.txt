@@ -1,0 +1,7 @@
+1	https://stackoverflow.com/questions/28550631/how-to-rotate-one-object-in-graphics-java
+2	https://stackoverflow.com/questions/17384548/drawing-antialiased-shapes-and-rotating-them-in-java
+3	https://stackoverflow.com/questions/30719794/libgdx-how-do-i-change-a-shapes-x-y-co-ordinates-after-rotating-it-in-libgdx
+4	https://stackoverflow.com/questions/37807871/is-there-a-way-to-create-simple-animations-on-the-fly-in-modern-opengl
+5	https://stackoverflow.com/questions/7971607/how-do-i-start-creating-a-small-compiler-for-a-school-project-in-java-or-c
+6	https://stackoverflow.com/questions/21641260/polygon-vertices-as-uv-coordinates
+7	https://stackoverflow.com/questions/5779370/rotated-shapes-not-appearing-on-an-applet

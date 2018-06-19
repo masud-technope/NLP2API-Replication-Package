@@ -1,0 +1,6 @@
+1	https://stackoverflow.com/questions/46854050/excel-vba-inserting-images-into-documents-via-macro-and-quality-issues
+2	https://stackoverflow.com/questions/21958449/can-itextsharp-generate-pdf-with-jpeg-images-that-are-multi-stage-filtered-both
+3	https://stackoverflow.com/questions/11312297/further-jpeg-compression-for-known-resolution-possibly-storing-header
+4	https://stackoverflow.com/questions/12418993/what-is-the-fastest-way-to-load-compressed-images-on-ios
+5	https://stackoverflow.com/questions/6099109/bug-with-at-least-potential-dangers-what-do-you-do
+6	https://stackoverflow.com/questions/11612647/raw-image-data-from-camera-like-645-pro

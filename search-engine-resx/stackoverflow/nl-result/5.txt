@@ -1,0 +1,3 @@
+1	https://stackoverflow.com/questions/39504686/using-priorityqueue-with-hystrix
+2	https://stackoverflow.com/questions/6798280/how-should-i-implement-subtypes-of-a-message-class-in-java
+3	https://stackoverflow.com/questions/8140195/prioritising-netty-tasks-in-threadpoolexecutors

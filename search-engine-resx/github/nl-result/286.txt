@@ -1,0 +1,2 @@
+1	https://github.com/apache/cordova-plugin-camera/blob/bf935dfbd2c2a991f6632424243a26858584821b/src/android/CameraLauncher.java
+2	https://github.com/apache/tika/blob/0af75e0a07b6e0ab1d58e06ab103698b3ca233b6/tika-parsers/src/test/java/org/apache/tika/parser/mail/RFC822ParserTest.java

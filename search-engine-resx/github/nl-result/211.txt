@@ -1,0 +1,8 @@
+1	https://github.com/eclipse/paho.mqtt.android/blob/76f9d9ee07dbc7dc1eec1c5697d17f350c5045e5/org.eclipse.paho.android.sample/src/main/java/org/eclipse/paho/android/sample/internal/Persistence.java
+2	https://github.com/eclipse/andmore/blob/5b1a4af19fd4daebdeb959fd36f53bcf137635c2/andmore-core/plugins/android.codeutils/src/org/eclipse/andmore/android/codeutils/db/utils/DatabaseUtils.java
+3	https://github.com/apache/empire-db/blob/1458724fa7d3d63e05cc9fb192ec3dfe278454d5/empire-db/src/test/java/org/apache/empire/db/IntegerTest.java
+4	https://github.com/apache/incubator-netbeans/blob/15bc442a91fa2be81488725b15c61386bf1d0b9b/db/src/org/netbeans/modules/db/explorer/action/ConnectAction.java
+5	https://github.com/eclipse/andmore/blob/5b1a4af19fd4daebdeb959fd36f53bcf137635c2/andmore-core/plugins/db.core/src/org/eclipse/andmore/android/db/core/model/DbModel.java
+6	https://github.com/apache/incubator-netbeans/blob/15bc442a91fa2be81488725b15c61386bf1d0b9b/db/src/org/netbeans/modules/db/util/DriverListUtil.java
+7	https://github.com/eclipse/andmore/blob/5b1a4af19fd4daebdeb959fd36f53bcf137635c2/andmore-core/plugins/db.core/src/org/eclipse/andmore/android/db/core/ui/DbNode.java
+8	https://github.com/eclipse/andmore/blob/5b1a4af19fd4daebdeb959fd36f53bcf137635c2/andmore-core/plugins/db.devices/src/org/eclipse/andmore/android/db/devices/model/DeviceDbNode.java

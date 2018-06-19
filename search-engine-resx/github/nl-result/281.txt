@@ -1,0 +1,10 @@
+1	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/luni/src/test/java/libcore/java/util/zip/ZipOutputStreamTest.java
+2	https://github.com/eclipse/tycho.nexus/blob/612e96fe43ea795880fb88ba5bd55d5e40564edd/unzip-repository-plugin/src/main/java/org/eclipse/tycho/nexus/internal/plugin/DefaultUnzipRepository.java
+3	https://github.com/eclipse/mylyn.reviews/blob/722c91f1e0a29553dd0d0c7c9a2c37adf1b71b08/org.eclipse.mylyn.gerrit.tests/src/org/eclipse/mylyn/internal/gerrit/core/remote/PatchSetRemoteFactoryTest.java
+4	https://github.com/apache/tika/blob/b071ab15e6f85ac200c01e7159634f054cdc932e/tika-parsers/src/test/java/org/apache/tika/TestXXEInXML.java
+5	https://github.com/apache/uima-uimaj/blob/40c4aefb9c7e7cd0234e6bbc76e8f960ec8d7e7d/uimaj-core/src/main/java/org/apache/uima/pear/tools/PackageCreator.java
+6	https://github.com/eclipse/mylyn.tasks/blob/027444c29e37a0478645bd6da74185e18add8863/org.eclipse.mylyn.bugzilla.core/src/org/eclipse/mylyn/internal/bugzilla/core/BugzillaClient.java
+7	https://github.com/apache/commons-compress/blob/19e1b02f754a9b7bc969eb17bd52cc36a85c4d74/src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.java
+8	https://github.com/eclipse/mylyn.reviews/blob/34e030c0a1974fb966f207fabce8e1157268c188/org.eclipse.mylyn.gerrit.core/src/org/eclipse/mylyn/internal/gerrit/core/client/GerritClient.java
+9	https://github.com/eclipse/openj9/blob/1aeabeb94da23a7d912f68bcbe7cac57a52f1866/debugtools/DDR_VM/src/com/ibm/j9ddr/corereaders/elf/ELFDumpReader.java
+10	https://github.com/apache/tika/blob/892e38d5aba4e9f1480bce73802a2c2616da1db1/tika-parsers/src/test/java/org/apache/tika/mime/TestMimeTypes.java

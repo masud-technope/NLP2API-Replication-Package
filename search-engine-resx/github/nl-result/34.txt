@@ -1,0 +1,9 @@
+1	https://github.com/google/nomulus/blob/00bf8a999f6362740afd22619bd7baa7bda46321/java/google/registry/model/registry/Registry.java
+2	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/util/Locale.java
+3	https://github.com/apache/ofbiz/blob/7ba7f3c2e16df6c8db0d8114e124957199cea1ff/applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/product/ProductPromoWorker.java
+4	https://github.com/apache/ofbiz-framework/blob/5edb92e5ac2c7e96f20bf785902da692e428e9d3/applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/product/ProductPromoWorker.java
+5	https://github.com/apache/ofbiz/blob/7ba7f3c2e16df6c8db0d8114e124957199cea1ff/applications/product/src/main/java/org/apache/ofbiz/shipment/thirdparty/ups/UpsServices.java
+6	https://github.com/apache/ofbiz-framework/blob/34068df6a67251590b9e650f431ce4251ad8fc97/applications/product/src/main/java/org/apache/ofbiz/shipment/thirdparty/ups/UpsServices.java
+7	https://github.com/apache/ofbiz-framework/blob/5edb92e5ac2c7e96f20bf785902da692e428e9d3/applications/order/src/main/java/org/apache/ofbiz/order/order/OrderServices.java
+8	https://github.com/apache/ofbiz/blob/7ba7f3c2e16df6c8db0d8114e124957199cea1ff/applications/order/src/main/java/org/apache/ofbiz/order/order/OrderServices.java
+9	https://github.com/apache/incubator-freemarker/blob/ca1ecf78e7eebdb83c2b147d5fb9aadb1c25f93a/src/main/java/freemarker/core/Configurable.java

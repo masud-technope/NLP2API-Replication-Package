@@ -1,0 +1,13 @@
+1	https://stackoverflow.com/questions/22162398/how-to-set-a-background-picture-in-jpanel
+2	https://www.daniweb.com/programming/software-development/threads/187946/jpanel-background-picture
+3	https://stackoverflow.com/questions/1064977/setting-background-images-in-jframe
+4	https://gamedev.stackexchange.com/questions/30118/cant-remove-jpanel-from-jframe-while-adding-new-class-into-it?rq=1
+5	https://stackoverflow.com/questions/19125707/simplest-way-to-set-image-as-jpanel-background
+6	http://qaru.site/questions/20897/adding-background-image-to-jpanel-on-button-action
+7	https://stackoverflow.com/q/26315398
+8	https://tw.answers.yahoo.com/question/index?qid=20111108041431AAnOJae
+9	http://stackoverflow.link/question/11300616/add-a-background-image-to-jpanel-with-rounded-corners
+10	http://www.commentcamarche.net/forum/affich-1541291-java-ajouter-une-image-dans-un-panel
+11	http://www.commentcamarche.net/forum/affich-1541291-java-ajouter-une-image-dans-un-panel
+12	http://king39461.pixnet.net/blog/post/358070361-%5Bjava%5D-jframe%E4%B8%AD%E5%8A%A0%E8%83%8C%E6%99%AF%E5%9C%96%E7%89%87%7C
+13	http://www.ajlin.tw/blog/6

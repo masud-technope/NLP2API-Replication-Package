@@ -1,0 +1,2 @@
+1	https://github.com/apache/ddlutils/blob/408ed74e935d509e87885e5acfb1b2f1acd02f9c/src/test/java/org/apache/ddlutils/platform/TestPlatformUtils.java
+2	https://github.com/twitter/cloudhopper-commons/blob/ee2f50168e9b02d6a3d9bd67863beb40d3b7f726/ch-commons-sql/src/main/java/com/cloudhopper/commons/sql/DataSourceConfiguration.java

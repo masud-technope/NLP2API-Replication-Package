@@ -1,0 +1,7 @@
+1	https://stackoverflow.com/questions/23056090/applying-variable-transparency-to-an-image-in-java
+2	https://stackoverflow.com/questions/9949937/html5-canvas-ease-in-globalalpha
+3	https://stackoverflow.com/questions/24846620/pygame-varying-opacities-in-sprite-sheet
+4	https://stackoverflow.com/questions/46654946/removing-semi-transparent-overlay-on-flattened-image
+5	https://stackoverflow.com/questions/38417424/transparent-navbar-not-working-on-chrome
+6	https://stackoverflow.com/questions/16618410/uitoolbar-buttons-with-uiimage-not-entirely-transparent
+7	https://stackoverflow.com/questions/15236304/need-to-change-color-of-an-svg-image-in-qml

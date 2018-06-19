@@ -1,0 +1,12 @@
+1	https://github.com/apache/httpcomponents-client/blob/22902593e78d56423709b66abf4757082ddced50/httpclient5-fluent/src/examples/org/apache/hc/client5/http/examples/fluent/FluentResponseHandling.java
+2	https://github.com/apache/ode/blob/94d6cb2f3262c3178c3db3d0414d59271e7df396/axis2/src/main/java/org/apache/ode/axis2/httpbinding/HttpMethodConverter.java
+3	https://github.com/apache/incubator-taverna-common-activities/blob/5ed86aad377daa9a3bda131c6d6c0430b4cd15b1/taverna-rest-activity/src/main/java/org/apache/taverna/activities/rest/HTTPRequestHandler.java
+4	https://github.com/apache/lucene-solr/blob/bf6503ba5871228692ca79f0b2204a935538e00a/solr/core/src/test/org/apache/solr/cloud/CreateRoutedAliasTest.java
+5	https://github.com/apache/manifoldcf/blob/335112ff601e50d27f4ac739dceb82ee7251a13a/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/ScriptParser.java
+6	https://github.com/apache/sling-org-apache-sling-testing-clients/blob/ff95f1428b6b33969c6ea74a2871746596004747/src/main/java/org/apache/sling/testing/clients/SlingClient.java
+7	https://github.com/apache/manifoldcf/blob/f9ced2f2f785aed05d7aab42c6bfd9aee2f4fa96/connectors/wiki/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/wiki/WikiConnector.java
+8	https://github.com/apache/hadoop/blob/29233c3c4a5ef6c7829177fef454c0052d852cc5/hadoop-tools/hadoop-openstack/src/main/java/org/apache/hadoop/fs/swift/http/SwiftRestClient.java
+9	https://github.com/apache/nifi/blob/a2f2ddd6b82ab611e34301e67acf30b30b5a5964/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/PostHTTP.java
+10	https://github.com/apache/manifoldcf/blob/335112ff601e50d27f4ac739dceb82ee7251a13a/connectors/sharepoint/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/sharepoint/SharePointRepository.java
+11	https://github.com/apache/ofbiz-framework/blob/35d04737645ac509b9fe00129cb85668d8adc7fd/applications/product/src/main/java/org/apache/ofbiz/shipment/thirdparty/usps/UspsServices.java
+12	https://github.com/apache/ofbiz/blob/7ba7f3c2e16df6c8db0d8114e124957199cea1ff/applications/product/src/main/java/org/apache/ofbiz/shipment/thirdparty/usps/UspsServices.java

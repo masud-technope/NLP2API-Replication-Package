@@ -1,0 +1,15 @@
+1	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/Security.java
+2	https://github.com/apache/harmony/blob/724deb045a85b722c961d8b5a83ac7a697319441/classlib/modules/security/src/main/java/common/java/security/Security.java
+3	https://github.com/apache/harmony-classlib/blob/15867416ca717a9910abb787989205223f5b1f09/modules/security/src/main/java/common/java/security/Security.java
+4	https://github.com/google/j2objc/blob/ba9bd24c7c65ddfaa540e0f834975662874ebc9e/jre_emul/android/platform/libcore/ojluni/src/main/java/javax/crypto/SecretKeyFactory.java
+5	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/javax/crypto/Mac.java
+6	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/KeyFactory.java
+7	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/javax/crypto/JceSecurity.java
+8	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/Provider.java
+9	https://github.com/apache/derby/blob/676b961fb7f23fca9eb9ee2ddf56dab7d9402824/java/engine/org/apache/derby/iapi/store/raw/RawStoreFactory.java
+10	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/Signature.java
+11	https://github.com/google/j2objc/blob/ba9bd24c7c65ddfaa540e0f834975662874ebc9e/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/KeyPairGenerator.java
+12	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/javax/crypto/Cipher.java
+13	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/SecureRandom.java
+14	https://github.com/apache/river/blob/ee1158f4800e961001dd60b0fe4af9aa3ad7de72/src/net/jini/discovery/LookupDiscovery.java
+15	https://github.com/apache/derby/blob/8b2f38c83eaf079d075b8e7d49e464381db59792/java/engine/org/apache/derby/impl/jdbc/EmbedConnection.java

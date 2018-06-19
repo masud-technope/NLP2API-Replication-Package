@@ -1,0 +1,3 @@
+1	https://github.com/google/picview-for-android/blob/aa698b741d179ae1d36fdc4f166a76dc74f7e028/picview/src/com/google/android/apps/picview/adapter/MultiColumnImageAdapter.java
+2	https://github.com/eclipse/andmore/blob/5b1a4af19fd4daebdeb959fd36f53bcf137635c2/android-core/plugins/org.eclipse.andmore/src/org/eclipse/andmore/internal/editors/layout/gle2/RenderPreviewManager.java
+3	https://github.com/apache/atlas/blob/745b520b25e0f733a7a7c6d8fea49b2a7b1573b8/omrs/src/main/java/org/apache/atlas/omrs/archivemanager/opentypes/OpenMetadataTypesArchive.java

@@ -1,0 +1,7 @@
+1	https://stackoverflow.com/questions/12800613/memory-mapped-collections-in-java
+2	https://stackoverflow.com/questions/36866948/handling-huge-float-matrices-in-java
+3	https://stackoverflow.com/questions/31348306/build-sparse-matrix-scala-spark
+4	https://stackoverflow.com/questions/38688062/converting-a-1-2gb-list-of-edges-into-a-sparse-matrix
+5	https://stackoverflow.com/questions/39902466/fastest-way-to-write-huge-matrices-on-disk-with-java
+6	https://stackoverflow.com/questions/19358421/performance-degradation-when-using-mmap
+7	https://stackoverflow.com/questions/9305953/why-is-it-that-the-more-1-bits-in-my-key-the-longer-it-takes-to-place-in-the

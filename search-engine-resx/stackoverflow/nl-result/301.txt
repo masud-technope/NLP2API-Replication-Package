@@ -1,0 +1,5 @@
+1	https://stackoverflow.com/questions/17863429/php-domdocument-appendchild-to-end-of-root
+2	https://stackoverflow.com/questions/44251924/powershell-add-new-xml-element-after-a-specific-current-sibling-element
+3	https://stackoverflow.com/questions/26849767/how-can-i-insert-elements-into-my-current-xml-document-using-xquery
+4	https://stackoverflow.com/questions/26263506/parsing-kml-files-using-java-in-eclipse
+5	https://stackoverflow.com/questions/28064835/trouble-using-php-data-in-separate-file-with-getjson

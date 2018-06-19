@@ -1,0 +1,3 @@
+1	https://github.com/apache/fop/blob/19ee139e36b757fe5f380eb2295e1089af76238b/fop-core/src/main/java/org/apache/fop/svg/PDFGraphics2D.java
+2	https://github.com/apache/pdfbox/blob/13e3e092dc1f6cecba48f737f94547aa91d7f981/pdfbox/src/main/java/org/apache/pdfbox/rendering/PageDrawer.java
+3	https://github.com/apache/pdfbox/blob/994f9837bb39925b85a7640eb1c82456f432a6e1/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/PDDocument.java

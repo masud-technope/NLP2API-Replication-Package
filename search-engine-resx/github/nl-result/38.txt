@@ -1,0 +1,15 @@
+1	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/text/DateFormatSymbols.java
+2	https://github.com/apache/sis/blob/5edde476580510fbfd6170b1297da2f65ca80a90/core/sis-metadata/src/main/java/org/apache/sis/io/wkt/Formatter.java
+3	https://github.com/google/j2objc/blob/7c4b2e04a62eaf9ad4cc0e70d34dd9774b097424/jre_emul/android/platform/libcore/ojluni/src/main/java/java/text/SimpleDateFormat.java
+4	https://github.com/google/j2objc/blob/167e57c4eed3380a462af11e2dcad428edb975ce/jre_emul/openjdk/src/share/classes/java/text/DecimalFormat.java
+5	https://github.com/google/desugar_jdk_libs/blob/f92e482fdce79564b75940b784cd90c447e461d9/src/share/classes/java/time/format/DateTimeFormatter.java
+6	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/util/Formatter.java
+7	https://github.com/apache/tomcat55/blob/238168ffd2f5495e20e160991ac847ffbdc09fd8/container/catalina/src/share/org/apache/catalina/valves/ExtendedAccessLogValve.java
+8	https://github.com/google/desugar_jdk_libs/blob/f92e482fdce79564b75940b784cd90c447e461d9/src/share/classes/java/time/format/DateTimeFormatterBuilder.java
+9	https://github.com/apache/harmony/blob/724deb045a85b722c961d8b5a83ac7a697319441/classlib/modules/text/src/main/java/java/text/MessageFormat.java
+10	https://github.com/apache/harmony-classlib/blob/15867416ca717a9910abb787989205223f5b1f09/modules/text/src/main/java/java/text/MessageFormat.java
+11	https://github.com/apache/harmony-classlib/blob/15867416ca717a9910abb787989205223f5b1f09/modules/luni/src/main/java/java/util/Formatter.java
+12	https://github.com/apache/harmony/blob/724deb045a85b722c961d8b5a83ac7a697319441/classlib/modules/luni/src/main/java/java/util/Formatter.java
+13	https://github.com/apache/incubator-freemarker/blob/ca1ecf78e7eebdb83c2b147d5fb9aadb1c25f93a/src/main/java/freemarker/core/Configurable.java
+14	https://github.com/apache/poi/blob/8d4f3fde68d19056aada68c8e9a0c98154b42ca3/src/ooxml/testcases/org/apache/poi/xssf/usermodel/TestXSSFBugs.java
+15	https://github.com/apache/odftoolkit/blob/99d5b0368f62de28c5b8ef8538a9163df8b1d428/simple/src/main/java/org/odftoolkit/simple/table/Table.java

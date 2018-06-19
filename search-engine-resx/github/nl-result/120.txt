@@ -1,0 +1,14 @@
+1	https://github.com/apache/tika/blob/48a4ab9849181cfe30acc34701325d3cc4a9431d/tika-parsers/src/test/java/org/apache/tika/parser/pdf/PDFParserTest.java
+2	https://github.com/apache/fop/blob/dd327ebf1244913e58c99b22bd7b196575542fb7/fop-core/src/main/java/org/apache/fop/pdf/PDFFactory.java
+3	https://github.com/apache/pdfbox/blob/0221a1df3b44b59aa80a2b854b1887a60d1a979d/examples/src/main/java/org/apache/pdfbox/examples/signature/CreateVisibleSignature.java
+4	https://github.com/apache/click/blob/92cffd5b5991580a97005235319304d08b78d5d7/examples/src/org/apache/click/examples/page/tree/AdvancedTreePage.java
+5	https://github.com/apache/pdfbox/blob/e262eb8c64fb51f9fcb61f0cc4ca30b3f49fec9c/examples/src/main/java/org/apache/pdfbox/examples/signature/CreateVisibleSignature2.java
+6	https://github.com/apache/tomcat80/blob/9e1bc0f4725495f981a55c621475a9419281501a/java/org/apache/catalina/startup/Tomcat.java
+7	https://github.com/apache/tomcat85/blob/2349801827f09fb6582a8afdeca704294106ad9a/java/org/apache/catalina/startup/Tomcat.java
+8	https://github.com/apache/tomcat80/blob/b4e88e307298fdc054f06314dd5c89fe7b3b28e7/modules/tomcat-lite/test/org/apache/coyote/lite/Tomcat.java
+9	https://github.com/apache/tomcat70/blob/2aac69f694d42d9219eb27018b3da0ae1bdd73ab/java/org/apache/catalina/startup/Tomcat.java
+10	https://github.com/apache/pdfbox/blob/593e280fc39b12695fa2a141aa3103ff07fb075d/pdfbox/src/main/java/org/apache/pdfbox/pdfwriter/COSWriter.java
+11	https://github.com/apache/tomcat/blob/3e54b2a6314eda11617ff7a7b899c251e222b1a1/java/org/apache/catalina/startup/Tomcat.java
+12	https://github.com/apache/pdfbox/blob/994f9837bb39925b85a7640eb1c82456f432a6e1/pdfbox/src/main/java/org/apache/pdfbox/text/TextPosition.java
+13	https://github.com/apache/pdfbox/blob/d412ba1cfc416c21fdc3f6754da743578c19a411/pdfbox/src/main/java/org/apache/pdfbox/pdfparser/COSParser.java
+14	https://github.com/apache/lucene-solr/blob/e2521b2a8baabdaf43b92192588f51e042d21e97/lucene/core/src/java/org/apache/lucene/analysis/package-info.java

@@ -1,0 +1,12 @@
+1	https://stackoverflow.com/questions/9088666/text-in-mysql-db-is-iso-8859-1-latin-encoded-but-should-be-utf-8
+2	https://stackoverflow.com/questions/10420889/how-to-detect-and-resolve-incorrectly-encoded-varchar-data
+3	https://stackoverflow.com/questions/631700/how-to-minimize-question-marks-when-encoding-a-string-as-latin-1
+4	https://stackoverflow.com/questions/3588083/unicodeencodeerror-ascii-codec-cant-encode-character-u-xa3
+5	https://stackoverflow.com/questions/37207445/using-python-to-clean-up-string-encoding-problems-in-text-files
+6	https://stackoverflow.com/questions/16752527/charset-in-data-uri
+7	https://stackoverflow.com/questions/21967222/java-encoding-from-utf-8-to-iso-8859-1-into-a-xml-file
+8	https://stackoverflow.com/questions/45232486/r-geojson-read-read-utf-8-file-on-windows-results-in-weird-characters-in
+9	https://stackoverflow.com/questions/46153624/how-to-get-output-in-desired-encoding-scheme-using-powershell-out-fil
+10	https://stackoverflow.com/questions/20645352/trying-to-wrap-my-brain-around-html-character-encodings-and-htmlspecialchars
+11	https://stackoverflow.com/questions/12827256/python-standard-idiom-to-set-sys-stdout-buffer-to-zero-doesnt-work-with-unicode
+12	https://stackoverflow.com/questions/18851558/ios-whats-the-best-way-to-detect-a-files-encoding

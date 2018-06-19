@@ -1,0 +1,7 @@
+1	https://github.com/google/grafika/blob/e55328a8dc77a49bf51e10c16fc932ab983093af/app/src/main/java/com/android/grafika/RecordFBOActivity.java
+2	https://github.com/eclipse/rap/blob/6e2768affd3cb5c4a6953f4b8e27d7453dddc391/bundles/org.eclipse.rap.rwt/src/org/eclipse/swt/SWT.java
+3	https://github.com/eclipse/nebula/blob/e495a9cfce9acbce34cc21a50ee1ce19fd031108/widgets/ganttchart/org.eclipse.nebula.widgets.ganttchart/src/org/eclipse/nebula/widgets/ganttchart/GanttComposite.java
+4	https://github.com/eclipse/eclipse.platform.swt/blob/ddedf897614a02d30597f85d9cf8131b465864fc/bundles/org.eclipse.swt/Eclipse%20SWT/common/org/eclipse/swt/SWT.java
+5	https://github.com/apache/royale-compiler/blob/741c8ff3a8795094ad0ac8c6b2016797eb35428f/debugger/src/main/java/royale/tools/debugger/cli/DebugCLI.java
+6	https://github.com/eclipse/eclipse.platform.swt/blob/36eb2c47c4f3ac5915c9cf36797c1bb1b3025bde/bundles/org.eclipse.swt/Eclipse%20SWT%20WebKit/gtk/org/eclipse/swt/browser/WebKit.java
+7	https://github.com/google/sagetv/blob/a5493996832b7e7aea9094dd3d600824e5041bba/java/sage/MiniClientSageRenderer.java

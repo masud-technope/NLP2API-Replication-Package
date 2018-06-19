@@ -1,0 +1,9 @@
+1	https://github.com/apache/maven-wagon/blob/1247688c22984fe40c6e51ce7c05315c33b10769/wagon-providers/wagon-ftp/src/main/java/org/apache/maven/wagon/providers/ftp/FtpWagon.java
+2	https://github.com/apache/ant/blob/3af9a7305af2df433f09001cea337e3ff8fb4f5c/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java
+3	https://github.com/apache/servicemix-components/blob/a7e22cc216847553923ed674c48bd6ac7e0ed78b/bindings/servicemix-ftp/src/main/java/org/apache/servicemix/ftp/FtpSenderEndpoint.java
+4	https://github.com/apache/commons-net/blob/1863723f01e10e3930def14b89e12322bc6f9217/src/main/java/org/apache/commons/net/examples/ftp/FTPClientExample.java
+5	https://github.com/apache/commons-net/blob/1863723f01e10e3930def14b89e12322bc6f9217/src/main/java/org/apache/commons/net/ftp/FTPClient.java
+6	https://github.com/apache/ant/blob/6656db28bb79912ec1c744f34affbda53f86e6fd/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTask.java
+7	https://github.com/apache/ant/blob/95495d57aa5cca8fc350ebfb10f6d390f40290cb/src/main/org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector.java
+8	https://github.com/eclipse/vert.x/blob/5ec8e33446eb0f58970c8fef3cc198d6c29f3931/src/main/java/io/vertx/core/http/package-info.java
+9	https://github.com/apache/manifoldcf/blob/f9ced2f2f785aed05d7aab42c6bfd9aee2f4fa96/connectors/hdfs/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/hdfs/HDFSRepositoryConnector.java

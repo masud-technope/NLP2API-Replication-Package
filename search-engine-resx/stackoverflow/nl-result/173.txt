@@ -1,0 +1,8 @@
+1	https://stackoverflow.com/questions/45151001/efficient-regex-for-requiring-a-specific-sentence-pattern-but-allowing-html-etc
+2	https://stackoverflow.com/questions/12225415/powershell-replacing-regex-named-groups-with-variables
+3	https://stackoverflow.com/questions/47153147/how-to-get-every-iteration-of-a-group-in-a-regex-as-a-separate-group
+4	https://stackoverflow.com/questions/8032430/how-do-i-use-regex-to-search-ignoring-certain-characters-with-nspredicate
+5	https://stackoverflow.com/questions/6023722/how-can-i-dynamically-replace-portions-of-text-with-textboxes
+6	https://stackoverflow.com/questions/3362640/why-are-most-string-manipulations-in-java-based-on-regexp
+7	https://stackoverflow.com/questions/1160164/how-to-enclose-text-patterns-within-xml-elements-except-when-it-is-already-insi
+8	https://stackoverflow.com/questions/21921877/picking-blocks-out-of-largely-free-form-text-with-fparsec

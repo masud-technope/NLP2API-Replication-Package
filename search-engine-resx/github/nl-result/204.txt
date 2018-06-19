@@ -1,0 +1,8 @@
+1	https://github.com/eclipse/andmore/blob/5b1a4af19fd4daebdeb959fd36f53bcf137635c2/andmore-core/plugins/emulator/src/org/eclipse/andmore/android/emulator/skin/android/AndroidSkinTranslator.java
+2	https://github.com/eclipse/efxclipse-rt/blob/67dcce6546624ac4f85f9b887a54de4cff225f59/experimental/swt/org.eclipse.fx.runtime.swt/src-swt/org/eclipse/swt/graphics/ImageData.java
+3	https://github.com/google/sagetv/blob/9a1d8151855d0f1f631028ac4313205d8ed4ed42/java/sage/FloatingEditor.java
+4	https://github.com/eclipse/eclipse.platform.swt/blob/82b8cf40f11f7c0a7dd0bd7e6d9bcc1e41f1c10e/bundles/org.eclipse.swt/Eclipse%20SWT/common/org/eclipse/swt/graphics/ImageData.java
+5	https://github.com/eclipse/rap/blob/6e2768affd3cb5c4a6953f4b8e27d7453dddc391/bundles/org.eclipse.rap.rwt/src/org/eclipse/swt/graphics/ImageData.java
+6	https://github.com/eclipse/efxclipse/blob/1645083f67aabf9195ec822221706adffb025dcc/experimental/swt/org.eclipse.fx.runtime.swt/src-swt/org/eclipse/swt/graphics/ImageData.java
+7	https://github.com/google/sagetv/blob/a5493996832b7e7aea9094dd3d600824e5041bba/java/sage/ZPseudoComp.java
+8	https://github.com/google/sagetv/blob/a5493996832b7e7aea9094dd3d600824e5041bba/java/sage/MiniClientSageRenderer.java

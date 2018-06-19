@@ -1,0 +1,12 @@
+1	https://stackoverflow.com/questions/28590350/how-can-i-know-if-the-directory-is-the-root-or-not
+2	https://stackoverflow.com/questions/4110680/recursively-scan-directory-and-sub-directories-through-ftp-with-php
+3	https://stackoverflow.com/questions/16166732/recursively-scan-a-windows-ftp-server-using-php-hangs-midway-why
+4	https://stackoverflow.com/questions/30089828/bash-script-for-recursive-directory-listing-on-ftp-server-without-r
+5	https://stackoverflow.com/questions/2614319/recursive-ftp-directory-listing-in-shell-bash-with-a-single-session-using-curl
+6	https://stackoverflow.com/questions/46043559/ftpwebrequest-throws-the-following-exception-after-repeated-calls-the-underlyi
+7	https://stackoverflow.com/questions/45566605/wildcard-regex-for-list-command-doesnt-work-in-aix-machine
+8	https://stackoverflow.com/questions/44546249/a-single-folder-mysteriously-not-downloaded-from-or-compressed-on-ftp-server
+9	https://stackoverflow.com/questions/28706060/error-io-pending-on-ftp-asynchronous-operation-wininet-c
+10	https://stackoverflow.com/questions/38132769/how-to-alter-winscp-script-for-recursively-searching-for-text-to-print-just-a-fo
+11	https://stackoverflow.com/questions/9624129/writing-a-recursive-settimeout-loop-in-coffeescript
+12	https://stackoverflow.com/questions/1332626/replacing-all-index-html-files-in-a-directory-tree

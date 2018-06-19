@@ -1,0 +1,10 @@
+1	https://stackoverflow.com/questions/13065037/jquery-mobile-popup-in-nested-list-view
+2	https://stackoverflow.com/questions/23681977/windows-forms-popup-wtih-context-menu-behaviour
+3	https://stackoverflow.com/questions/3474236/xul-how-do-you-create-a-nested-menupopup-inside-a-statusbarpanel-with-statusba
+4	https://stackoverflow.com/questions/2815453/internet-explorer-visual-element-stacking-issue
+5	https://stackoverflow.com/questions/48066810/toggle-between-content-with-bootstrap
+6	https://stackoverflow.com/questions/42659634/create-react-context-menu-on-the-fly
+7	https://stackoverflow.com/questions/34776654/angularjs-modal-dialog-form-not-recongizing-click-event-from-datepair
+8	https://stackoverflow.com/questions/43791795/powershell-spliting-text-into-two-or-more-lines
+9	https://stackoverflow.com/questions/24523498/vim-c-qt-c-development-powerful-plugins
+10	https://stackoverflow.com/questions/36844600/angular-modals-ui-router-and-general-modal-architecture-concepts

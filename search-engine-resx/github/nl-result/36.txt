@@ -1,0 +1,9 @@
+1	https://github.com/apache/camel/blob/a989fea98ce32f5f622c576bf3ea08c1782116e2/platforms/spring-boot/components-starter/camel-jaxb-starter/src/main/java/org/apache/camel/converter/jaxb/springboot/JaxbDataFormatConfiguration.java
+2	https://github.com/apache/camel/blob/83bd9cdd8df60c4c88a9d185032b942ac3557d8a/camel-core/src/main/java/org/apache/camel/model/dataformat/JaxbDataFormat.java
+3	https://github.com/apache/axis2-java/blob/329ac88407e73d63c1831c85a1228abc588d8f39/modules/jaxws/src/org/apache/axis2/jaxws/marshaller/impl/alt/DocLitWrappedMinimalMethodMarshaller.java
+4	https://github.com/apache/tomee/blob/a73c93f04341068812136c7d073cdb10b9a4f583/container/openejb-core/src/main/java/org/apache/openejb/config/AppInfoBuilder.java
+5	https://github.com/apache/tomee-site-ng/blob/8dbf7c5a4bdc6cd5249e00ff85d78a24fd76c7af/container/openejb-core/src/main/java/org/apache/openejb/config/AppInfoBuilder.java
+6	https://github.com/eclipse/virgo.eclipse-mirror/blob/6e07ae84466fae18c533f22ed0376d6064b51580/hotfix/source/openejb-core_4.5.2/src/main/java/org/apache/openejb/config/AppInfoBuilder.java
+7	https://github.com/eclipse/virgo.eclipse-mirror/blob/6e07ae84466fae18c533f22ed0376d6064b51580/hotfix/source/openejb-core_4.5.2/src.original/main/java/org/apache/openejb/config/AppInfoBuilder.java
+8	https://github.com/apache/camel/blob/020f37b5cc83347d2a1c4dbfb8a5bd4a3031684e/camel-core/src/main/java/org/apache/camel/model/AggregateDefinition.java
+9	https://github.com/apache/camel/blob/add071b58447bcd5fb8a7abf91ed257a59fe693c/camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java

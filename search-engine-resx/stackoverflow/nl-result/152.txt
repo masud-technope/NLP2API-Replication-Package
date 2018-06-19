@@ -1,0 +1,4 @@
+1	https://stackoverflow.com/questions/5047494/python-crc-32-woes
+2	https://stackoverflow.com/questions/40662669/for-f-read-input-with-various-delimiters
+3	https://stackoverflow.com/questions/13156676/sphinx-filter-without-search
+4	https://stackoverflow.com/questions/21087513/why-embedded-crc-and-current-crc-differs

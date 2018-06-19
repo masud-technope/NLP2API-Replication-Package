@@ -1,0 +1,2 @@
+1	https://stackoverflow.com/questions/17865270/error-handling-with-spring-data-and-mongo-java-driver
+2	https://stackoverflow.com/questions/29722424/java-mongodb-bson-class-confusion

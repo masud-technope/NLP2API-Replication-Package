@@ -1,0 +1,1 @@
+1	https://stackoverflow.com/questions/11552980/establishing-communication-between-java-desktop-app-and-java-browser-applet-via

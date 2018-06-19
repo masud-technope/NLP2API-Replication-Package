@@ -1,0 +1,2 @@
+1	https://github.com/eclipse/che/blob/6e8dae7e310bd87b169c90f3206f00d751538079/plugins/plugin-debugger/che-plugin-debugger-ide/src/main/java/org/eclipse/che/plugin/debugger/ide/debug/DebuggerViewImpl.java
+2	https://github.com/eclipse/che/blob/c2841ef425438e1a6d59d8d79ca3b7f92a41f600/ide/che-core-ide-ui/src/main/java/org/eclipse/che/ide/ui/smartTree/Tree.java

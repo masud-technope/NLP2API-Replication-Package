@@ -1,0 +1,6 @@
+1	https://github.com/apache/pdfbox/blob/3d307b52ac0181bd8715a1aa5fa4e831d69d4ef6/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/font/PDType0Font.java
+2	https://github.com/google/sagetv/blob/a5493996832b7e7aea9094dd3d600824e5041bba/java/sage/FreetypeFont.java
+3	https://github.com/apache/pdfbox/blob/65da496805b86e045f301e7cae5411dc9889aba7/tools/src/main/java/org/apache/pdfbox/tools/TextToPDF.java
+4	https://github.com/google/sagetv/blob/28ba31d9dffe6a6dfff272d230795a38face753c/java/sage/UIManager.java
+5	https://github.com/apache/incubator-freemarker-docgen/blob/fcd3269d2a3d07033389db8ea9ac5de483f21794/src/main/org/freemarker/docgen/Transform.java
+6	https://github.com/apache/ambari/blob/23743c99fd7caee522c6ec740749d11b11472380/ambari-server/src/main/java/org/apache/ambari/server/controller/AmbariServer.java

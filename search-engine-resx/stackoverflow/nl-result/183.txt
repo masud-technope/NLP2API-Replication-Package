@@ -1,0 +1,13 @@
+1	https://stackoverflow.com/questions/24119916/how-can-i-control-file-compression-parameters-in-java-to-decompress-objects-fast
+2	https://stackoverflow.com/questions/1478280/what-can-i-do-in-java-code-to-optimize-for-cpu-caching
+3	https://stackoverflow.com/questions/32479676/is-there-a-better-way-of-achieving-a-worthwhile-amount-of-compression-on-a-java
+4	https://stackoverflow.com/questions/39864807/sending-and-receiving-data-using-sockets
+5	https://stackoverflow.com/questions/1955322/at-what-point-is-it-worth-reusing-arrays-in-java
+6	https://stackoverflow.com/questions/44549164/how-to-unzip-a-gz-archive-with-one-single-file-inside-in-node-js-lambda-functi
+7	https://stackoverflow.com/questions/16099044/storing-a-lot-of-graphic-data-in-memory-principle
+8	https://stackoverflow.com/questions/28664363/jquery-dynamic-generation-of-tables-performance-issues-string-compression
+9	https://stackoverflow.com/questions/5690297/any-better-options-than-porting-from-c-to-java
+10	https://stackoverflow.com/questions/1914826/how-to-compress-repeating-branches-in-directed-graph
+11	https://stackoverflow.com/questions/49454449/java-gzip-makes-small-differences-when-compressing-file-and-decompressing-it-aga
+12	https://stackoverflow.com/questions/32222716/exporting-eclipse-project-causes-incorrect-texturing-and-crashes
+13	https://stackoverflow.com/questions/32405967/how-to-create-an-animated-image-from-still-frames

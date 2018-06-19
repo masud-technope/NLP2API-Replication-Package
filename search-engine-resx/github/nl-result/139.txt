@@ -1,0 +1,9 @@
+1	https://github.com/google/cap-library/blob/033d45e6b99c3f9c76c0b079b299b8a23efbe935/java/src/com/google/publicalerts/cap/XmlSigner.java
+2	https://github.com/apache/santuario-java/blob/93a24d6b5064a3015c023f79e197d7e2dedd027d/src/test/java/javax/xml/crypto/test/dsig/DetachedTest.java
+3	https://github.com/apache/santuario-java/blob/396482df6df6c5f75ddd433beb1409803091e990/src/test/java/org/apache/xml/security/stax/impl/securityToken/SecurityTokenFactoryImplTest.java
+4	https://github.com/apache/santuario-java/blob/17e154097889a25f536470c36564ea5f699cfb3a/src/test/java/org/apache/xml/security/test/dom/signature/XmlSecTest.java
+5	https://github.com/apache/camel/blob/ddbab599efb44f72b30f3b0c608c62be6fe560e8/components/camel-xmlsecurity/src/test/java/org/apache/camel/component/xmlsecurity/SignatureDigestMethodTest.java
+6	https://github.com/apache/santuario-java/blob/93a24d6b5064a3015c023f79e197d7e2dedd027d/src/test/java/org/apache/xml/security/test/dom/signature/ECDSASignatureTest.java
+7	https://github.com/apache/camel/blob/ddbab599efb44f72b30f3b0c608c62be6fe560e8/components/camel-xmlsecurity/src/test/java/org/apache/camel/component/xmlsecurity/SignatureAlgorithmTest.java
+8	https://github.com/apache/camel/blob/ddbab599efb44f72b30f3b0c608c62be6fe560e8/components/camel-xmlsecurity/src/test/java/org/apache/camel/component/xmlsecurity/XmlSignatureTest.java
+9	https://github.com/eclipse/neoscada/blob/3f901bcdb0ef5af408294447b81054bb5cec87b5/core/org.eclipse.scada.sec.authz.signature.testing/src/org/eclipse/scada/sec/authz/signature/SignatureRequestBuilderTest.java

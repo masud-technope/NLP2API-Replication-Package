@@ -1,0 +1,3 @@
+1	https://github.com/apache/geronimo-javamail/blob/2ac97ecea0e268b986f91124f15fe9dc54084df8/geronimo-javamail_1.3.1/geronimo-javamail_1.3.1_provider/src/main/java/org/apache/geronimo/javamail/transport/smtp/SMTPTransport.java
+2	https://github.com/apache/geronimo-javamail/blob/2ac97ecea0e268b986f91124f15fe9dc54084df8/geronimo-javamail_1.5/geronimo-javamail_1.5_provider/src/main/java/org/apache/geronimo/javamail/transport/smtp/SMTPConnection.java
+3	https://github.com/apache/geronimo-javamail/blob/2ac97ecea0e268b986f91124f15fe9dc54084df8/geronimo-javamail_1.4/geronimo-javamail_1.4_provider/src/main/java/org/apache/geronimo/javamail/transport/smtp/SMTPConnection.java

@@ -1,0 +1,6 @@
+1	https://stackoverflow.com/questions/49028754/how-to-use-microsoft-enhanced-rsa-and-aes-cryptographic-provider-with-microsof
+2	https://stackoverflow.com/questions/49338116/there-was-an-error-while-loading-the-package-ssis
+3	https://stackoverflow.com/questions/11864696/how-to-create-java-key-store-jks-file-with-aes-encryption
+4	https://stackoverflow.com/questions/35403124/have-you-added-or-made-changes-to-encryption-features-since-your-last-submission
+5	https://stackoverflow.com/questions/25577933/itext-using-java-to-digitally-sign-pdf-doc-and-observing-java-security-nosuchal
+6	https://stackoverflow.com/questions/21468811/does-using-apples-push-notification-service-make-the-app-use-encryption

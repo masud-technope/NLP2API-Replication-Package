@@ -1,0 +1,5 @@
+1	https://github.com/apache/juddi/blob/af452e119631055c5e9a1d5bdc136af46f5bede0/juddi-client/src/main/java/org/apache/juddi/v3/client/cryptor/DigSigUtil.java
+2	https://github.com/google/j2objc/blob/ba9bd24c7c65ddfaa540e0f834975662874ebc9e/jre_emul/android/platform/libcore/ojluni/src/main/java/java/security/cert/X509Certificate.java
+3	https://github.com/eclipse/californium/blob/adca8d18a835e579df0b9eef4e6e81b255d4a454/scandium-core/src/main/java/org/eclipse/californium/scandium/dtls/ServerHandshaker.java
+4	https://github.com/apache/ignite/blob/f575a245cf9958857e0f51d7f56db43f0d3a2d5c/modules/urideploy/src/main/java/org/apache/ignite/spi/deployment/uri/UriDeploymentSpi.java
+5	https://github.com/google/conscrypt/blob/7d5066f5d9301d9cbd0a1ba12c3c927515b672cd/openjdk-integ-tests/src/test/java/org/conscrypt/javax/crypto/CipherTest.java

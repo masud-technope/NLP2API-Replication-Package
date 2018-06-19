@@ -1,0 +1,16 @@
+1	https://github.com/twitter/rsc/blob/199783b1778e0061bf9431ae74e9baf0ac31b09f/examples/re2j/src/main/java/com/google/re2j/Matcher.java
+2	https://github.com/google/re2j/blob/3e6615297fed730f7c44e76d0d415f54c790a367/java/com/google/re2j/Matcher.java
+3	https://github.com/apache/nifi/blob/e916594b69601bce58e045ba8ae2acf6af66eb46/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/ReplaceText.java
+4	https://github.com/google/re2j/blob/e834873993a4afa8233b29a8030e1b1d586c43c0/java/com/google/re2j/RE2.java
+5	https://github.com/apache/nifi/blob/2fbe922a2b0388f7541b2704ab621a9c7f9ba37d/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/RouteText.java
+6	https://github.com/twitter/rsc/blob/199783b1778e0061bf9431ae74e9baf0ac31b09f/examples/re2j/src/main/java/com/google/re2j/RE2.java
+7	https://github.com/eclipse/cdt/blob/6edd1c6a53bde9187722e338dab4c043aed801b8/build/org.eclipse.cdt.managedbuilder.core/src/org/eclipse/cdt/managedbuilder/language/settings/providers/AbstractLanguageSettingsOutputScanner.java
+8	https://github.com/apache/xerces2-j/blob/a3a260fed2714fb992fbac072fb841554e50ec5f/src/org/apache/xerces/impl/xpath/regex/RegularExpression.java
+9	https://github.com/apache/impala/blob/161cbe30ff0cba70e48fe48d41e0d76ec5273264/fe/src/main/java/org/apache/impala/planner/HdfsScanNode.java
+10	https://github.com/apache/river/blob/ee1158f4800e961001dd60b0fe4af9aa3ad7de72/src/com/sun/jini/outrigger/OutriggerServerImpl.java
+11	https://github.com/apache/beam/blob/07d97cb29e1fb9576d849b67cc2054de08239423/sdks/java/core/src/main/java/org/apache/beam/sdk/transforms/Combine.java
+12	https://github.com/apache/derby/blob/0199c2ecf5abe872f229831db89b425932421cd9/java/testing/org/apache/derbyTesting/functionTests/tests/lang/XplainStatisticsTest.java
+13	https://github.com/apache/xmlbeans/blob/cae28e70b103e4deb0876e7928c34a0255a76c80/src/typeimpl/org/apache/xmlbeans/impl/regex/RegularExpression.java
+14	https://github.com/apache/poi/blob/5543eb9de806f02ba54bb33cd15d23221b5eda4d/xmlbeans/src/typeimpl/org/apache/xmlbeans/impl/regex/RegularExpression.java
+15	https://github.com/eclipse/emf/blob/7fbed8789087a7e5f8ca4f82d0495fde258b541c/plugins/org.eclipse.emf.ecore/src/org/eclipse/emf/ecore/xml/type/internal/RegEx.java
+16	https://github.com/eclipse/emf/blob/72f172069566c7fb61c35861611e87beca0836a1/plugins/org.eclipse.emf.gwt.ecore/src/org/eclipse/emf/ecore/xml/type/internal/RegEx.java

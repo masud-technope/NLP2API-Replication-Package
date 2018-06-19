@@ -1,0 +1,11 @@
+1	https://stackoverflow.com/questions/5006424/how-do-i-find-text-features-and-print-them
+2	https://stackoverflow.com/questions/35803989/trouble-parsing-a-sentence-with-java-pattern-matcher
+3	https://stackoverflow.com/questions/9271750/sorted-map-not-outputting-sorted-do-i-understand-maps
+4	https://stackoverflow.com/questions/37420371/extract-a-sentence-from-a-text-based-on-another-sentence-that-lacks-some-words
+5	https://stackoverflow.com/questions/33973513/how-to-replace-latex-bold-command-with-word-docx-equivalent-in-python
+6	https://stackoverflow.com/questions/23854468/avoid-a-ga-fitness-function-with-diverging-goals-getting-stuck
+7	https://stackoverflow.com/questions/22698990/how-to-break-mysql-contenttexthtml-content-into-columns
+8	https://stackoverflow.com/questions/8492763/thai-line-breaking-how-to-break-thai-text-effectively
+9	https://stackoverflow.com/questions/41780846/regex-matching-mc-questions-in-extracted-pdfs
+10	https://stackoverflow.com/questions/8541447/some-nlp-stuff-to-do-with-grammar-tagging-stemming-and-word-sense-disambiguat
+11	https://stackoverflow.com/questions/48222501/assign-wbr-to-specific-characters-within-css-style

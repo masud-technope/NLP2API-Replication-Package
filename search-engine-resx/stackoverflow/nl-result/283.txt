@@ -1,0 +1,3 @@
+1	https://stackoverflow.com/questions/21656136/scikit-image-color-filtering-and-changing-parts-of-image-to-array
+2	https://stackoverflow.com/questions/25150931/java-lwjgl-heightmap-not-rendering-correctly
+3	https://stackoverflow.com/questions/49456951/trouble-deploying-cesium-js-application-to-aws-elastic-beanstalk

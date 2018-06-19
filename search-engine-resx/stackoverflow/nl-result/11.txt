@@ -1,0 +1,5 @@
+1	https://stackoverflow.com/questions/8277327/create-insert-statements-from-mysql-database-in-java
+2	https://stackoverflow.com/questions/10863799/how-to-create-a-database-binding-using-windows-builder-pro
+3	https://stackoverflow.com/questions/21638165/synchronize-data-of-two-dbcontexts-different-providers
+4	https://stackoverflow.com/questions/12482598/amazon-rds-launching-db-t1-micro-instances-using-the-java-sdk
+5	https://stackoverflow.com/questions/35684728/maven-embedder-running-hibernate3hbm2java-programmatically

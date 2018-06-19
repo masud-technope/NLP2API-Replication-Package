@@ -1,0 +1,2 @@
+1	https://github.com/google/j2objc/blob/66348c337084b37c09e5e017e4f4169bec6f37c7/xalan/third_party/android/platform/external/apache-xml/src/main/java/org/apache/xml/utils/DOMHelper.java
+2	https://github.com/apache/xalan-j/blob/c54cae05dcc64c25b42d546a85c8247873407654/src/org/apache/xpath/DOMHelper.java

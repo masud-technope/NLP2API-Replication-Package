@@ -1,0 +1,13 @@
+1	https://stackoverflow.com/questions/12432527/how-do-i-add-a-new-currency-to-java-util-currency-for-an-existing-country-code-i
+2	https://stackoverflow.com/questions/44951771/html-currency-symbols-by-hex-code
+3	https://stackoverflow.com/questions/43013882/how-do-i-update-multiple-forms-in-multiple-threads-in-c
+4	https://stackoverflow.com/questions/19829010/getting-currency-conversion-data-from-yahooapis-now-that-igoogle-is-gone
+5	https://stackoverflow.com/questions/28043933/convert-to-usd-payments-made-with-paypal-for-unaccepted-currencies-in-magento
+6	https://stackoverflow.com/questions/46960483/verbose-oo-javascript-assignment
+7	https://stackoverflow.com/questions/36070936/troubles-adding-inline-crud-to-jqgrid-table-what-have-i-missed
+8	https://stackoverflow.com/questions/31753087/how-to-link-related-transactions-obtained-by-transactionsearch-and-gettransactio
+9	https://stackoverflow.com/questions/38382729/how-to-sell-a-dynamically-generated-file
+10	https://stackoverflow.com/questions/1385612/multi-tier-applications-with-php
+11	https://stackoverflow.com/questions/36742307/how-to-read-excel-cell-and-retain-or-detect-its-format-in-python
+12	https://stackoverflow.com/questions/44260665/how-to-remove-noise-characters-from-exporting-elements-of-list-in-different-file
+13	https://stackoverflow.com/questions/39483821/app-store-review-guidelines-how-to-correctly-handle-offer-external-purchases

@@ -1,0 +1,5 @@
+1	https://github.com/google/j2objc/blob/3af6f9babd446aced6567b0f5d5ed06d78cc7a12/jre_emul/android/platform/libcore/ojluni/src/main/java/java/text/DateFormatSymbols.java
+2	https://github.com/apache/incubator-netbeans/blob/15bc442a91fa2be81488725b15c61386bf1d0b9b/core.network/src/org/netbeans/core/network/proxy/pac/impl/NbPacScriptEvaluator.java
+3	https://github.com/google/j2objc/blob/7c4b2e04a62eaf9ad4cc0e70d34dd9774b097424/jre_emul/android/platform/libcore/ojluni/src/main/java/java/text/SimpleDateFormat.java
+4	https://github.com/google/sagetv/blob/a5493996832b7e7aea9094dd3d600824e5041bba/java/sage/api/Utility.java
+5	https://github.com/google/desugar_jdk_libs/blob/f92e482fdce79564b75940b784cd90c447e461d9/src/share/classes/java/time/temporal/ChronoField.java

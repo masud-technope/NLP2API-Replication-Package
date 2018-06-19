@@ -1,0 +1,2 @@
+1	https://stackoverflow.com/questions/22129471/what-is-the-best-most-elegant-way-to-limit-the-number-of-concurrent-evaluation
+2	https://stackoverflow.com/questions/17838456/performance-reading-large-dataset-from-multiple-parallel-threads

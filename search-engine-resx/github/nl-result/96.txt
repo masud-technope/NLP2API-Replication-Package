@@ -1,0 +1,17 @@
+1	https://github.com/apache/cocoon/blob/1486f7c8dc47d734c48651471dede0452338b936/src/blocks/javaflow/java/org/apache/cocoon/components/flow/java/JavaInterpreter.java
+2	https://github.com/apache/cocoon/blob/1486f7c8dc47d734c48651471dede0452338b936/src/java/org/apache/cocoon/components/flow/javascript/fom/FOM_JavaScriptInterpreter.java
+3	https://github.com/apache/myfaces-trinidad/blob/6bd79ae3d4e3e0f6824baed5e137e186f3f89cf6/trinidad-api/src/main/java/org/apache/myfaces/trinidad/render/DialogRenderKitService.java
+4	https://github.com/eclipse/eclipselink.runtime/blob/64985ca08a912f3dc1099f6949d6b45a9f4868df/foundation/org.eclipse.persistence.core/src/org/eclipse/persistence/config/PersistenceUnitProperties.java
+5	https://github.com/google/closure-compiler/blob/0f13c0ce75ccb2f3682f0351e09d75c245ef7b7a/src/com/google/javascript/jscomp/CodingConvention.java
+6	https://github.com/apache/tinkerpop/blob/453665d34e9a990def47e1ed35d18013b3286cbf/gremlin-core/src/main/java/org/apache/tinkerpop/gremlin/jsr223/DefaultGremlinScriptEngineManager.java
+7	https://github.com/apache/brooklyn-server/blob/fc575d77b4aaa7141ca273353fa751b2492e76df/software/base/src/test/java/org/apache/brooklyn/entity/brooklynnode/BrooklynNodeIntegrationTest.java
+8	https://github.com/eclipse/org.aspectj/blob/37814d4d64f187c60ee7996af4a0186c2303bf80/build/src/$installer$/org/aspectj/Main.java
+9	https://github.com/apache/incubator-brooklyn/blob/337a5d22d5e9c98cc96ea1085383cbed1ee0b741/brooklyn-server/software/base/src/test/java/org/apache/brooklyn/entity/brooklynnode/BrooklynNodeIntegrationTest.java
+10	https://github.com/eclipse/jetty.project/blob/21365234f8cf036829f7a03e5c7b89a9572444f9/jetty-servlets/src/main/java/org/eclipse/jetty/servlets/CGI.java
+11	https://github.com/eclipse/vert.x/blob/5ec8e33446eb0f58970c8fef3cc198d6c29f3931/src/main/java/io/vertx/core/package-info.java
+12	https://github.com/apache/myfaces-trinidad/blob/6bd79ae3d4e3e0f6824baed5e137e186f3f89cf6/trinidad-impl/src/main/java/org/apache/myfaces/trinidadinternal/renderkit/core/xhtml/FormRenderer.java
+13	https://github.com/apache/hadoop/blob/2e0a451a8dd64ccd7199b2b435e1b6c704a9d3ae/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/Shell.java
+14	https://github.com/apache/myfaces-trinidad/blob/6bd79ae3d4e3e0f6824baed5e137e186f3f89cf6/trinidad-impl/src/main/java/org/apache/myfaces/trinidadinternal/ui/laf/base/xhtml/XhtmlLafUtils.java
+15	https://github.com/google/closure-templates/blob/e4c0d89c2ff56035f7fd8ac190c7e64e60dedc95/java/src/com/google/template/soy/parsepasses/contextautoesc/Context.java
+16	https://github.com/apache/royale-compiler/blob/6f9109a101d1491ccc089f81f1f4520c5c680d1a/compiler/src/main/java/org/apache/royale/abc/ABCParser.java
+17	https://github.com/google/closure-compiler/blob/41a4dcce5ec80df173e3b5f22f93eabb6ee525a3/src/com/google/javascript/jscomp/TypedScopeCreator.java

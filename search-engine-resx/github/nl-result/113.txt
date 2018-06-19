@@ -1,0 +1,14 @@
+1	https://github.com/eclipse/gef/blob/f1a07092628e8679f0f839817683f0e55b0e9b97/org.eclipse.gef.fx/src/org/eclipse/gef/fx/utils/NodeUtils.java
+2	https://github.com/apache/poi/blob/a98eaeb917943adcd6bfe04c9e446d59a94f7de2/src/java/org/apache/poi/sl/draw/SLGraphics.java
+3	https://github.com/apache/poi/blob/a98eaeb917943adcd6bfe04c9e446d59a94f7de2/src/scratchpad/src/org/apache/poi/hslf/model/PPGraphics2D.java
+4	https://github.com/apache/poi/blob/2395c89b4521bc98f0b337d309679c8386bd8c45/src/scratchpad/src/org/apache/poi/hslf/usermodel/HSLFFreeformShape.java
+5	https://github.com/apache/flex-whiteboard/blob/d0b48518b949f10309d29b8609930431b1fc3dac/mijordan/branches/a11y/modules/thirdparty/batik/sources/org/apache/flex/forks/batik/ext/awt/g2d/AbstractGraphics2D.java
+6	https://github.com/apache/flex-sdk/blob/ba414443032b49c45ff11b61db452c8a8f428bd8/modules/thirdparty/batik/sources/org/apache/flex/forks/batik/ext/awt/g2d/AbstractGraphics2D.java
+7	https://github.com/apache/flex-whiteboard/blob/d0b48518b949f10309d29b8609930431b1fc3dac/cframpton/test-branch/modules/thirdparty/batik/sources/org/apache/flex/forks/batik/ext/awt/g2d/AbstractGraphics2D.java
+8	https://github.com/apache/xml-graphics-commons/blob/c56f9f3d08ffe99ce8ede739fe7ac453e00a773f/src/main/java/org/apache/xmlgraphics/java2d/AbstractGraphics2D.java
+9	https://github.com/apache/batik/blob/1344bf29541c1dcbfaecc86e41ed688d5ea8be3d/batik-awt-util/src/main/java/org/apache/batik/ext/awt/g2d/AbstractGraphics2D.java
+10	https://github.com/eclipse/eclipse.platform.swt/blob/0aa46cfe2c773c9552f2f2a8c79e442cda905931/bundles/org.eclipse.swt/Eclipse%20SWT/cocoa/org/eclipse/swt/graphics/GC.java
+11	https://github.com/eclipse/rap/blob/6e2768affd3cb5c4a6953f4b8e27d7453dddc391/bundles/org.eclipse.rap.rwt/src/org/eclipse/swt/graphics/GC.java
+12	https://github.com/eclipse/eclipse.platform.swt/blob/82b8cf40f11f7c0a7dd0bd7e6d9bcc1e41f1c10e/bundles/org.eclipse.swt/Eclipse%20SWT/win32/org/eclipse/swt/graphics/GC.java
+13	https://github.com/apache/sis/blob/0f7cdbd226e2113014c0bea52501dcb9537c7b4e/core/sis-referencing/src/main/java/org/apache/sis/referencing/datum/DefaultEllipsoid.java
+14	https://github.com/eclipse/eclipse.platform.swt/blob/e78489ee67784eb3704ba210de1effcb777e0126/bundles/org.eclipse.swt/Eclipse%20SWT/gtk/org/eclipse/swt/graphics/GC.java

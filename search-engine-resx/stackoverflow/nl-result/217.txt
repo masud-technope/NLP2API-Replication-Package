@@ -1,0 +1,16 @@
+1	https://stackoverflow.com/questions/21828412/how-to-extract-the-last-line-from-the-wget-command-output
+2	https://stackoverflow.com/questions/9395187/403-500-error-on-apache-server-when-using-htaccess
+3	https://stackoverflow.com/questions/29819751/python-log-rotation-and-compression
+4	https://stackoverflow.com/questions/33056313/strange-htaccess-500-error-message
+5	https://stackoverflow.com/questions/26669614/403-forbidden-you-dont-have-permission-to-access-folder-on-this-server
+6	https://stackoverflow.com/questions/26591791/apache-http-server-cannot-resolve-ip-address-but-resolves-localhost
+7	https://stackoverflow.com/questions/25968760/unable-to-enable-htaccess-or-its-not-working
+8	https://stackoverflow.com/questions/23515934/unable-to-view-ganglia-dashboard
+9	https://stackoverflow.com/questions/29377840/apache-rewrite-is-not-working
+10	https://stackoverflow.com/questions/12498792/restler-returns-always-not-found-with-or-without-index-php
+11	https://stackoverflow.com/questions/14516740/clean-urls-issue-using-htaccess-in-php-laravel-project
+12	https://stackoverflow.com/questions/26553004/centos-apache2-all-files-forbidden
+13	https://stackoverflow.com/questions/27470705/php-pages-not-rendering-in-yosemite-just-plain-text
+14	https://stackoverflow.com/questions/2060954/generating-thumbnail-copying-it-to-directory-saving-it-to-database
+15	https://stackoverflow.com/questions/5894106/apache-authentication-on-root-but-not-on-index-html
+16	https://stackoverflow.com/questions/29286475/cant-access-hosts-after-upgrading-to-mamp-pro-3-1-connection-refused

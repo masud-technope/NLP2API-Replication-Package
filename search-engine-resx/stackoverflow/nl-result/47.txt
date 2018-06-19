@@ -1,0 +1,10 @@
+1	https://stackoverflow.com/questions/21191499/how-to-get-an-object-identifier-for-a-hash-algorithm-name-in-java
+2	https://stackoverflow.com/questions/44450857/using-custom-jce-security-provider-without-signing-it
+3	https://stackoverflow.com/questions/35606245/how-to-configure-wildfly-java-to-use-specific-ciphers-for-https
+4	https://stackoverflow.com/questions/42676575/encrypt-and-sign-a-message-using-microsoft-security-support-provider-interface
+5	https://stackoverflow.com/questions/29845208/android-providerinstaller-and-custom-caches
+6	https://stackoverflow.com/questions/25321187/java-mac-getinstance-for-hmacsha1-slow
+7	https://stackoverflow.com/questions/28862767/how-to-encrypt-bytes-using-the-tpm-trusted-platform-module
+8	https://stackoverflow.com/questions/10839197/using-java-policy-files-to-make-applications-exempt-from-jce-restrictions
+9	https://stackoverflow.com/questions/37785820/setting-the-windows-security-dialog-owner-during-a-client-certificate-involvin
+10	https://stackoverflow.com/questions/47051259/decryption-failed-after-encrypting-file-using-aes-in-android-nnougat

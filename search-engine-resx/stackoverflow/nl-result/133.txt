@@ -1,0 +1,5 @@
+1	https://stackoverflow.com/questions/11487185/php-deep-object-copy-clone
+2	https://stackoverflow.com/questions/32184938/deep-copy-of-the-object-through-getters-setters
+3	https://stackoverflow.com/questions/8334768/how-can-i-deep-copy-an-object-of-one-object-type-to-another-object-type-that-sha
+4	https://stackoverflow.com/questions/2765952/c-virtual-constructor-without-clone
+5	https://stackoverflow.com/questions/23546817/appfabric-ncache-will-these-solve-httpruntime-cache-objects-being-updated-by-r

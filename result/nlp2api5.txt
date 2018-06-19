@@ -1,0 +1,350 @@
+How can I insert an element in array at a given position?
+Position String ArrayList System VerticapPanel Entry Melon Aly Orange Apple
+How do I compress or zip a directory recursively?
+ZipOutputStream ZipEntry FileInputStream File FileOutputStream Compress String BufferedInputStream ZipCodec ZipFile
+How do I decompress a GZip file in Java?
+Decompress File Compress Compression FileOutputStream String System Log Exception Length
+How do I compress a file in GZip format?
+Compression String File FileOutputStream System ByteArrayOutputStream Compress CompressUtils OutputStream TarArchiveOutputStream
+How do I use PriorityBlockingQueue class?
+PriorityBlockingQueue BlockingQueue Runnable Consumer Thread Producer System CommonClass Robble InterruptedException
+How do I parse a text string into date and time?
+ParseException SimpleDateFormat String DateFormat DateTime ToString System InvariantCulture DateObject DateTimeFormatter
+How documents are represented in MongoDB Java Driver?
+Mongo MongoClient String Update PlayProject Spring Exception MongoClientOptions Create Seq
+How do I connect to a MongoDB Database?
+Mongo String MongoClient System Exception Thread Caused App Http Method
+How do I send an HTML email?
+Email String EmailAttachment Content Exception Intent System HtmlEmail InternetAddress Transport
+How do I read last n characters from a file?
+FileReader File BufferedReader FileInputStream System String BufferedWriter InputStreamReader FileWriter Reads
+Creating MySql database programatically in Java
+DriverManager Database Driver Source Creating Connection System Statement Unknown String
+Generating MD5 digest from File or InputStream object
+InputStream MessageDigest FileInputStream String Hex NoSuchAlgorithmException DigestInputStream System Exception GetBlobByHttpPostedFile
+How do I calculate the MD5 digest of a string?
+MessageDigest Digest String NoSuchAlgorithmException Encoder System DigestInputStream Hash Base UnsupportedEncodingException
+How do I clone an array variable?
+CloneNotSupportedException String Cloning System ArrayList Nod Object Cloneable CopyArrayOfNode OriginalArrayOfNode
+How to implement the hashCode and equals method using Apache Commons?
+Object HashSet String Objects Override Map ChamorroEntry System HashCodeBuilder Node
+How to establish connection to database with Properties?
+Connection Properties Database DriverManager String System Exception Driver ClassNotFoundException ResultSet
+How to monitor file or directory changes?
+File Monitor MonitorAppender String Thread System Listener MonitorLog Users ProgressMonitor
+How do I move a file in JDK 7?
+Move File Files String Coord ArrayList Update Bar Points System
+How do I create and delete a file in JDK 7?
+File Create Java String Maven FileOutputStream Checksumming Delete Permission Users
+How to recursively list all text files in a directory?
+File List String AllPageDirectoryPath System Entry Read FileNotFoundException Context Desktop
+How to verify digital signature of a signed data?
+Signature Signed Certificate String PublicKey Digital System Content Exception ByteArrayOutputStream
+How to create a digital signature and sign data?
+Signature Certificate String PrivateKey Digital Exception System FileOutputStream KeyStore File
+How do I generate public and private keys?
+Cipher String Exception Integer AuthFacadeBean System ModelAndView FileInputStream KeySpec AuthService
+How do I copy a file in JDK 7?
+NoClassDefFoundError ClassNotFoundException Exception ClassLoader Jdk MyClass OutputStream Foo Bar Launcher
+How do I set the value of file attributes?
+Set String Entity McDrive Points HomeRuns Files System File FileObject
+How do I set file last modified time?
+File Modified System String Exception HttpServletResponse Gson SimpleDateFormat Input PosixFileAttributes
+How do I reverse the order of array elements?
+Reverse System ArrayList Integer String Collections Java MyClass List Scanner
+How do I send an Http Post request?
+Request ServerResponse String Content RequestMapping HttpServletResponse HttpPost Post Domain HttpResponse
+How do I get Http response body as a string?
+Response HttpResponse String System Request StringBody ResponseException HttpPost Exception MediaType
+How do I get entity ContentType in HttpClient?
+HttpResponse HttpPost ContentType Content HttpEntity String DefaultHttpClient HttpClient System List
+How do I execute Http Get request?
+HttpResponse HttpGet Request HttpClient DefaultHttpClient String HttpUriRequest Response Connection AbstractHttpClient
+How do I get the primary key of any JPA entity?
+Entity ManyToOne Column InstanceNotifyEntity EntityManager Table Serializable JoinColumn OneToOne Account
+How do I delete entity object in JPA?
+Entity MyEntity EntityManager List CascadeType ManyToOne JoinColumn String Repository OneToOne
+How do I get all available currency codes?
+Currency String NumberFormat Locale System Interest BigDecimal Loanamount Person InvalidRequestException
+How do I get host’s default timezone id?
+TimeZone SimpleDateFormat America Asia Timestamp String Timezone Jul System DateFormat
+How to create an XML file of a POJO using JAXB?
+XmlRootElement Marshaller String Marshalable List Book Links RuntimeException Data Exception
+How do I compare two dates?
+Dates SimpleDateFormat DatePicker Mon String Thu System Dec Tue Jan
+How do I change date formatting symbols?
+DecimalFormat DecimalFormatSymbols String System IllegalFormatConversionException Exception Falltableswithkeys DoubleToFormatedString SimpleDateFormat Fdatatables
+How do I retrieve available schemas in database?
+Database String DbExtractor Override Object DistributedUserType DistributedEntity HibernateException SchemaInfoLevel HibernateUtils
+How do I call a stored procedure that return a result set?
+CallableStatement ResultSet System Types NonQueryProcedure Object MyObject String AverageVal Processor
+How do I convert raw IP address to String?
+Address String InetAddress InetAddressFactory Object ForEachLoop NetServerHandler Step MinecraftServer System
+How do I create port scanner program?
+Scanner Socket System String InetAddress Students File Create DatagramSocket PrintWriter
+How do I get MAC address of a host?
+InetAddress Address UnknownHostException String NetworkInterface System Node Network Inet SocketException
+How do I create a client-server socket communication?
+Socket ServerSocket Server System ObjectOutputStream Client String BufferedReader Exception InputStreamReader
+How do I read / download webpage content?
+InputStream Content Webpage String System WebView Log ApiException Override Context
+How do I get IP address of localhost?
+InetAddress UnknownHostException Bobsled String System Exception Logger Override Proxy InternetAddress
+How do I get cryptographic security providers?
+Security NoSuchAlgorithmException Provider CertStore KeyStore System CertPathBuilderException String CertPathBuilder InvalidAlgorithmParameterException
+How do I create an encrypted string for password?
+Cipher Password String Create Encrypt Encrypted SecretKeySpec Exception System KeyGenerator
+How do I breaks a paragraph into sentences?
+Paragraph String Scanner Font Pattern StringTokenizer System List Matcher Sentences
+How do I change the date format symbols for a specified locale?
+Locale DecimalFormat NumberFormat French String SimpleDateFormat English Canadian System United
+How do I change number format symbols?
+DecimalFormat Locale DecimalFormatSymbols String English French Exception ParsePosition Canadian NumberFormat
+How do I parse a number for a locale?
+Locale ParseException Number NumberFormat String NumberFormatException System DecimalFormat Exception Latitude
+How do I iterate a subset of a string?
+String List Integer Collections SomeCustomMap System Decimal Map Parameters Arrays
+How do I get attributes of element during SAX parsing?
+Element Attributes String DefaultHandler System InputSource Override ParserConfigurationException Auto Exception
+How do I get JDBC driver property information?
+Driver DriverManagerDataSource DatabaseName DriverManager JdbcTemplate BasicDataSource SybDataSource Mapping String Exception
+How do I get numeric functions supported by database?
+Numeric ArrayList Java Panels Meeting System Syntax ColumnType Comparable Book
+How do I get data types supported by database?
+Types String Table Override MyBlob Entity PreparedStatement IntegerType Serializable Column
+How do I execute stored procedure?
+CallableStatement StoredProcedure ResultSet String NonQueryProcedure Types System MyStoredProcedure Object Exception
+How do I print a file using the default registered application?
+System File String ApplicationAdapter AppLog Config Process PrintWriter Call Integer
+How do I turn the Num Lock button on?
+Button String Player View Override System ActionEvent ActionListener AndroidRuntime Box
+How do I create subscript in iText?
+PdfMergeItext String IntBinarySearcher System FontFactory RecipientId IntQuickSorter Search Create Ivan
+How do I delete file from FTP server?
+File String FileOutputStream System FileInputStream Connected Exception Ftplet Browser ChannelSftp
+How do I get list of files from FTP server?
+String System FtpLoggingFilter File FileOutputStream Server Connected Exception FtpClient Path
+How do I upload file to FTP server?
+File String FileInputStream Upload System Exception MoveFileRoute Thread FileImageOutputStream FakeFtpServer
+How do I create an Excel document using Apache POI?
+Sheet Workbook String ArrayList SpreadsheetFormatRow WorkbookFactory Excel Row Iterator FileInputStream
+Draw a draggable triangle in Java
+Triangle Graphics Color String Draw System RandomTriangle Math ArrayList Area
+Take a screenshot and save as image in Java
+BufferedImage Image File Menu Gdk Save String Screenshot ImageIcon System
+Load a Resource Bundle
+ResourceBundle ImageResource StatsBundle Locale PathMatchingResourcePatternResolver String Properties System Object ClassLoader
+Instantiate unknown class at runtime and call the object’s methods
+Unknown Source AndroidRuntime String Method Caused ArrayList System RuntimeException NativeMethodAccessorImpl
+Invoke methods of an object using reflection
+Object Method ReflectionInvocationContext String Invoke InvocationContext LocalBeanProxy InterfaceType System Reflection
+List methods of a class using Reflection
+List ArrayList Method Shape Object String Exception GoldenBarb Throwable Foo
+Redirect Servlet Call to Another URL
+ServletException HttpServletResponse HttpServletRequest String Servlet Override File ServletFileUpload Faces ContentServlet
+Get and Set Session Variables in a Servlet
+Session HttpServletRequest HttpServlet HttpSession String CurrentUserBean Details HttpServletResponse Controller ArrayList
+Get Request Parameters in a Servlet
+HttpServlet HttpServletResponse Servlet HttpServletRequest String ServletException ServletName RequestDispatcher Middle Body
+Connect to a database and read from table
+Connection ReadTableConnectionInfo Database String ResultSet Exception DriverManager Table ReadTask Statement
+creating in-memory lucene index
+IndexWriter Document Field String IndexSearcher Version File StandardAnalyzer ScoreDoc System
+building lucene search query
+Query Lucene IndexSearcher String Version IndexReader Document ScoreDoc IndexWriter TermQuery
+doing lucene search
+IndexReader Lucene IndexSearcher Version Query String StandardAnalyzer ParseException IndexWriter Search
+read JSON data to JSON Object Model
+Json String System ArrayList ClientesContatosModel List Model ResponseBody View BigDecimal
+how to serialize JSON Object
+JsonSerialize JsonSerializer String ObjectId JsonProperty JsonProcessingException Override ObjectIdSerializer Book ArrayList
+execute the test cases using Test runner
+Test InstrumentationTestRunner String TestRunner Exception System BeforeClass NullPointerException Method Runner
+Java Compare file content
+File String FileInputStream System InputStream Arrays FileOutputStream FileNotFoundException Comparator Set
+Java Add comment in XML
+Comment TeleComment String TeleHospital Override List CommentBean Element ArrayList Exception
+XML How to Add CDATA data
+String Middle Stretch Exception Document JasperReport Content Element Object ReportHelper
+How to Create a Shared File Lock on a File
+File Loaded FileLock String System RandomAccessFile Exception Lock Thread FileOutputStream
+How to Tokenize Java Source Code
+TokenizeFile FileTokenizer String Tokenizer System Java Source List Unknown Node
+How to Visit All the Elements in a DOM Document
+Document Element NodeList Node DocumentBuilderFactory String Iterator System KeySelector Orange
+XML How to Remove all attributes
+List String Variable Element Attributes Customer DefaultHandler Object Chapter File
+XML How to Fetch data from the Web
+String List Column JoinColumn SomeData Path Assessment Exception ManyToOne FetchType
+How to Render HTML and save to Image
+BufferedImage Render Graphics String RenderJob BorderLayout RenderImage Game System RenderJobValidator
+How to Move image on screen
+BufferedImage Graphics Screen Move Image Font View Rectangle Random Animation
+How to Load font from ttf file
+Font File FileInputStream InputStream String FontFormatException Exception Fonts FileNotFoundException Error
+How to create a server socket
+Socket ServerSocket Server String Create Thread InputStream BufferedReader HandlerThread System
+How to Sort a Map by values
+Map Integer String Entry HashMap Comparator SortMapByValueComparator Object SortOrder ArrayList
+How to Store properties as XML file
+Properties FileOutputStream Store FileNotFoundException String XmlRootElement FileInputStream Book Configuration Blogg
+Passing Parameters from Java Code to Scripts
+Scripts CheeseMain String Test Sample Java Failures CreateStartScripts Tests SuiteRunnerWorker
+How to Create thumbnail views of images
+Image ImageView Thumbnail String BufferedImage FilmStripItem File Override Create Context
+How to Capture image from webcam in java
+IplImage BufferedImage WebcamApplet Source Users Unknown Webcam Exception VideoCapture System
+Java Graphics How to Rotate Shape
+Graphics Shape Rectangle AffineTransform Color Math Area AnimationPanel Timer String
+How to Load an image and write text to it
+BufferedImage Image LoadImage File String IplImage ImageIcon Raster PixelGrabber CvFont
+Parsing an XML File Using SAX
+InputSource Exception String Parser SaxParser System GetNatureSax File DefaultHandler InputString
+How to add attribute to an element
+Attribute Element String ArrayList XmlElement Relation Root List Exception AttributeThis
+How to add text node to an element
+Node Element String NodeList System Document File Integer List Title
+How to create comments node for XML
+Node Document String Accounting NodeList Element ArrayList ParserConfigurationException CarNode File
+How to change a specific element using XPath
+String Element WebElement Ave Blvd Step Document St Hempstead NodeList
+How to use a StAX parser
+String System Exception Tariff DefaultStyledDocument Stack Para ByteArrayInputStream InputStream StaxDriver
+How to serialize JSON Object
+JsonSerialize JsonSerializer String ObjectId JsonProperty JsonProcessingException Override ObjectIdSerializer Book ArrayList
+Read JSON Array
+Json String Jackson System Exception JsonArray Gson JsonElement Array IllegalStateException
+How to search for HTML/XML comments
+Search String AccountSearch CoSearchItem XmlElement NameSearch Document Comment System ServletException
+How to use hashmap properties with JAXB
+HashMap XmlRootElement String XmlElement Map List XmlAccessType Farming BaseBeanEx Exception
+How do I create a web based file upload?
+File ServletFileUpload String FileItem FileUploadException System Exception HttpServletRequest Create Http
+How to shear Shape?
+Shape NestingShape Circle Rectangle Color Shapes String List RectangleShape Check
+How to transform ellipse
+Ellipse Color Graphics AffineTransform Shape RoundSprite Rectangle Dimension String Override
+How to write text onto image
+Image BufferedImage File Graphics TransferableImage Exception Text ByteArrayOutputStream TransferImage FlowLayout
+How to change text color with CSS for Label?
+Color Label String Text Tab MyCss Content Consultation UserName GradientPaint
+How to draw text content to Image?
+BufferedImage Graphics Image String DrawRoom Text ImageView Draw Color NewImage
+Java Mail POP3 Client
+Store Caused Session Message String System MailClient Folder Exception Properties
+Java Mail Secure POP3 Client
+Caused Store System Session Exception Message String MessagingException Properties InternetAddress
+Get Email Header
+Email Content String Transport ValidateUser System InternetAddress Message PrintWriter FacesContext
+Add Extra Page To Existing PDF
+PdfContentByte PdfReader PdfImportedPage PdfViewerActivity Document Paragraph File PdfWriter FileOutputStream Manifest
+Simple Annotations with Another PDF document
+Document PdfWriter PdfReader PdfContentByte String File PdfImportedPage Exception System Phrase
+Adding AWT Image to PDF with Color
+Image Color BufferedImage Graphics String PdfWriter Integer FileOutputStream Dimension PdfContentByte
+Adding Paragraph to a PDF Page
+Paragraph Document Font String Chunk PdfWriter DocumentException FileOutputStream Image Exception
+Add Watermark Image to an Existing PDF File
+Image Font String FileOutputStream FontFactory PdfReader File Chunk Paragraph PdfWriter
+Adding Bookmarks for PDF document
+Document PdfContentByte String Paragraph PdfWriter Integer BorderLayout FileOutputStream Exception Phrase
+Copy and paste data with the clipboard
+Clipboard ClipboardOwner String Transferable CellTransferable DataFlavor Override System ClipboardManager Copy
+Connect with a Web server
+Server Socket DriverManager ConnectException Database Connection ClientTransportException String VeriSign OutputStream
+Connects to an rshell daemon
+Daemon Thread DaemonHelper Starting Server String DaemonLoader Exception EmbJetTest BackupDaemon
+Connects to an rlogin daemon
+Daemon Thread String Exception Starting DaemonHelper Server System DaemonLoader EmbJetTest
+POSTing data to an HTTP server
+Posting HttpPost String Content HttpResponse System HttpClient Server Type StringEntity
+Get session from request
+Session HttpSession HttpServletRequest HttpServletResponse Request Details Override HttpServlet SessionState GraphUserCallback
+Adding Drop Shadow to a Shape
+Shape NestingShape RectangleShape Color Circle List String Override Check Auto
+Uses serialization to perform deep copy cloning.
+Cloneable Cloning Object CloneNotSupportedException Serializable String Node Integer Animal ObjectOutputStream
+Execute Javascript script in a file
+JavaScript ScriptException HelloWorld String Exception ScriptEngine ScriptRuntime Javascript Java Context
+Listing All Script Engines
+ScriptException String ScriptEngineManager ScriptEngine System Unknown Error Mary Steve Source
+Pass parameter to JavaScript through Java code
+String Context JavaScript Object Item Joe JavaScriptInterface Global Solid Error
+Using Java Objects in JavaScript
+Object Script ScriptFunction Java String JavaScript Error TimerThread Main ScriptEngineManager
+Read and execute a script source file
+FileNotFoundException String ScriptException System Runtime ScriptEngine ComputerName Source FileReader Exception
+Use DSA key pair to generate XML Signature
+Signature PublicKey String System Pair KeyPairGenerator KeySelector Exception Generate Data
+Determining operating system support for attribute views
+Operating System Windows String RequestMapping ViewsHistoric Contact JasperException Validator SessionAttributes
+Change label border with CSS (Smart GWT)
+Label Override Button String WebModule ClickEvent Source RootPanel EntryPoint Unknown
+Servlet: Session bind listener
+DispatcherServlet RequestMapping ServletContext Controller Override String UserSettings HttpServletRequest Model BindingResult
+Basic Authentication For JSP Page
+UsernamePasswordAuthenticationToken Authentication FilterChainProxy Filter Servlet Error EmployeeCustomAuthenticationProvider Override AccessDeniedHandler HttpServlet
+Checking Read/Write Permission for a Directory
+File RuntimePermission FilePermission System String Policy FileNotFoundException Toast Permission Log
+Listing All Permissions Granted to a Loaded Class
+Loaded String Permission AccessController RuntimePermission Program System SecurityManager FilePermission Exception
+Generate a DSA signature
+Signature Generate String System KeyPairGenerator KeyPair BigInteger NoSuchAlgorithmException Exception Level
+Signing a Java Object
+Signing Unknown Signature String Java Exception Source Signer PrivateKey Creating
+Generating a Message Authentication Code (MAC)
+PasswordAuthentication Erzeugen Authentication Mac String Message System Exception AuthenticationProvider Authenticator
+Execute a command from code
+Command Execute CommandArgument String CompoundCommand CommandReceiver TransactionCommand Override InsertCommand CommandInfo
+Simulate a mouse click
+MouseEvent Robot Override MouseClicked WebElement Mouse ActionEvent Component String Speed
+Extract First File From Zip File Example
+ZipFile File ZipEntry FileOutputStream String ZipOutputStream FileNotFoundException System FileInputStream InputStream
+Extract File With CRC32 Checksum
+Checksum File String System FileInputStream BufferedInputStream MessageDigest Integer Type Client
+Extract Zip File With Adler32 Checksum
+ZipFile FileInputStream Adler File BufferedInputStream Jan String System ZipInputStream ZipEntry
+Load New HTML File Using Applet Context
+Applet SimpleApplet NoClassDefFoundError Unknown ClassNotFoundException Source Exception ClassLoader Font Graphics
+Set orientation for print job
+System Print Printable String Graphics PrinterException PrinterJob Printer Job JobRequest
+Determine format of an image
+BufferedImage Images Bitmap Determine Create Image ImageView String Camera System
+Compress a JPEG file
+File CompressFormat Bitmap FileOutputStream ByteArrayOutputStream String Exception Uri Intent FileNotFoundException
+Get Midi audio file properties
+AudioSystem String Sequencer System AudioFormat MidiSystem MidiPlayer Receiver Exception File
+Play Midi audio
+MidiSystem MidiPlayer AudioSystem System Sequencer Source Unknown ShortMessage String Clean
+List available cryptographic services
+Services List HostedService String HostedServices Service Security Certificate Cryptographic System
+Get bytes of generated symmetric key
+Key Cipher String SecretKey NoSuchAlgorithmException Exception KeyFactory PublicKey System Symmetric
+Import package in script
+ScriptException ScriptEngineManager JavaScript String Logger ScriptEngine System RhinoScriptEngine Invocable Object
+Get script engine’s details
+Details ScriptRuntime JavaScript DetailsArray String Target ScriptableObject Revelations Modifier Creed
+Send notification at MBean attribute change
+Notification ObjectName String System Message Override Row Rows Intent NotificationService
+JavaFX Creating a Sprite Animation
+Sprite Animation SpriteSheet SlickException GridPane Override Scene String Image Thread
+Using a memory mapped file for a huge matrix
+Matrix DisplayMatrix FileReader String System FileNotFoundException Scanner MatrixCreature HashMap BufferedReader
+github api access example java
+GitHub System ServiceEvent Bundle Caused ParentRunner String NettyWorkerServiceImpl ServiceBuilder TelegramApi
+How to write an Object to file in Java
+File BufferedWriter ObjectOutputStream Object System String FileClass FileOutputStream SimpleObject FileLock
+Send HTTP requests for serialized objects
+Messenger LoginRequest Serializable Request Foo Socket Client BufferImp ProxyClient Response
+RichText editor component for SWT based applications
+Composite Shell LabelMod Label String Display Caused Source TableEditor GridData
+Parsing JavaScript code using Mozilla Rhino
+ScriptException String Scriptable JavaScript ScriptRuntime ScriptEngineManager System Unknown Context Object
+DOM Parsing in Java
+Document DocumentBuilderFactory NodeList System File DocumentImpl NodeIterator FileName DocumentBuilder NodeIteratorImpl
+A block of text to use as input to the regular expression matcher
+Matcher Pattern Expression String System Normal CharSequence Step Auto Arrays
+How to get HTTP Response Header in Java
+Response Content HttpResponse String InputStream Header Location Server HttpServletResponse Log
+Convert Object to XML
+Object String System Marshaller Exception Converter Method XmlCursor Element ObjectInput

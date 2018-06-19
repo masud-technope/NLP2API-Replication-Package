@@ -1,0 +1,5 @@
+1	https://stackoverflow.com/questions/47633191/unit-testing-a-complex-renderer-class-best-practices
+2	https://stackoverflow.com/questions/25297254/drawimage-with-canvas-is-sending-image-to-the-back-of-the-canvas
+3	https://stackoverflow.com/questions/44004113/android-pdfrenderer-image-went-away-stopping
+4	https://stackoverflow.com/questions/43701687/how-can-i-change-the-current-player-animation-when-jump-is-pressed
+5	https://stackoverflow.com/questions/40372673/dropdown-on-hover-is-moving-towards-left-of-dropdown-image-in-jquery

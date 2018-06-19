@@ -1,0 +1,17 @@
+1	https://stackoverflow.com/questions/276292/capturing-image-from-webcam-in-java
+2	https://stackoverflow.com/questions/17060199/send-bytearray-from-flex-to-java
+3	https://stackoverflow.com/questions/11094481/capturing-a-single-image-from-my-webcam-in-java-or-python
+4	https://stackoverflow.com/questions/21799962/java-with-usb-cam-on-linux-device-not-opening
+5	https://stackoverflow.com/questions/27237060/in-a-java-program-using-netbeans-how-could-captured-from-webcam-and-save-it-in
+6	https://stackoverflow.com/questions/21186550/java-capturing-webcam-images-macbook
+7	https://stackoverflow.com/questions/25293984/get-image-from-direct-show-device
+8	https://stackoverflow.com/questions/3994963/in-java-1-6-how-to-serve-a-jpeg-in-memory-through-an-httphandler
+9	https://stackoverflow.com/questions/7748856/1-d-barcode-scannerusing-images-from-a-capturing-device-implementation-in-java
+10	https://stackoverflow.com/questions/6080267/opencv-how-can-i-detect-webcam-and-compare-the-local-file-to-match-face
+11	https://stackoverflow.com/questions/34699929/using-javascript-to-take-snap-shot-but-the-code-below-i-want-to-save-it-to-datab
+12	https://stackoverflow.com/questions/43460553/multicasting-on-raspberry-pi-router
+13	https://stackoverflow.com/questions/618850/reading-raw-data-from-a-video-capture-in-jmf
+14	https://stackoverflow.com/questions/7317487/netbeans-jmf-project-deployment
+15	https://stackoverflow.com/questions/83172/embedding-live-video-from-an-ip-webcam
+16	https://stackoverflow.com/questions/4299449/efficiently-implementing-java-native-interface-webcam-feed
+17	https://stackoverflow.com/questions/28819542/notfoundexception-even-when-a-barcode-is-in-the-picture

@@ -1,0 +1,2 @@
+1	https://github.com/apache/fop/blob/19ee139e36b757fe5f380eb2295e1089af76238b/fop-core/src/main/java/org/apache/fop/render/pdf/PDFDocumentHandler.java
+2	https://github.com/apache/tika/blob/48a4ab9849181cfe30acc34701325d3cc4a9431d/tika-parsers/src/main/java/org/apache/tika/parser/pdf/PDFParser.java

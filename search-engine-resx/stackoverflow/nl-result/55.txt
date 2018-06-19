@@ -1,0 +1,7 @@
+1	https://stackoverflow.com/questions/14928483/how-do-i-upgrade-the-database-used-by-teamcity
+2	https://stackoverflow.com/questions/771237/how-do-i-get-at-the-sql-statement-that-caused-an-sqlexception-using-the-postgres
+3	https://stackoverflow.com/questions/40165678/mysql-jdbc-ssl-client-certificates-without-keystore-sslsocketfactory
+4	https://stackoverflow.com/questions/20550049/oracle-jdbc-driver-not-connecting-to-database-with-jndi-in-legacy-web-applicatio
+5	https://stackoverflow.com/questions/23770235/squirrel-sql-exception-logging
+6	https://stackoverflow.com/questions/40535997/sql-server-mirroring-partner-instance-does-not-have-fqdn
+7	https://stackoverflow.com/questions/1142447/db-migrate-hibernate-jpa-hbm2ddl-diff-tools

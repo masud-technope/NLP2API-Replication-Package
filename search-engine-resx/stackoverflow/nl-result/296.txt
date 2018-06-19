@@ -1,0 +1,2 @@
+1	https://stackoverflow.com/questions/4348285/how-to-get-errors-line-number-while-validating-a-xml-file-against-a-xml-schema
+2	https://stackoverflow.com/questions/36021040/irs-a2a-bulkrequesttransmitter-message-not-formmatted-properly-and-or-cannot-be

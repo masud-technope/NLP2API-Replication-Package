@@ -1,0 +1,7 @@
+1	https://github.com/apache/poi/blob/104d4dac06a8af9734298a4cfdc071f0b7eb0d33/src/ooxml/java/org/apache/poi/xssf/streaming/SXSSFWorkbook.java
+2	https://github.com/apache/poi/blob/bae303a412bce1e1d3a2f5494e9e75a67ea47107/src/java/org/apache/poi/hssf/usermodel/HSSFCell.java
+3	https://github.com/apache/manifoldcf/blob/f9ced2f2f785aed05d7aab42c6bfd9aee2f4fa96/connectors/gts/connector/src/main/java/org/apache/manifoldcf/agents/output/gts/GTSConnector.java
+4	https://github.com/apache/poi/blob/fc2bcfae9a2c9c6260f8e007dead2a8d523b8c6c/src/java/org/apache/poi/poifs/crypt/CryptoFunctions.java
+5	https://github.com/apache/poi/blob/25634cf55fb62fff6d99ca66092222c4d5dc23c7/src/java/org/apache/poi/hssf/usermodel/HSSFSheet.java
+6	https://github.com/apache/poi/blob/25634cf55fb62fff6d99ca66092222c4d5dc23c7/src/ooxml/java/org/apache/poi/xssf/streaming/SXSSFSheet.java
+7	https://github.com/apache/poi/blob/4221ccebda4315b1c7024995efe377471bf906b9/src/ooxml/java/org/apache/poi/xssf/usermodel/XSSFSheet.java

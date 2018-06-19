@@ -1,0 +1,2 @@
+1	https://github.com/apache/hive/blob/0b03b819f953905d28778c66bf10ea4f1fe47976/standalone-metastore/src/main/java/org/apache/hadoop/hive/metastore/conf/MetastoreConf.java
+2	https://github.com/apache/hive/blob/26420000c472100bde3778754dfb3f3f66d75a49/common/src/java/org/apache/hadoop/hive/conf/HiveConf.java

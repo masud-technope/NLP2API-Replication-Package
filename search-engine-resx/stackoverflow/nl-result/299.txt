@@ -1,0 +1,4 @@
+1	https://stackoverflow.com/questions/7228182/count-xml-nodes-under-specific-node
+2	https://stackoverflow.com/questions/46898360/xdocument-descendants-filters-too-much
+3	https://stackoverflow.com/questions/4660441/ios-easy-way-of-accessing-xml-data-records
+4	https://stackoverflow.com/questions/31025976/aggregating-on-generic-nested-array-in-elasticsearch-with-nest

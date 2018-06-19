@@ -1,0 +1,11 @@
+1	https://github.com/apache/santuario-java/blob/202f99bea5a1d93ec320bfdb985c7c3c0f992db2/src/main/java/org/apache/jcp/xml/dsig/internal/dom/DOMReference.java
+2	https://github.com/apache/derby/blob/676b961fb7f23fca9eb9ee2ddf56dab7d9402824/java/engine/org/apache/derby/impl/services/jce/JCECipherFactory.java
+3	https://github.com/apache/flex-utilities/blob/ee771e6579486521b86f22a9fb629ff127edcfcd/flex-maven-tools/flex-sdk-converter/converters/base/src/main/java/org/apache/flex/utilities/converter/BaseConverter.java
+4	https://github.com/apache/avro/blob/a3e05bee1c81b54eed8cb37b278652cf80666121/lang/java/avro/src/main/java/org/apache/avro/Protocol.java
+5	https://github.com/apache/pdfbox/blob/593e280fc39b12695fa2a141aa3103ff07fb075d/pdfbox/src/main/java/org/apache/pdfbox/pdfwriter/COSWriter.java
+6	https://github.com/apache/tika/blob/e6e3b8817053e981f3843f1d3b7055b4ae30ed73/tika-app/src/main/java/org/apache/tika/gui/TikaGUI.java
+7	https://github.com/apache/mina-sshd/blob/4651d235b609e3349fcdde89829e5a6c4d6bde26/sshd-core/src/main/java/org/apache/sshd/server/subsystem/sftp/SftpSubsystem.java
+8	https://github.com/apache/tomcat/blob/18ad6f3460677ce07f5ba2a8d14f13fbe2ee6865/java/org/apache/catalina/servlets/WebdavServlet.java
+9	https://github.com/apache/tomcat85/blob/62bd2624aef59806b8da0a3b3dd2f563302323de/java/org/apache/catalina/servlets/WebdavServlet.java
+10	https://github.com/apache/tomcat80/blob/19818584d5df0ac6eb9705b9f7cd1633a2d81103/java/org/apache/catalina/servlets/WebdavServlet.java
+11	https://github.com/apache/hive/blob/26420000c472100bde3778754dfb3f3f66d75a49/common/src/java/org/apache/hadoop/hive/conf/HiveConf.java

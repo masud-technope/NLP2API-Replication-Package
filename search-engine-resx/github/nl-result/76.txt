@@ -1,0 +1,4 @@
+1	https://github.com/apache/roller/blob/4692115a65e46c4fb1cd7938dde5bcaef0a7286b/app/src/main/java/org/apache/roller/weblogger/business/search/IndexManagerImpl.java
+2	https://github.com/apache/lucene-solr/blob/f410df81136291f61b8deaace22bf4bb650de1ad/lucene/codecs/src/java/org/apache/lucene/codecs/bloom/BloomFilteringPostingsFormat.java
+3	https://github.com/apache/lucene-solr/blob/12fc8c7ae0090ab4c1fee97000f17ecc8c250752/lucene/core/src/test/org/apache/lucene/index/TestIndexWriter.java
+4	https://github.com/apache/lucene-solr/blob/d4e69c5cd868d0f5b71da0f4b23c2cd61d1b0ea0/lucene/core/src/java/org/apache/lucene/index/IndexWriter.java

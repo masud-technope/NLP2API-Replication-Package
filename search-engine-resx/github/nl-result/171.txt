@@ -1,0 +1,14 @@
+1	https://github.com/google/caja/blob/1056be89dad487f9178d89f462fe5cb207c7e604/tests/com/google/caja/util/RhinoExecutor.java
+2	https://github.com/eclipse/vjet.rhino/blob/beb7d471e9b58bc77cd1c517e130d0fff7cd785e/org.eclipse.vjet.extmod.rhino/toolsrc/com/ebay/internal/org/mozilla/javascript/tools/shell/Main.java
+3	https://github.com/apache/incubator-netbeans/blob/15bc442a91fa2be81488725b15c61386bf1d0b9b/core.network/src/org/netbeans/core/network/proxy/pac/impl/NbPacScriptEvaluator.java
+4	https://github.com/eclipse/vjet.core/blob/b56c3607e148e09436c80843bfbcb9e2397a2200/org.eclipse.vjet.core.jsnative/src/org/eclipse/vjet/dsf/jsnative/Node.java
+5	https://github.com/eclipse/vjet.all/blob/78e399b0316c523031b4e76e6cbc2f2096fb6469/core/org.eclipse.vjet.core.jsnative/src/org/eclipse/vjet/dsf/jsnative/Node.java
+6	https://github.com/apache/cxf/blob/a36af6323505211479c875fb9923cc6dcbc6ac95/rt/javascript/javascript-tests/src/test/java/org/apache/cxf/javascript/JsXMLHttpRequest.java
+7	https://github.com/eclipse/vjet.rhino/blob/beb7d471e9b58bc77cd1c517e130d0fff7cd785e/org.eclipse.vjet.extmod.rhino/src/org/mozilla/mod/javascript/ScriptRuntime.java
+8	https://github.com/eclipse/dltk.javascript/blob/758b8f81023c9ebd397bae189c4a203bb4b9fadd/plugins/org.eclipse.dltk.javascript.rhino/rhino/org/mozilla/javascript/ScriptRuntime.java
+9	https://github.com/google/closure-compiler/blob/85fcf9aabca8ac9e5a0f46b751c0dcf737b782af/src/com/google/javascript/jscomp/NodeUtil.java
+10	https://github.com/google/closure-compiler/blob/900251d4f728469a429dc82daa987a3755289e7b/src/com/google/javascript/rhino/JSDocInfo.java
+11	https://github.com/eclipse/dltk.javascript/blob/758b8f81023c9ebd397bae189c4a203bb4b9fadd/plugins/org.eclipse.dltk.javascript.rhino/rhino/org/mozilla/javascript/NativeDate.java
+12	https://github.com/eclipse/vjet.rhino/blob/beb7d471e9b58bc77cd1c517e130d0fff7cd785e/org.eclipse.vjet.extmod.rhino/src/org/mozilla/mod/javascript/NativeDate.java
+13	https://github.com/eclipse/dltk.javascript/blob/758b8f81023c9ebd397bae189c4a203bb4b9fadd/plugins/org.eclipse.dltk.javascript.rhino/rhino/org/mozilla/javascript/Interpreter.java
+14	https://github.com/eclipse/vjet.rhino/blob/beb7d471e9b58bc77cd1c517e130d0fff7cd785e/org.eclipse.vjet.extmod.rhino/src/org/mozilla/mod/javascript/Interpreter.java

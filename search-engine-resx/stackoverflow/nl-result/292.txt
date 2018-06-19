@@ -1,0 +1,1 @@
+1	https://stackoverflow.com/questions/2690710/merge-an-image-over-another-in-the-specified-position-and-save-it-as-a-new-image

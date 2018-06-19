@@ -1,0 +1,11 @@
+1	https://stackoverflow.com/questions/24772212/itext-pdf-writer-is-there-any-way-to-allow-unicode-subscript-symbol-in-the-pdf
+2	https://discussions.apple.com/thread/7062864
+3	https://stackoverflow.com/q/12366550
+4	https://www.daniweb.com/programming/software-development/threads/422486/append-images-to-rtf-document
+5	http://qaru.site/questions/90572/reading-pdf-documents-in-net
+6	https://meta.stackoverflow.com/questions/357645/can-we-work-with-microsoft-to-improve-the-quality-of-questions-theyre-referring
+7	http://arabteam2000-forum.com/index.php?/topic/145972-%D9%83%D9%8A%D9%81-%D8%A7%D8%BA%D9%8A%D8%B1-%D8%AC%D8%A7%D9%81%D8%A7%D8%B3%D9%83%D8%B1%D8%A8%D8%AA-%D9%8A%D8%B9%D8%B7%D9%86%D9%8A-%D9%83%D9%88%D8%AF-html-%D9%81%D9%8A-%D9%85%D8%B1%D8%A8%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B5-textarea/
+8	http://stack-overflow.gq/questions/48312406/itext-7-0-5-how-to-combine-pdf-and-add-new-bookmarks-in-addition-to-the-ones-al
+9	http://stackoverflow.com.mevn.net/questions/46423815/how-to-get-coordinates-of-each-word-of-pdf/46424910
+10	https://www.cpume.com/question/fezegtsh-make-hindi-language-pdf-searchable-or-translate-to-english-language.html
+11	https://www.cpume.com/question/fezegtsh-make-hindi-language-pdf-searchable-or-translate-to-english-language.html

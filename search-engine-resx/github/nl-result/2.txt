@@ -1,0 +1,3 @@
+1	https://github.com/apache/brooklyn-server/blob/38de52240839a50195cde6812764e007d6084d8f/core/src/main/java/org/apache/brooklyn/util/core/file/ArchiveBuilder.java
+2	https://github.com/apache/incubator-brooklyn/blob/337a5d22d5e9c98cc96ea1085383cbed1ee0b741/brooklyn-server/core/src/main/java/org/apache/brooklyn/util/core/file/ArchiveBuilder.java
+3	https://github.com/apache/ignite/blob/edef7add03696eab54f02ac3f8ebbb174a2f26ab/modules/core/src/main/java/org/apache/ignite/internal/util/IgniteUtils.java

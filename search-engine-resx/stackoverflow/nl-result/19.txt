@@ -1,0 +1,8 @@
+1	https://stackoverflow.com/questions/10380962/how-do-i-configure-oracle-java-jdk-7-not-open-jdk-correctly-on-ubuntu-11-10-an
+2	https://stackoverflow.com/questions/28198854/analyze-sonarqube-eclipse-caused-by-org-apache-bcel-classfile-classformatexce
+3	https://stackoverflow.com/questions/24794524/ubuntu-14-04-failure-to-install-or-run-eclipse-adt-and-android-sdk
+4	https://stackoverflow.com/questions/35831232/cant-install-jdk
+5	https://stackoverflow.com/questions/7532165/i-o-performance-of-multiple-jvm-windows-7-affected-linux-works
+6	https://stackoverflow.com/questions/32059153/cannot-run-jax-ws-java-web-service-on-apache-tomcat
+7	https://stackoverflow.com/questions/31382243/spring-passing-listener-via-rmi
+8	https://stackoverflow.com/questions/27965823/tools-jar-missing-but-only-on-the-very-first-call-tomcat-8-java-8-axis

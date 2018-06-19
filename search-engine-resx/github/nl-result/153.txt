@@ -1,0 +1,3 @@
+1	https://github.com/apache/harmony/blob/724deb045a85b722c961d8b5a83ac7a697319441/classlib/modules/archive/src/main/java/java/util/zip/Deflater.java
+2	https://github.com/apache/harmony-classlib/blob/15867416ca717a9910abb787989205223f5b1f09/modules/archive/src/main/java/java/util/zip/Deflater.java
+3	https://github.com/apache/lucene-solr/blob/fbdf7fa73684230d4865de8ef8ec524e66f4e838/solr/core/src/java/org/apache/solr/handler/IndexFetcher.java
