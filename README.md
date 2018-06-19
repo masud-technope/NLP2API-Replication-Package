@@ -1,14 +1,16 @@
 # NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
 
-ICSME 2018 Paper: **Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics**
+Accepted Paper at ICMSE 2018
+============================
+**Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics**
+Authors: **Mohammad Masudur Rahman, and Chanchal K. Roy**
 
 
-Download Link:
+Download Links:
 =================
 - You can download from Google drive: https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-
-- You can clone the replication package from GitHub Repository: https://github.com/masud-technope/NLP2API-Replication-Package.git
-  using the following command
-  git clone https://github.com/masud-technope/NLP2API-Replication-Package.git YOUR-HOME-DIR
+- You can also clone the replication package from our GitHub Repository using the following command:
+  **git clone https://github.com/masud-technope/NLP2API-Replication-Package.git YOUR-HOME-DIR**
 
 
 Materials Included (19):
@@ -29,7 +31,7 @@ Materials Included (19):
 - **fastText.7z** : It contains our trained skip-gram model and fastText tool.
 (You need to unzip this file and make sure the **fasttext** command is working on your platform. 
   More details on this tool's dependencis can be found here: https://fasttext.cc/docs/en/support.html
-  Our model was developed using Windows version of the tool)
+  Our model was developed using Windows version of the fasttext)
   
 - **NL-Query+GroundTruth** : It contains NL query and ground truth API classes (i.e., the order is important)
 - **NLP2API-Results-Borda** :  It contains NL query and suggested API classes (Borda)
@@ -45,12 +47,13 @@ Materials Included (19):
 
 System Requirements:
 =====================
-- NLP2API was built with **JDK 1.8.0_74**. Please use the exact version or JDK 1.8.* for the successful execution/run.
-- **JDK 10 fails** to load some legacy dependencies of NLP2API
-- Tool was developed on Windows 10
+- JDK: NLP2API was built with **JDK 1.8.0_74**. Please use JDK 1.8.* for the successful execution/run. **JDK 10 fails** to load some legacy dependencies of NLP2API.
+- Operating System: Windows 10+
 - The path to the directory containing NLP2API materials should not contain any *space* characters.
 - Every compressed file should be de-compressed in the same directory. For example, dataset/answer-ext.7z should be dataset/answer-ext.
-- Make sure that fastText is working on your platform. To check, go to /fastText directory and execute "fasttext" on the command line.
+- Make sure that **fastText** is working on your platform. To check, go to **/fastText** directory and execute **fasttext** on the Windows command line. 
+If it shows the available options, then fastText is working. Otherwise, you have to take care of its dependencies (https://fasttext.cc/docs/en/support.html).
+
 
 
 Available Operations:
