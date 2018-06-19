@@ -74,11 +74,11 @@ Q.2: How to reformulate a given NL query or a file containing all the queries?
 ==================================================
 *** Reformulate a single query ***
 
-java -jar nlp2api-runner.jar -K 10 -task reformulate -query How do I send an HTML email?
+**java -jar nlp2api-runner.jar -K 10 -task reformulate -query How do I send an HTML email?**
 
 *** Reformulate all queries stored in a file ***
 
-java -jar nlp2api-runner.jar -K 10 -task reformulate -inputFile ./NL-Query+GroundTruth.txt -outputFile apiresults.txt
+**java -jar nlp2api-runner.jar -K 10 -task reformulate -inputFile ./NL-Query+GroundTruth.txt -outputFile apiresults.txt**
 
 Please note that each NL query is followed by ground truth API classes in the next line. 
 If you want to create a custom query file, please keep the queries at the odd lines. 
@@ -94,14 +94,14 @@ Ground Truth: Properties Session Message MimeMessage InternetAddress
 Q.3: How to determine API suggestion performance?
 =================================================================================
 
-java -jar nlp2api-runner.jar -K 10 -task evaluate-as -resultFile ./result/apiresults.txt
+**java -jar nlp2api-runner.jar -K 10 -task evaluate-as -resultFile ./result/apiresults.txt**
 
 This command reports Top-10 accuracy, MRR@10, MAP@10, and MR@10 for API suggestion
 
 Q.4: How to determine query improvement and worsening ratios of the reformulated queries?
 =================================================================================
 
-java -jar nlp2api-runner.jar -K 5 -task evaluate-qe -resultFile ./result/apiresults.txt
+**java -jar nlp2api-runner.jar -K 5 -task evaluate-qe -resultFile ./result/apiresults.txt**
 
 This commands reports query improvement, worsening, preserved ratios and mean rank differences with the initial queries.
 
@@ -109,21 +109,21 @@ This commands reports query improvement, worsening, preserved ratios and mean ra
 Q.5: How to get retrieval performance of the reformulated queries?
 =================================================
 
-java -jar nlp2api-runner.jar -K 10 -task evaluate-cs -resultFile ./result/apiresults.txt
+**java -jar nlp2api-runner.jar -K 10 -task evaluate-cs -resultFile ./result/apiresults.txt**
 
 This commands reports Top-10 accuracy and MRR@10 of code segment retrieval by NLP2API
 
 Q.6: How much improvements can be made over traditional web/code search engines' performance?
 =============================================================================================
 
-java -jar nlp2api-runner.jar -K 10 -task evaluate-se -se google 
+**java -jar nlp2api-runner.jar -K 10 -task evaluate-se -se google **
 
 This command reports Google's Top-10 performance with NL queries, and subsequent improvements using our reformulated queries.
 Possible se values are: "google","stackoverflow" and "github"
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 Contact: Masud Rahman (masud.rahman@usask.ca)
 
 
