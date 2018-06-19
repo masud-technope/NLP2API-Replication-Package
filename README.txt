@@ -26,7 +26,7 @@ Materials Included (19):
 
 - scripts : It contains batch script to access fastText model
 - fastText.7z : It contains our trained skip-gram model and fastText tool
-  (You need to unzip this file)
+  (You need to unzip this file and make sure the **fasttext** command is working. More details on this tool's dependencis can be found here: https://fasttext.cc/docs/en/support.html)
   
 - NL-Query+GroundTruth : It contains NL query and ground truth API classes (i.e., the order is important)
 - NLP2API-Results-Borda :  It contains NL query and suggested API classes (Borda)
