@@ -43,28 +43,28 @@ System Requirements:
 
 Available Operations:
 =====================
-- (1) Reformulate a query, i.e., reformulate
-- (2) Evaluate API suggestion performance, i.e., evaluate-as 
-- (3) Evaluate the effectiveness of the queries, i.e., evaluate-qe
-- (4) Evaluate the retrieval performance of queries, i.e., evaluate-cs
-- (5) Evaluation of queries using web/code search engines, i.e., evaluate-se
+- Reformulate a query, i.e., reformulate
+- Evaluate API suggestion performance, i.e., evaluate-as 
+- Evaluate the effectiveness of the queries, i.e., evaluate-qe
+- Evaluate the retrieval performance of queries, i.e., evaluate-cs
+- Evaluation of queries using web/code search engines, i.e., evaluate-se
 
 
 Required parameters for the operations:
 ======================================
-- (1) -K : expects the number of suggested API classes (e.g., default: 10)
-- (2) -query : expects a natural language query
-- (3) -queryFile : expects the file containing the natural language query (e.g., deafult: ./NL-Query+GroundTruth.txt)
-- (4) -outputFile : expects the output file name (e.g., default: ./NLP2API-queries.txt)
-- (5) -resultFile : same as outputFile
-- (6) -se : name of the search engine (e.g., google, stackoverflow, github)
+-  **-K** : expects the number of suggested API classes (e.g., default: 10)
+-  **-query** : expects a natural language query
+-  **-queryFile** : expects the file containing the natural language query (e.g., deafult: ./NL-Query+GroundTruth.txt)
+-  **-outputFile** : expects the output file name (e.g., default: ./NLP2API-queries.txt)
+-  **-resultFile** : same as outputFile
+-  **-se** : name of the search engine (e.g., google, stackoverflow, github)
 
 
 Q.1: How to install the NLP2API tool?
 ======================================
-- (1) Download all items from the Google drive, and keep in /home folder.
-- (2) Unzip all zip files, and make sure that they are in the home directory. For example, dataset/question-ext.7z should be /home/dataset/question-ext
-- (3) Run the tool from within the home directory.
+- Download all items from the Google drive, and keep in /home folder.
+- Unzip all zip files, and make sure that they are in the home directory. For example, dataset/question-ext.7z should be /home/dataset/question-ext
+- Run the tool from within the home directory.
 
 
 Q.2: How to reformulate a given NL query or a file containing all the queries?
