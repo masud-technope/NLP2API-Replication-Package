@@ -1,8 +1,8 @@
-# NLP2API-Replication-Package
+# NLP2API: Replication Package
 NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
 
 
-ICSME 2018 Paper: Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics
+ICSME 2018 Paper: **Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics**
 
 
 Materials Included (19):
@@ -38,7 +38,7 @@ Materials Included (19):
 System Requirements:
 =====================
 - NLP2API was built with **JDK 1.8.0_74**. Please use the exact version or JDK 1.8.* for the successful execution/run.
-- *JDK 10 fails* to load some legacy dependencies of NLP2API
+- **JDK 10 fails** to load some legacy dependencies of NLP2API
 - Tool was developed on Windows 10
 - The path to the directory containing NLP2API materials should not contain any *space* characters.
 - Every compressed file should be de-compressed in the same directory. For example, dataset/answer-ext.7z should be dataset/answer-ext.
@@ -46,27 +46,28 @@ System Requirements:
 
 Available Operations:
 =====================
-(1) Reformulate a query, i.e., reformulate
-(2) Evaluate API suggestion performance, i.e., evaluate-as 
-(3) Evaluate the effectiveness of the queries, i.e., evaluate-qe
-(4) Evaluate the retrieval performance of queries, i.e., evaluate-cs
-(5) Evaluation of queries using web/code search engines, i.e., evaluate-se
+- (1) Reformulate a query, i.e., reformulate
+- (2) Evaluate API suggestion performance, i.e., evaluate-as 
+- (3) Evaluate the effectiveness of the queries, i.e., evaluate-qe
+- (4) Evaluate the retrieval performance of queries, i.e., evaluate-cs
+- (5) Evaluation of queries using web/code search engines, i.e., evaluate-se
 
 
 Required parameters for the operations:
 ======================================
-(1) -K : expects the number of suggested API classes (e.g., default: 10)
-(2) -query : expects a natural language query
-(3) -queryFile : expects the file containing the natural language query (e.g., deafult: ./NL-Query+GroundTruth.txt)
-(4) -outputFile : expects the output file name (e.g., default: ./NLP2API-queries.txt)
-(5) -resultFile : same as outputFile
+- (1) -K : expects the number of suggested API classes (e.g., default: 10)
+- (2) -query : expects a natural language query
+- (3) -queryFile : expects the file containing the natural language query (e.g., deafult: ./NL-Query+GroundTruth.txt)
+- (4) -outputFile : expects the output file name (e.g., default: ./NLP2API-queries.txt)
+- (5) -resultFile : same as outputFile
+- (6) -se : name of the search engine (e.g., google, stackoverflow, github)
 
 
 Q.1: How to install the NLP2API tool?
 ======================================
-(1) Download all items from the Google drive, and keep in /home folder.
-(2) Unzip all zip files, and make sure that they are in the home directory. For example, dataset/question-ext.7z should be /home/dataset/question-ext
-(3) Run the tool from within the home directory.
+- (1) Download all items from the Google drive, and keep in /home folder.
+- (2) Unzip all zip files, and make sure that they are in the home directory. For example, dataset/question-ext.7z should be /home/dataset/question-ext
+- (3) Run the tool from within the home directory.
 
 
 Q.2: How to reformulate a given NL query or a file containing all the queries?
