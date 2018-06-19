@@ -1,9 +1,6 @@
-# NLP2API: Replication Package
-NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
-
+# NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
 
 ICSME 2018 Paper: **Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics**
-
 
 Materials Included (19):
 ========================
