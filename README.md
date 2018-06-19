@@ -5,32 +5,32 @@ ICSME 2018 Paper: **Effective Reformulation of Query for Code Search using  Crow
 Materials Included (19):
 ========================
 
-- code-ext-index : Lucene index of code segment corpus (310 ground truth code segments + 3,860 other code segments)
-- data : It contains stop words and Java programming keywords
-- candidate : Auxiliary folder storing candidate API classes 
+- **code-ext-index** : Lucene index of code segment corpus (310 ground truth code segments + 3,860 other code segments)
+- **data** : It contains stop words and Java programming keywords
+- **candidate** : Auxiliary folder storing candidate API classes 
 
-- dataset/qa-corpus-ext-index: Lucene index of programming Q & A threads of Stack Overflow
-- dataset/answer-ext.7z : It contains the HTML source of Stack Overflow answers
-- dataset/question-ext.7z : It contains the HTML source of Stack Overflow questions
+- **dataset/qa-corpus-ext-index**: Lucene index of programming Q & A threads of Stack Overflow
+- **dataset/answer-ext.7z** : It contains the HTML source of Stack Overflow answers
+- **dataset/question-ext.7z** : It contains the HTML source of Stack Overflow questions
  (You need to unzip these files)
-- dataset/answer-norm-code-ext-index : Lucene index of answer code segments of Stack Overflow
-- dataset/question-norm-code-ext-index : Lucene index of question code segments of Stack Overflow
+- **dataset/answer-norm-code-ext-index** : Lucene index of answer code segments of Stack Overflow
+- **dataset/question-norm-code-ext-index** : Lucene index of question code segments of Stack Overflow
 
-- scripts : It contains batch script to access fastText model
-- fastText.7z : It contains our trained skip-gram model and fastText tool
+- **scripts** : It contains batch script to access fastText model
+- **astText.7z** : It contains our trained skip-gram model and fastText tool
   (You need to unzip this file)
   
-- NL-Query+GroundTruth : It contains NL query and ground truth API classes (i.e., the order is important)
-- NLP2API-Results-Borda :  It contains NL query and suggested API classes (Borda)
-- NLP2API-Results-Q-A-Proximity :  It contains NL query and suggestd API classes (Q-A proximity)
-- NLP2API-Results : It contains NL query and suggestd API classes of NLP2API (i.e., both proxies combined)
-- nlp2api-runner.jar : The working prototype of NLP2API
-- oracle-310 : NL queries and ground truth API classes
+- **NL-Query+GroundTruth** : It contains NL query and ground truth API classes (i.e., the order is important)
+- **NLP2API-Results-Borda** :  It contains NL query and suggested API classes (Borda)
+- **NLP2API-Results-Q-A-Proximity** :  It contains NL query and suggestd API classes (Q-A proximity)
+- **NLP2API-Results** : It contains NL query and suggestd API classes of NLP2API (i.e., both proxies combined)
+- **nlp2api-runner.jar** : The working prototype of NLP2API
+- **oracle-310** : NL queries and ground truth API classes
 
-- lib : It contains all the dependency files (Optional). The tool is an executable JAR file, and hence already packages all the dependencies.
+- **lib** : It contains all the dependency files (Optional). The tool is an executable JAR file, and hence already packages all the dependencies.
 
-- README
-- LICENSE
+- **README**
+- **LICENSE**
 
 System Requirements:
 =====================
