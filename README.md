@@ -17,7 +17,7 @@ Materials Included (19):
 - **dataset/question-norm-code-ext-index** : Lucene index of question code segments of Stack Overflow
 
 - **scripts** : It contains batch script to access fastText model
-- **astText.7z** : It contains our trained skip-gram model and fastText tool
+- **fastText.7z** : It contains our trained skip-gram model and fastText tool
   (You need to unzip this file)
   
 - **NL-Query+GroundTruth** : It contains NL query and ground truth API classes (i.e., the order is important)
