@@ -43,11 +43,11 @@ System Requirements:
 
 Available Operations:
 =====================
-- Reformulate a query, i.e., reformulate
-- Evaluate API suggestion performance, i.e., evaluate-as 
-- Evaluate the effectiveness of the queries, i.e., evaluate-qe
-- Evaluate the retrieval performance of queries, i.e., evaluate-cs
-- Evaluation of queries using web/code search engines, i.e., evaluate-se
+- Reformulate a query, i.e., **reformulate**
+- Evaluate API suggestion performance, i.e., **evaluate-as** 
+- Evaluate the effectiveness of the queries, i.e., **evaluate-qe**
+- Evaluate the retrieval performance of queries, i.e., **evaluate-cs**
+- Evaluation of queries using web/code search engines, i.e., **evaluate-se**
 
 
 Required parameters for the operations:
@@ -62,7 +62,7 @@ Required parameters for the operations:
 
 Q.1: How to install the NLP2API tool?
 ======================================
-- Download all items from the Google drive, and keep in /home folder.
+- Download all items from the Google drive or GitHub, and keep in /home folder.
 - Unzip all zip files, and make sure that they are in the home directory. For example, dataset/question-ext.7z should be /home/dataset/question-ext
 - Run the tool from within the home directory.
 
