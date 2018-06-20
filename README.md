@@ -153,15 +153,10 @@ Possible se values are: google, stackoverflow and github
 Please cite our work as 
 
 `@INPROCEEDINGS{icsme2018masud,
-
 author={Rahman, M. M. and Roy, C. K.}, 
-
 booktitle={Proc. ICSME}, 
-
 title={Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics}, 
-
 year={2018}, 
-
 pages={12} 
 }`
 
