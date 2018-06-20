@@ -17,7 +17,6 @@ Download Links:
 
 Getting Started
 ======================
-- Execute **install.sh** to download all items and unzip the compressed files.
 - Execute **jdk-fasttext-checker.bat** to check whether your system meets the tool's requirements.
 - NLP2API might work sub-optimally or might not work if the system requirements are not properly met.
 
@@ -115,14 +114,14 @@ Ground Truth: Properties Session Message MimeMessage InternetAddress
 Q.3: How to determine API suggestion performance?
 =================================================================================
 
-**java -jar nlp2api-runner.jar -K 10 -task evaluate-as -resultFile ./result/apiresults.txt**
+**java -jar nlp2api-runner.jar -K 10 -task evaluate-as -resultFile ./NLP2API-Results.txt**
 
 This command reports Top-10 accuracy, MRR@10, MAP@10, and MR@10 for API suggestion
 
 Q.4: How to determine query improvement and worsening ratios of the reformulated queries?
 =================================================================================
 
-**java -jar nlp2api-runner.jar -K 5 -task evaluate-qe -resultFile ./result/apiresults.txt**
+**java -jar nlp2api-runner.jar -K 5 -task evaluate-qe -resultFile ./NLP2API-Results.txt**
 
 This commands reports query improvement, worsening, preserved ratios and mean rank differences with the initial queries.
 
@@ -130,7 +129,7 @@ This commands reports query improvement, worsening, preserved ratios and mean ra
 Q.5: How to get retrieval performance of the reformulated queries?
 =================================================
 
-**java -jar nlp2api-runner.jar -K 10 -task evaluate-cs -resultFile ./result/apiresults.txt**
+**java -jar nlp2api-runner.jar -K 10 -task evaluate-cs -resultFile ./NLP2API-Results.txt**
 
 This commands reports Top-10 accuracy and MRR@10 of code segment retrieval by NLP2API
 
