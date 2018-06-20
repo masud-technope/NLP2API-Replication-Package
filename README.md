@@ -27,8 +27,7 @@ Getting Started
 
 Materials Included (20):
 ========================
-
-- **code-ext-index** : Lucene index of code segment corpus (310 ground truth code segments + 3,860 other code segments)
+- **nlp2api-runner.jar** : The working prototype of NLP2API
 - **data** : It contains stop words and Java programming keywords
 - **candidate** : Auxiliary folder storing candidate API classes 
 
@@ -43,24 +42,26 @@ Materials Included (20):
 - **fastText.7z** : It contains our trained skip-gram model and fastText tool.
 (You need to unzip this file and make sure the **fasttext** command is working on your platform. 
   More details on this tool's dependencis can be found here: https://fasttext.cc/docs/en/support.html
-  Our model was developed using Windows version of the fasttext)
+  Our model was developed using Windows version of the fastText)
   
 - **NL-Query+GroundTruth** : It contains NL query and ground truth API classes (i.e., the order is important)
 - **NLP2API-Results-Borda** :  It contains NL query and suggested API classes (Borda)
 - **NLP2API-Results-Q-A-Proximity** :  It contains NL query and suggestd API classes (Q-A proximity)
 - **NLP2API-Results** : It contains NL query and suggestd API classes of NLP2API (i.e., both proxies combined)
-- **nlp2api-runner.jar** : The working prototype of NLP2API
+
 - **oracle-310** : NL queries and ground truth API classes
 
-- **lib** : It contains all the dependency files (Optional). The tool is an executable JAR file, and hence already packages all the dependencies.
+- **code-ext-index** : Lucene index of code segment corpus (310 ground truth code segments + 3,860 other code segments)
+
+- **lib** : It contains all the dependency files (Optional). The tool is an executable JAR file, and hence already packages all the dependencies except those required by fastText.
 - **jdk-fasttext-checker.bat** : It checks for Java 8 and fastText installations and their operation integrity.
 
 - **README**
 - **LICENSE**
 
 System Requirements:
-=====================
-- JDK: NLP2API was built with **JDK 1.8.0_74**. Please use JDK 1.8.* for the successful execution/run. **JDK 10 fails** to load some legacy dependencies of NLP2API.
+===================
+- JDK: NLP2API was built with **JDK 1.8.0_74**. Please use JDK 1.8.* for the successful execution/run. **JDK 10 fails** to load several legacy dependencies of NLP2API.
 - Operating System: Windows 10
 - The path to the directory containing NLP2API materials should not contain any *space* characters.
 - Every compressed file should be de-compressed in the same directory. For example, dataset/answer-ext.7z should be dataset/answer-ext.
@@ -74,7 +75,7 @@ Available Operations:
 - Evaluate API suggestion performance, i.e., **evaluate-as** 
 - Evaluate the effectiveness of the queries, i.e., **evaluate-qe**
 - Evaluate the retrieval performance of queries, i.e., **evaluate-cs**
-- Evaluation of queries using web/code search engines, i.e., **evaluate-se**
+- Evaluation of queries used by the web/code search engines, i.e., **evaluate-se**
 
 
 Required parameters for the operations:
@@ -84,13 +85,14 @@ Required parameters for the operations:
 -  **-queryFile** : expects the file containing the natural language query (e.g., deafult: ./NL-Query+GroundTruth.txt)
 -  **-outputFile** : expects the output file name (e.g., default: ./NLP2API-queries.txt)
 -  **-resultFile** : same as outputFile
--  **-se** : name of the search engine (e.g., google, stackoverflow, github)
+-  **-se** : expects the name of a search engine (e.g., google, stackoverflow, github)
 
 
 Q.1: How to install the NLP2API tool?
 ======================================
 - Download all items from the Google drive or GitHub, and keep in /home folder.
 - Unzip all zip files, and make sure that they are in the home directory. For example, dataset/question-ext.7z should be /home/dataset/question-ext
+- check Java and fastText installations using **jdk-fasttext-checker.bat**.
 - Run the tool from within the home directory.
 
 
@@ -106,7 +108,7 @@ Q.2: How to reformulate a given NL query or a file containing all the queries?
 
 Please note that each NL query is followed by ground truth API classes in the next line. 
 If you want to create a custom query file, please keep the queries at the odd lines. 
-The reformulation takes a few minutes.
+The reformulation of 310 queries takes a few minutes.
 The output file will be created inside the "home/result/" folder.
 
 Query File format:
@@ -131,7 +133,7 @@ This commands reports query improvement, worsening, preserved ratios and mean ra
 
 
 Q.5: How to get retrieval performance of the reformulated queries?
-=================================================
+=================================================================
 
 **java -jar nlp2api-runner.jar -K 10 -task evaluate-cs -resultFile ./NLP2API-Results.txt**
 
@@ -145,6 +147,16 @@ Q.6: How much improvements can be made over traditional web/code search engines'
 This command reports Google's Top-10 performance with NL queries, and subsequent improvements using our reformulated queries.
 Possible se values are: google, stackoverflow and github
 
+
+-----------------------------------------------------------------------------------------------------------
+Please cite our work as 
+
+`@INPROCEEDINGS{icsme2018masud, 
+author={Rahman, M. M. and Roy, C. K.}, 
+booktitle={Proc. ICSME}, 
+title={Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics}, 
+year={2018}, pages={12} 
+}`
 
 -----------------------------------------------------------------------------------------------------------
 Contact: Masud Rahman (masud.rahman@usask.ca)
