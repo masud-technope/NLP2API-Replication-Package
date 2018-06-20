@@ -15,6 +15,13 @@ Download Links:
   **git clone https://github.com/masud-technope/NLP2API-Replication-Package.git YOUR-HOME-DIR**
 
 
+Getting Started
+======================
+- Execute **install.sh** to download all items and unzip the compressed files.
+- Execute **jdk-fasttext-checker.bat** to check whether your system meets the tool's requirements.
+- NLP2API might work sub-optimally or might not work if the system requirements are not properly met.
+
+
 Materials Included (19):
 ========================
 
