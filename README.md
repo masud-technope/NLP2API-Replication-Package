@@ -10,18 +10,22 @@ Authors: **Mohammad Masudur Rahman, and Chanchal K. Roy**
 Download Links:
 =================
 - You can download from Google drive: https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-
+
+
 - You can also clone the replication package from our GitHub Repository using the following command:
-  
+
   **git clone https://github.com/masud-technope/NLP2API-Replication-Package.git YOUR-HOME-DIR**
+  
+  *Warning!!! GitHub is not delivering the large files properly*
 
 
 Getting Started
 ======================
 - Execute **jdk-fasttext-checker.bat** to check whether your system meets the tool's requirements.
-- NLP2API might work sub-optimally or might not work if the system requirements are not properly met.
+- NLP2API might work sub-optimally or might not work at all if the system requirements are not properly met.
 
 
-Materials Included (19):
+Materials Included (20):
 ========================
 
 - **code-ext-index** : Lucene index of code segment corpus (310 ground truth code segments + 3,860 other code segments)
@@ -49,6 +53,7 @@ Materials Included (19):
 - **oracle-310** : NL queries and ground truth API classes
 
 - **lib** : It contains all the dependency files (Optional). The tool is an executable JAR file, and hence already packages all the dependencies.
+- **jdk-fasttext-checker.bat** : It checks for Java 8 and fastText installations and their operation integrity.
 
 - **README**
 - **LICENSE**
@@ -140,7 +145,6 @@ Q.6: How much improvements can be made over traditional web/code search engines'
 
 This command reports Google's Top-10 performance with NL queries, and subsequent improvements using our reformulated queries.
 Possible se values are: "google","stackoverflow" and "github"
-
 
 
 -----------------------------------------------------------------------------------------------------------
