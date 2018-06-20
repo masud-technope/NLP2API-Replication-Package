@@ -4,7 +4,7 @@ Accepted Paper at ICMSE 2018
 ============================
 **Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics**
 
-Authors: **Mohammad Masudur Rahman, and Chanchal K. Roy**
+Authors: **Mohammad Masudur Rahman** and **Chanchal K. Roy**
 
 
 Download Links:
@@ -61,12 +61,11 @@ Materials Included (20):
 System Requirements:
 =====================
 - JDK: NLP2API was built with **JDK 1.8.0_74**. Please use JDK 1.8.* for the successful execution/run. **JDK 10 fails** to load some legacy dependencies of NLP2API.
-- Operating System: Windows 10+
+- Operating System: Windows 10
 - The path to the directory containing NLP2API materials should not contain any *space* characters.
 - Every compressed file should be de-compressed in the same directory. For example, dataset/answer-ext.7z should be dataset/answer-ext.
 - Make sure that **fastText** is working on your platform. To check, go to **/fastText** directory and execute **fasttext** on the Windows command line. 
 If it shows the available options, then fastText is working. Otherwise, you have to take care of its dependencies (https://fasttext.cc/docs/en/support.html).
-
 
 
 Available Operations:
@@ -97,11 +96,11 @@ Q.1: How to install the NLP2API tool?
 
 Q.2: How to reformulate a given NL query or a file containing all the queries?
 ==================================================
-*** Reformulate a single query ***
+*Reformulate a single query *
 
 **java -jar nlp2api-runner.jar -K 10 -task reformulate -query How do I send an HTML email?**
 
-*** Reformulate all queries stored in a file ***
+*Reformulate all queries stored in a file*
 
 **java -jar nlp2api-runner.jar -K 10 -task reformulate -inputFile ./NL-Query+GroundTruth.txt -outputFile apiresults.txt**
 
@@ -144,7 +143,7 @@ Q.6: How much improvements can be made over traditional web/code search engines'
 **java -jar nlp2api-runner.jar -K 10 -task evaluate-se -se google**
 
 This command reports Google's Top-10 performance with NL queries, and subsequent improvements using our reformulated queries.
-Possible se values are: "google","stackoverflow" and "github"
+Possible se values are: google, stackoverflow and github
 
 
 -----------------------------------------------------------------------------------------------------------
