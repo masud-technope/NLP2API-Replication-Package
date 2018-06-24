@@ -4,9 +4,9 @@ NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Ex
 Accepted Paper at ICMSE 2018
 ---------------------------------
 ```
-**Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics**
+Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics
 
-Mohammad Masudur Rahman** and **Chanchal K. Roy
+Mohammad Masudur Rahman and Chanchal K. Roy
 ```
 
 
@@ -15,7 +15,7 @@ Download Links
 - You can download from Google drive: https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-
 - You can also clone the replication package from our GitHub Repository using the following command:
   ```
-  **git clone https://github.com/masud-technope/NLP2API-Replication-Package.git YOUR-HOME-DIR**
+  git clone https://github.com/masud-technope/NLP2API-Replication-Package.git YOUR-HOME-DIR
   ```
   
   **Warning!!! GitHub is not delivering the large files properly**
@@ -101,7 +101,7 @@ Q.2: How to reformulate a given NL query or a file containing all the queries?
 ==================================================
 Reformulate a single query
 ```
-java -jar nlp2api-runner.jar -K 10 -task reformulate -query How do I send an HTML email?**
+java -jar nlp2api-runner.jar -K 10 -task reformulate -query How do I send an HTML email?
 ```
 
 Reformulate all queries stored in a file
@@ -123,7 +123,7 @@ Query File format
 Q.3: How to determine API suggestion performance?
 -------------------------------------------------------
 ```
-java -jar nlp2api-runner.jar -K 10 -task evaluate-as -resultFile ./NLP2API-Results.txt**
+java -jar nlp2api-runner.jar -K 10 -task evaluate-as -resultFile ./NLP2API-Results.txt
 ```
 
 This command reports Top-10 accuracy, MRR@10, MAP@10, and MR@10 for API suggestion
@@ -131,7 +131,7 @@ This command reports Top-10 accuracy, MRR@10, MAP@10, and MR@10 for API suggesti
 Q.4: How to determine query improvement and worsening ratios of the reformulated queries?
 ---------------------------------------------------------------------------------------------
 ```
-java -jar nlp2api-runner.jar -K 5 -task evaluate-qe -resultFile ./NLP2API-Results.txt**
+java -jar nlp2api-runner.jar -K 5 -task evaluate-qe -resultFile ./NLP2API-Results.txt
 ```
 
 This commands reports query improvement, worsening, preserved ratios and mean rank differences with the initial queries.
@@ -140,7 +140,7 @@ This commands reports query improvement, worsening, preserved ratios and mean ra
 Q.5: How to get retrieval performance of the reformulated queries?
 --------------------------------------------------------------------------
 ```
-java -jar nlp2api-runner.jar -K 10 -task evaluate-cs -resultFile ./NLP2API-Results.txt**
+java -jar nlp2api-runner.jar -K 10 -task evaluate-cs -resultFile ./NLP2API-Results.txt
 ```
 
 This commands reports Top-10 accuracy and MRR@10 of code segment retrieval by NLP2API
@@ -148,7 +148,7 @@ This commands reports Top-10 accuracy and MRR@10 of code segment retrieval by NL
 Q.6: How much improvements can be made over traditional web/code search engines' performance?
 ----------------------------------------------------------------------------------------------------
 ```
-java -jar nlp2api-runner.jar -K 10 -task evaluate-se -se google**
+java -jar nlp2api-runner.jar -K 10 -task evaluate-se -se google
 ```
 
 This command reports Google's Top-10 performance with NL queries, and subsequent improvements using our reformulated queries.
