@@ -11,6 +11,11 @@ Dependencies:
 # clone repository from GitHub
 # git clone https://github.com/masud-technope/NLP2API-Replication-Package.git NLP2API
 
+# clone NLP2API source code from GitHub
+# cd NLP2API
+# git clone https://github.com/masud-technope/NLP2API-Tool  NLP2API-Tool
+
+
 # GitHub skips large files which are stored on Google Drive
 # Now downloading the rest files
 # cd NLP2API
@@ -42,6 +47,7 @@ mkdir fastText
 7z e fastText.7z -o\fastText
 
 echo "Downloaded and unzipped the large files successfully!"
+
 
 
 # Please contact Masud Rahman (masud.rahman@usask) for further assistance.
