@@ -20,7 +20,7 @@ Mohammad Masudur Rahman and Chanchal K. Roy
 
 Artifact Download Links
 ---------------------
-- You can download from Google drive: https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-
+- You can download from [Google drive](https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-)
 - You can also clone the replication package from our GitHub Repository using the following command:
   ```
   git clone https://github.com/masud-technope/NLP2API-Replication-Package.git NLP2API
@@ -58,7 +58,7 @@ Materials Included (23)
 (You need to unzip this file manually if INSTALL script fails. Once decompressed, you need to execute ```FastTextChecker.py``` to make sure that fastText is working
 - ```fastText-windows.7z``` : It contains our trained skip-gram model and fastText tool (windows-based).
 (You need to unzip this file and make sure the **fasttext** command is working on your platform. 
-  More details on this tool's dependencis can be found here: *https://fasttext.cc/docs/en/support.html*
+  More details on this tool's dependencis can be found [here](https://fasttext.cc/docs/en/support.html)
   Our model was developed using Windows version of this fastText)
   
   **You can choose one of these two versions based on your platform**
