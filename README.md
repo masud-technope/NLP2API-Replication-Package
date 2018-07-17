@@ -4,17 +4,20 @@ NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Ex
 Accepted Papers at ICMSE 2018
 ---------------------------------
 ```
-Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics
+**TCSE Distinguished Paper Award Nomination**
+
+Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics [download](http://homepage.usask.ca/~masud.rahman/publication.php)
+
+Mohammad Masudur Rahman and Chanchal K. Roy 
+```
+```
+NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics [download](http://homepage.usask.ca/~masud.rahman/publication.php)
 
 Mohammad Masudur Rahman and Chanchal K. Roy
 ```
-```
-NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
 
-Mohammad Masudur Rahman and Chanchal K. Roy
-```
 
-Download Links
+Artifact Download Links
 ---------------------
 - You can download from Google drive: https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-
 - You can also clone the replication package from our GitHub Repository using the following command:
