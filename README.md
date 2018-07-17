@@ -8,14 +8,11 @@ Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge a
 
 Mohammad Masudur Rahman and Chanchal K. Roy
 ```
-
 ```
 NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
 
 Mohammad Masudur Rahman and Chanchal K. Roy
 ```
-```
-
 
 Download Links
 ---------------------
@@ -30,7 +27,6 @@ Download Links
   ```
   *Please send me (masud.rahman@usask.ca) an email if the INSTALL script does not work*
   
-
 
 Getting Started
 -------------------
