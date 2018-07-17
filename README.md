@@ -19,7 +19,7 @@ Download Links
 - You can download from Google drive: https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-
 - You can also clone the replication package from our GitHub Repository using the following command:
   ```
-  git clone https://github.com/masud-technope/NLP2API-Replication-Package.git YOUR-HOME-DIR
+  git clone https://github.com/masud-technope/NLP2API-Replication-Package.git NLP2API
   
   cd NLP2API
     
@@ -30,7 +30,7 @@ Download Links
 
 Getting Started
 -------------------
-- Execute **jdk-fasttext-checker.bat** to check whether your system meets the tool's requirements.
+- Execute **jdk-fasttext-checker** to check whether your system meets the tool's requirements.
 - NLP2API might work sub-optimally or might not work at all if the system requirements are not properly met.
 
 
@@ -106,7 +106,7 @@ Q.1: How to install the NLP2API tool?
 --------------------------------------------------
 - Download all items from the Google drive or GitHub, and keep in /home folder.
 - Unzip all zip files, and make sure that they are in the home directory. For example, **dataset/question-ext.7z** should be **/home/dataset/question-ext**
-- check Java and fastText installations using **jdk-fasttext-checker.bat**.
+- check Java and fastText installations using **jdk-fasttext-checker**.
 - Run the tool from within the home directory.
 
 
@@ -186,11 +186,11 @@ pages={12}
 author={Rahman, M. M. and Roy, C. K.}, 
 booktitle={Proc. ICSME}, 
 title={NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics }, 
-year={2018}, p
-ages={1} 
+year={2018}, 
+pages={1} 
 }
 ```
-
+-------------------------------------------------------------------------
 Contact: Masud Rahman (masud.rahman@usask.ca)
 
 
