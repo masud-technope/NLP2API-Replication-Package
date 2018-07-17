@@ -42,7 +42,7 @@ Materials Included (23)
 ------------------------------
 - ```INSTALL.sh``` : The script downloads and unzips large files from Google Drive.
 - ```nlp2api-runner.jar``` : The working prototype of NLP2API (cross-platform). Version 0.0.0 is windows-based only.
-- ```NLP2API```: Source code can be cloned from this repository (git clone https://github.com/masud-technope/NLP2API-Tool)
+- ```NLP2API```: **SOURCE CODE** can be cloned from [**this repository**](https://github.com/masud-technope/NLP2API-Tool)
 - ```data``` : It contains stop words and Java programming keywords
 - ```candidate``` : Auxiliary folder storing candidate API classes 
 
@@ -85,7 +85,10 @@ System Requirements
 - Operating System: Cross-plaform (nlp2api-runner.jar), Windows 10 (nlp2api-runner-0.0.0.jar) 
 - The path to the directory containing NLP2API materials should not contain any *space* characters.
 - Every compressed file should be de-compressed in the same directory. For example, dataset/answer-ext.7z should be dataset/answer-ext.
-- Make sure that **fastText** is working on your platform. To check, go to **/fastText** directory and execute **fasttext** on the Windows command line. If it shows the available options, then fastText is working. Otherwise, you have to take care of its dependencies (https://fasttext.cc/docs/en/support.html).
+- Make sure that **fastText** is working on your platform. Run ```FastTextChecker.py``` for checking. 
+For windows-based fastText, go to **/fastText** directory and execute **fasttext** on the Windows command line. 
+If it shows the available options, then fastText is working. Otherwise, you have to take care of [its dependencies](https://fasttext.cc/docs/en/support.html).
+
 
 
 Available Operations
