@@ -6,15 +6,16 @@ Accepted Papers at ICMSE 2018
 ```
 **TCSE Distinguished Paper Award Nomination**
 
-Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics [download](http://homepage.usask.ca/~masud.rahman/publication.php)
+Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics 
 
 Mohammad Masudur Rahman and Chanchal K. Roy 
 ```
 ```
-NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics [download](http://homepage.usask.ca/~masud.rahman/publication.php)
+NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics 
 
 Mohammad Masudur Rahman and Chanchal K. Roy
 ```
+[Download these papers](http://homepage.usask.ca/~masud.rahman/publication.php)
 
 
 Artifact Download Links
