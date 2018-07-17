@@ -1,12 +1,19 @@
 NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
 =======================================================================================================
 
-Accepted Paper at ICMSE 2018
+Accepted Papers at ICMSE 2018
 ---------------------------------
 ```
 Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge and Extra-Large Data Analytics
 
 Mohammad Masudur Rahman and Chanchal K. Roy
+```
+
+```
+NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
+
+Mohammad Masudur Rahman and Chanchal K. Roy
+```
 ```
 
 
@@ -16,9 +23,13 @@ Download Links
 - You can also clone the replication package from our GitHub Repository using the following command:
   ```
   git clone https://github.com/masud-technope/NLP2API-Replication-Package.git YOUR-HOME-DIR
-  ```
   
-  **Warning!!! GitHub is not delivering the large files properly**
+  cd NLP2API
+    
+  sh INSTALL.sh
+  ```
+  *Please send me (masud.rahman@usask.ca) an email if the INSTALL script does not work*
+  
 
 
 Getting Started
@@ -27,9 +38,10 @@ Getting Started
 - NLP2API might work sub-optimally or might not work at all if the system requirements are not properly met.
 
 
-Materials Included (20)
+Materials Included (23)
 ------------------------------
-- ```nlp2api-runner.jar``` : The working prototype of NLP2API
+- ```INSTALL.sh``` : The script downloads and unzips large files from Google Drive.
+- ```nlp2api-runner.jar``` : The working prototype of NLP2API (cross-platform). Version 0.0.0 is windows-based only.
 - ```data``` : It contains stop words and Java programming keywords
 - ```candidate``` : Auxiliary folder storing candidate API classes 
 
@@ -41,10 +53,14 @@ Materials Included (20)
 - ```dataset/question-norm-code-ext-index``` : Lucene index of question code segments of Stack Overflow
 
 - ```scripts``` : It contains batch script to access fastText model
-- ```fastText.7z``` : It contains our trained skip-gram model and fastText tool.
+- ```fastText.7z``` : It contains our trained skip-gram model and fastText implementation using ```gensim```. It is cross-platform hopefully.
+(You need to unzip this file manually if INSTALL script fails. Once decompressed, you need to execute ```FastTextChecker.py``` to make sure that fastText is working
+- ```fastText-windows.7z``` : It contains our trained skip-gram model and fastText tool (windows-based).
 (You need to unzip this file and make sure the **fasttext** command is working on your platform. 
-  More details on this tool's dependencis can be found here: https://fasttext.cc/docs/en/support.html
-  Our model was developed using Windows version of the fastText)
+  More details on this tool's dependencis can be found here: *https://fasttext.cc/docs/en/support.html*
+  Our model was developed using Windows version of this fastText)
+  
+  **You can choose one of these two versions based on your platform**
   
 - ```NL-Query+GroundTruth``` : It contains NL query and ground truth API classes (i.e., the order is important)
 - ```NLP2API-Results-Borda``` :  It contains NL query and suggested API classes (Borda)
@@ -56,7 +72,8 @@ Materials Included (20)
 - ```code-ext-index``` : Lucene index of code segment corpus (310 ground truth code segments + 3,860 other code segments)
 
 - ```lib``` : It contains all the dependency files (Optional). The tool is an executable JAR file, and hence already packages all the dependencies except those required by fastText.
-- ```jdk-fasttext-checker.bat``` : It checks for Java 8 and fastText installations and their operation integrity.
+- ```jdk-fasttext-checker``` : It checks for Java 8 and fastText installations and their operation integrity.
+- ```FastTextChecker.py``` :  It checks the installation of fastText
 
 - ```README```
 - ```LICENSE```
@@ -64,7 +81,7 @@ Materials Included (20)
 System Requirements
 ---------------------------
 - JDK: NLP2API was built with **JDK 1.8.0_74**. Please use JDK 1.8.* for the successful execution/run. **JDK 10 fails** to load several legacy dependencies of NLP2API.
-- Operating System: Windows 10
+- Operating System: Cross-plaform (nlp2api-runner.jar), Windows 10 (nlp2api-runner-0.0.0.jar) 
 - The path to the directory containing NLP2API materials should not contain any *space* characters.
 - Every compressed file should be de-compressed in the same directory. For example, dataset/answer-ext.7z should be dataset/answer-ext.
 - Make sure that **fastText** is working on your platform. To check, go to **/fastText** directory and execute **fasttext** on the Windows command line. If it shows the available options, then fastText is working. Otherwise, you have to take care of its dependencies (https://fasttext.cc/docs/en/support.html).
@@ -72,11 +89,11 @@ System Requirements
 
 Available Operations
 ----------------------------
-- Reformulate a query, i.e., ```reformulate```
-- Evaluate API suggestion performance, i.e., ```evaluate-as``` 
-- Evaluate the effectiveness of the queries, i.e., ```evaluate-qe```
-- Evaluate the retrieval performance of queries, i.e., ```evaluate-cs```
-- Evaluation of queries used by the web/code search engines, i.e., ```evaluate-se```
+- ```reformulate``` :  Returns a list of API classes for one or more NL queries.
+- ```evaluate-as``` :  Evaluates the accuracy of suggested API classes against ground truth. 
+- ```evaluate-qe``` :  Evaluates improvement, worsening and preserving of baseline queries by NLP2API.
+- ```evaluate-cs``` :  Evaluates the code retrieval performance of queries.
+- ```evaluate-se``` :  Evaluates the improvement of code search results by search engines when reformulated queries (of NLP2API) are used.
 
 
 Required parameters for the operations
@@ -165,6 +182,16 @@ booktitle={Proc. ICSME},
 title={Effective Reformulation of Query for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics}, 
 year={2018}, 
 pages={12} 
+}
+```
+
+```
+@INPROCEEDINGS{icsme2018masudb, 
+author={Rahman, M. M. and Roy, C. K.}, 
+booktitle={Proc. ICSME}, 
+title={NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics }, 
+year={2018}, p
+ages={1} 
 }
 ```
 
