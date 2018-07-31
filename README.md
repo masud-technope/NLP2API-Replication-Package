@@ -1,7 +1,7 @@
 NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics
 =======================================================================================================
 
-Accepted Papers at ICMSE 2018
+Accepted Papers at ICSME 2018
 ---------------------------------
 ```
 **TCSE Distinguished Paper Award Nomination**
