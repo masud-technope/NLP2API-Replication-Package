@@ -198,8 +198,17 @@ year={2018},
 pages={1} 
 }
 ```
--------------------------------------------------------------------------
+
+Something not working as expected?
+------------------------------------------------------------------------
 Contact: Masud Rahman (masud.rahman@usask.ca)
+
+OR
+
+Create an issue from [here](https://github.com/masud-technope/NLP2API-Replication-Package/issues/new)
+
+
+
 
 
 
