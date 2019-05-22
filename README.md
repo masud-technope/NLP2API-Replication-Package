@@ -10,12 +10,16 @@ Effective Reformulation of Query for Code Search using  Crowdsourced Knowledge a
 
 Mohammad Masudur Rahman and Chanchal K. Roy 
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSME2018.pdf)
+
 ```
 NLP2API: Query Reformulation for Code Search using Crowdsourced Knowledge and Extra-Large Data Analytics 
 
 Mohammad Masudur Rahman and Chanchal K. Roy
 ```
-[Download these papers](http://homepage.usask.ca/~masud.rahman/publication.php)
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSME2018-AF.pdf)
 
 
 Artifact Download Links
@@ -188,6 +192,8 @@ year={2018},
 pages={12} 
 }
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSME2018.pdf)
 
 ```
 @INPROCEEDINGS{icsme2018masudb, 
@@ -198,6 +204,8 @@ year={2018},
 pages={1} 
 }
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSME2018-AF.pdf)
 
 Something not working as expected?
 ------------------------------------------------------------------------
