@@ -21,6 +21,8 @@ Mohammad Masudur Rahman and Chanchal K. Roy
 **Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
      alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSME2018-AF.pdf)
 
+**Do you want to check [RACK](https://github.com/masud-technope/RACK-Replication-Package) also?**
+-----------------------------
 
 Artifact Download Links
 ---------------------
