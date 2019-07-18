@@ -48,7 +48,7 @@ Materials Included (23)
 ------------------------------
 - ```INSTALL.sh``` : The script downloads and unzips large files from Google Drive.
 - ```nlp2api-runner.jar``` : The working prototype of NLP2API (cross-platform). Version 0.0.0 is windows-based only.
-- ```NLP2API```: **SOURCE CODE** can be cloned from [**this repository**](https://github.com/masud-technope/NLP2API-Tool)
+- ```NLP2API```: [**SOURCE CODE can be cloned from this repository**](https://github.com/masud-technope/NLP2API-Tool)
 - ```data``` : It contains stop words and Java programming keywords
 - ```candidate``` : Auxiliary folder storing candidate API classes 
 
