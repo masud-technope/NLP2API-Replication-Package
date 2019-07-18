@@ -26,7 +26,7 @@ Mohammad Masudur Rahman and Chanchal K. Roy
 
 Artifact Download Links
 ---------------------
-- You can download from [Google drive](https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-)
+- You can download from [**Google drive**](https://drive.google.com/drive/folders/1y-W0BllWlZwcRq2D0iEtP5qZ1nvJ_a2-)
 - You can also clone the replication package from our GitHub Repository using the following command:
   ```
   git clone https://github.com/masud-technope/NLP2API-Replication-Package.git NLP2API
