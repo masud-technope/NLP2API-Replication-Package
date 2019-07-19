@@ -21,8 +21,17 @@ Mohammad Masudur Rahman and Chanchal K. Roy
 **Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
      alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSME2018-AF.pdf)
 
+
+
+**Abstract:** Software developers frequently issue generic natural language queries for code search while using code search engines (e.g., GitHub native search, Krugle). Such queries often do not lead to any relevant results due to vocabulary mismatch problems. In this paper, we propose a novel technique that automatically identifies relevant and specific API classes from Stack Overflow Q & A site for a programming task written as a natural language query, and then reformulates the query for improved code search. We first collect candidate API classes from Stack Overflow using pseudo-relevance feedback and two term weighting algorithms, and then rank the candidates using Borda count and semantic proximity between query keywords and the API classes. The semantic proximity has been determined by an analysis of 1.3 million questions and answers of Stack Overflow. Experiments using 310 code search queries report that our technique suggests relevant API classes with 48% precision and 58% recall which are 32% and 48% higher respectively than those of the state-of-the-art. Comparisons with two state- of-the-art studies and three popular search engines (e.g., Google, Stack Overflow, and GitHub native search) report that our reformulated queries (1) outperform the queries of the state- of-the-art, and (2) significantly improve the code search results provided by these contemporary search engines.
+
+![Distinguished Paper Award Nomination](http://homepage.usask.ca/~masud.rahman/nlp2api/img/dpa-150.png) ![Artifact Verified by ICSME 2018](http://homepage.usask.ca/~masud.rahman/nlp2api/img/verified-150.png)
+----------------------------------
+
+
 **Do you want to check [RACK](https://github.com/masud-technope/RACK-Replication-Package) also?**
 -----------------------------
+
 
 Artifact Download Links
 ---------------------
