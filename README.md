@@ -44,7 +44,7 @@ Artifact Download Links
     
   sh INSTALL.sh
   ```
-  *Please send me (masud.rahman@usask.ca) an email or create an issue report if the INSTALL script does not work*
+  Please send me (**masud.rahman@usask.ca**) an email or create an issue report if the INSTALL script does not work
   
 
 Getting Started
